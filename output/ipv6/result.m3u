@@ -245,6 +245,8 @@ https://live.chinacert.cftest5.cn/zgst/live/hubei
 http://gxyd.484947.xyz/PLTV/77777777/224/3221225721/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/湖北卫视.png" group-title="卫视频道",湖北卫视
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226713/1.m3u8
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/湖北卫视.png" group-title="卫视频道",湖北卫视
+https://live.douyin.com/596554118511
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/安徽卫视.png" group-title="卫视频道",安徽卫视
 http://mg.hmysapp.cn:177/卫视/安徽卫视.php?id=301
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/安徽卫视.png" group-title="卫视频道",安徽卫视
@@ -1235,6 +1237,8 @@ https://stream1.freetv.fun/animax-1.m3u8
 https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="德国之声" tvg-name="德国之声" tvg-logo="https://www.xn--rgv465a.top/tvlogo/德国之声.png" group-title="台湾频道",德国之声
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
+#EXTINF:-1 tvg-id="德国之声" tvg-name="德国之声" tvg-logo="https://www.xn--rgv465a.top/tvlogo/德国之声.png" group-title="台湾频道",德国之声
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/master.m3u8
 #EXTINF:-1 tvg-id="欢乐集结号" tvg-name="欢乐集结号" tvg-logo="https://www.xn--rgv465a.top/tvlogo/欢乐集结号.png" group-title="综艺频道",欢乐集结号
 https://live.ottiptv.cc/yy/1382735550
 #EXTINF:-1 tvg-id="欢乐集结号" tvg-name="欢乐集结号" tvg-logo="https://www.xn--rgv465a.top/tvlogo/欢乐集结号.png" group-title="综艺频道",欢乐集结号
@@ -2519,6 +2523,8 @@ https://live.chinacert.cftest5.cn/zgst/live/hubei
 http://gxyd.484947.xyz/PLTV/77777777/224/3221225721/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/湖北卫视.png" group-title="湖北",湖北卫视
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226713/1.m3u8
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/湖北卫视.png" group-title="湖北",湖北卫视
+https://live.douyin.com/596554118511
 #EXTINF:-1 tvg-id="湖北综合" tvg-name="湖北综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/湖北综合.png" group-title="湖北",湖北综合
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072216f7da/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNLx3R3LdIBdA5q61lut1LwZcw4SC2tJubc%2Bq5t%2F61jvWCtjrJL0x%2BHncPgdmcbBW9I
 #EXTINF:-1 tvg-id="湖北综合" tvg-name="湖北综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/湖北综合.png" group-title="湖北",湖北综合
@@ -3297,6 +3303,10 @@ http://live1.gatv.com.cn:85/live/GGPD.m3u8
 http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8
 #EXTINF:-1 tvg-id="广安新闻" tvg-name="广安公共" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广安公共.png" group-title="四川",广安公共
 http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8?zsicd
+#EXTINF:-1 tvg-id="达州新闻" tvg-name="达州新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/达州新闻.png" group-title="四川",达州新闻
+https://live.douyin.com/66329622737
+#EXTINF:-1 tvg-id="达州新闻" tvg-name="达州公共" tvg-logo="https://www.xn--rgv465a.top/tvlogo/达州公共.png" group-title="四川",达州公共
+https://live.douyin.com/66329622737
 #EXTINF:-1 tvg-id="巴中综合" tvg-name="巴中综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/巴中综合.png" group-title="四川",巴中综合
 http://iptv.666230.xyz/iptv/sxg.php/bzytH265_4000
 #EXTINF:-1 tvg-id="巴中综合" tvg-name="巴中文旅" tvg-logo="https://www.xn--rgv465a.top/tvlogo/巴中文旅.png" group-title="四川",巴中文旅
@@ -4073,5 +4083,5 @@ https://vd4.bdstatic.com/mda-nbs2g61ckhkp9kyf/cae_h264_delogo/164608382392195039
 https://vd4.bdstatic.com/mda-nbj5j97hp8hmftpq/cae_h264_nowatermark_delogo/1645329621335838955/mda-nbj5j97hp8hmftpq.mp4?v_from_s=hkapp-haokan-hna&auth_key=1650257611-0-0-9d8348a91ae91b3a0bf698f00a06df57&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&watermark=0&did=&logid=1411194650&vid=14611028137059077438&pt=0&appver=&model=&cr=0&abtest=peav_l52&sle=1&sl=765&split=687320
 #EXTINF:-1 tvg-id="广场舞43" tvg-name="广场舞43" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广场舞43.png" group-title="广*场*舞",广场舞43
 https://vd3.bdstatic.com/mda-nd9gfk9i5gjjc949/cae_h264_delogo/1649590943331366674/mda-nd9gfk9i5gjjc949.mp4?v_from_s=hkapp-haokan-hna&auth_key=1650257611-0-0-7052678f09559f6ca353cbd52bef7c6b&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&watermark=0&did=&logid=1411194650&vid=11826523506628151737&pt=0&appver=&model=&cr=0&abtest=peav_l52&sle=1&sl=791&split=73128
-#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-06-01 23:37:06
+#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-06-02 22:02:35
 https://live.chinacert.cftest5.cn/cnmg/live/608807420
