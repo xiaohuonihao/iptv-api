@@ -13,7 +13,7 @@ http://rihou.cc:555/tv/[Hv]
 http://rihou.cc:555/tv/[SZ]
 https://4gtv.dxjc.pp.ua
 https://smart.dxjc.pp.ua/smart.php
-live.264788.xyz
+live.264788.xyz/channel
 74.91.26.218:82
 wstvcpudali.v.myalicdn.com
 
