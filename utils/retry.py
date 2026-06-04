@@ -36,6 +36,8 @@ def locate_element_with_retry(
     """
     Locate the element with retry
     """
+    if not config.open_driver:
+        return None
     wait = WebDriverWait(driver, timeout)
     for _ in range(retries):
         try:
@@ -51,6 +53,8 @@ def find_clickable_element_with_retry(
     """
     Find the clickable element with retry
     """
+    if not config.open_driver:
+        return None
     wait = WebDriverWait(driver, timeout)
     for _ in range(retries):
         try:
