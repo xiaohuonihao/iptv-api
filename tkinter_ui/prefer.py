@@ -66,6 +66,11 @@ class PreferUI:
         self.prefer_ipv_type_combo.bind(
             "<<ComboboxSelected>>", self.update_ipv_type_prefer
         )
+        self.ipv_type_input = []
+        for ipv_type in ["ipv4", "ipv6"]:
+            input = IpvNumInput(root, ipv_type)
+            input.entry.bind("<KeyRelease>", input.update_input)
+            self.ipv_type_input.append(input)
 
         frame_prefer_open_supply = tk.Frame(root)
         frame_prefer_open_supply.pack(fill=tk.X)
@@ -84,10 +89,13 @@ class PreferUI:
         self.open_supply_checkbutton.pack(side=tk.LEFT, padx=4, pady=8)
 
     def get_origin_type_prefer_index(self, origin_type_prefer):
-        index_list = [None, None]
+        index_list = [None, None, None, None, None]
         origin_type_prefer_obj = {
             "local": 0,
-            "subscribe": 1,
+            "hotel": 1,
+            "multicast": 2,
+            "subscribe": 3,
+            "online_search": 4,
         }
         for i, item in enumerate(origin_type_prefer):
             index_list[i] = origin_type_prefer_obj[item]
@@ -121,9 +129,43 @@ class PreferUI:
         for option in self.origin_type_prefer_options:
             option.change_state(state)
         self.prefer_ipv_type_combo.config(state=state)
+        for input in self.ipv_type_input:
+            input.change_state(state)
         self.location_entry.config(state=state)
         self.isp_entry.config(state=state)
         self.open_supply_checkbutton.config(state=state)
+
+
+class IpvNumInput:
+    def __init__(self, master, ipv_type):
+        self.master = master
+        self.ipv_type = ipv_type
+        self.frame = tk.Frame(master)
+        self.frame.pack(fill=tk.X)
+        self.frame_column1 = tk.Frame(self.frame)
+        self.frame_column1.pack(side=tk.LEFT, fill=tk.Y)
+        self.frame_column2 = tk.Frame(self.frame)
+        self.frame_column2.pack(side=tk.RIGHT, fill=tk.Y)
+
+        ipv_type_text = "IPv4" if ipv_type == "ipv4" else "IPv6"
+        self.entry_label = tk.Label(
+            self.frame_column1, text=f"{ipv_type_text}数量:", width=12
+        )
+        self.entry_label.pack(side=tk.LEFT, padx=4, pady=8)
+
+        self.entry = tk.Entry(self.frame_column1, width=24)
+        self.entry.insert(0, config.ipv_limit[ipv_type])
+        self.entry.pack(side=tk.LEFT, padx=4, pady=8)
+
+    def update_input(self, event):
+        config.set(
+            "Settings",
+            f"{self.ipv_type}_num",
+            self.entry.get(),
+        )
+
+    def change_state(self, state):
+        self.entry.config(state=state)
 
 
 class ConfigOption:
@@ -147,7 +189,10 @@ class ConfigOption:
         self.combo_box = ttk.Combobox(self.column1, width=22)
         self.origin_type_prefer_obj = {
             "本地源": "local",
+            "酒店源": "hotel",
+            "组播源": "multicast",
             "订阅源": "subscribe",
+            "关键字搜索": "online_search",
         }
         combo_box_values_name = list(self.origin_type_prefer_obj.keys())
         self.combo_box["values"] = combo_box_values_name
