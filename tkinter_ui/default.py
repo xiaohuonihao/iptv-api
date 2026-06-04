@@ -269,6 +269,20 @@ class DefaultUI:
         )
         self.open_headers_checkbutton.pack(side=tk.LEFT, padx=4, pady=8)
 
+        self.open_driver_label = tk.Label(
+            frame_proxy_m3u_column2, text="浏览器模式:", width=12
+        )
+        self.open_driver_label.pack(side=tk.LEFT, padx=4, pady=8)
+        self.open_driver_var = tk.BooleanVar(value=config.open_driver)
+        self.open_driver_checkbutton = ttk.Checkbutton(
+            frame_proxy_m3u_column2,
+            variable=self.open_driver_var,
+            onvalue=True,
+            offvalue=False,
+            command=self.update_open_driver
+        )
+        self.open_driver_checkbutton.pack(side=tk.LEFT, padx=4, pady=8)
+
         frame_default_open_update_info = tk.Frame(root)
         frame_default_open_update_info.pack(fill=tk.X)
         frame_default_open_update_info_column1 = tk.Frame(
@@ -522,6 +536,9 @@ class DefaultUI:
     def update_open_request(self):
         config.set("Settings", "open_requests", str(self.open_request_var.get()))
 
+    def update_open_driver(self):
+        config.set("Settings", "open_driver", str(self.open_driver_var.get()))
+
     def update_open_m3u_result(self):
         config.set("Settings", "open_m3u_result", str(self.open_m3u_result_var.get()))
 
@@ -599,6 +616,7 @@ class DefaultUI:
             "open_history_checkbutton",
             "open_use_cache_checkbutton",
             "open_request_checkbutton",
+            "open_driver_checkbutton", 
             "request_timeout_entry",
             "source_file_entry",
             "source_file_button",
