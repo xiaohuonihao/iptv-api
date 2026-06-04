@@ -7,7 +7,7 @@ if config.open_driver:
         from selenium.webdriver.support.ui import WebDriverWait
         from selenium.webdriver.support import expected_conditions as EC
         from selenium.common.exceptions import TimeoutException
-    except:
+    except ImportError:
         pass
 
 max_retries = 2
