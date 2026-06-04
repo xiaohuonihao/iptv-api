@@ -62,3 +62,36 @@ def get_soup_requests(url, data=None, proxy=None, timeout=30, headers_override: 
     source = re.sub(r"<!--.*?-->", "", response.text or "", flags=re.DOTALL)
     soup = BeautifulSoup(source, "html.parser")
     return soup
+
+
+def get_source_requests(url, data=None, proxy=None, timeout=30, headers_override: dict | None = None):
+    """
+    Get the source text by requests.
+    """
+    if proxy is None:
+        proxy = config.http_proxy
+    proxies = {"http": proxy, "https": proxy} if proxy else None
+    try:
+        req_headers = _merge_headers(headers_override)
+        if data:
+            response = session.post(
+                url, headers=req_headers, data=data, proxies=proxies, timeout=timeout
+            )
+        else:
+            response = session.get(url, headers=req_headers, proxies=proxies, timeout=timeout)
+    except requests.RequestException:
+        return ""
+    
+    if response is None:
+        return ""
+    
+    source = re.sub(r"<!--.*?-->", "", response.text or "", flags=re.DOTALL)
+    return source
+
+
+def close_session():
+    """
+    Close the requests session.
+    """
+    session.close()
+
