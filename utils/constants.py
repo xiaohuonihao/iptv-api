@@ -7,6 +7,8 @@ config_dir = "config"
 
 output_dir = "output"
 
+live_path = os.path.join(config_dir, "live")
+
 hls_path = os.path.join(config_dir, "hls")
 
 local_dir_path = os.path.join(config_dir, "local")
@@ -32,6 +34,12 @@ epg_gz_result_path = os.path.join(output_dir, "epg/epg.gz")
 ipv4_result_path = os.path.join(output_dir, "ipv4/result.txt")
 
 ipv6_result_path = os.path.join(output_dir, "ipv6/result.txt")
+
+live_result_path = os.path.join(output_dir, "live.txt")
+
+live_ipv4_result_path = os.path.join(output_dir, "ipv4/live.txt")
+
+live_ipv6_result_path = os.path.join(output_dir, "ipv6/live.txt")
 
 rtmp_data_path = os.path.join(output_dir, "data/rtmp.db")
 
@@ -89,12 +97,49 @@ replace_dict = {
     "＋": "+",
 }
 
+region_list = [
+    "广东",
+    "北京",
+    "湖南",
+    "湖北",
+    "浙江",
+    "上海",
+    "天津",
+    "江苏",
+    "山东",
+    "河南",
+    "河北",
+    "山西",
+    "陕西",
+    "安徽",
+    "重庆",
+    "福建",
+    "江西",
+    "辽宁",
+    "黑龙江",
+    "吉林",
+    "四川",
+    "云南",
+    "香港",
+    "内蒙古",
+    "甘肃",
+    "海南",
+    "云南",
+]
+
 origin_map = {
+    "hotel": "酒店源",
+    "multicast": "组播源",
     "subscribe": t("name.subscribe"),
+    "online_search": "关键字源",
     "whitelist": t("name.whitelist"),
     "local": t("name.local"),
 }
 
 ipv6_proxy = "http://www.ipv6proxy.net/go.php?u="
+
+foodie_url = "http://www.foodieguide.com/iptvsearch/"
+
+foodie_hotel_url = "http://www.foodieguide.com/iptvsearch/hoteliptv.php"
 
 waiting_tip = t("msg.waiting_tip")
