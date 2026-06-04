@@ -265,6 +265,12 @@ class ConfigManager:
         return self.config.getint("Settings", "speed_test_timeout", fallback=10)
 
     @property
+    def open_driver(self):
+        return self.config.getboolean(
+            "Settings", "open_driver", fallback=False
+        )
+
+    @property
     def hotel_page_num(self):
         return self.config.getint("Settings", "hotel_page_num", fallback=1)
 
