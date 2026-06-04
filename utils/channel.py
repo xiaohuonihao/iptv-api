@@ -834,6 +834,11 @@ def append_data_to_info_data(
             print(t("msg.error_append_channel_data").format(info=e))
             continue
 
+def get_origin_method_name(method):
+    """
+    Get the origin method name
+    """
+    return "hotel" if method.startswith("hotel_") else method
 
 def append_old_data_to_info_data(info_data, cate, name, data, whitelist_maps=None, blacklist=None, ipv_type_data=None):
     """
@@ -941,9 +946,10 @@ def append_total_data(
                                              ipv_type_data=url_hosts_ipv_type)
             for method, result in total_result:
                 if config.open_method[method]:
+                    origin_method = get_origin_method_name(method)   
                     name_results = get_channel_results_by_name(name, result)
                     append_data_to_info_data(
-                        data, cate, name, name_results, origin=method, whitelist_maps=whitelist_maps,
+                        data, cate, name, name_results, origin=origin_method, whitelist_maps=whitelist_maps,
                         blacklist=blacklist,
                         ipv_type_data=url_hosts_ipv_type
                     )
