@@ -1,4 +1,5 @@
 import asyncio
+import base64
 import gzip
 import hashlib
 import json
@@ -11,6 +12,8 @@ from collections import defaultdict, Counter, OrderedDict
 from itertools import chain
 from logging import INFO
 from typing import cast
+
+from bs4 import NavigableString
 
 import utils.constants as constants
 from utils.alias import Alias
@@ -407,6 +410,237 @@ def get_channel_results_by_name(name, data):
     return results
 
 
+def get_element_child_text_list(element, child_name):
+    """
+    Get the child text of the element
+    """
+    text_list = []
+    children = element.find_all(child_name)
+    if children:
+        for child in children:
+            text = child.get_text(strip=True)
+            if text:
+                text_list.append(text)
+    return text_list
+
+def get_multicast_ip_list(urls):
+    """
+    Get the multicast ip list from urls
+    """
+    ip_list = []
+    for url in urls:
+        pattern = r"rtp://((\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3})(?::(\d+))?)"
+        matcher = re.search(pattern, url)
+        if matcher:
+            ip_list.append(matcher.group(1))
+    return ip_list
+
+def get_channel_multicast_region_ip_list(result, channel_region, channel_type):
+    """
+    Get the channel multicast region ip list by region and type from result
+    """
+    return [
+        ip
+        for result_region, result_obj in result.items()
+        if result_region in channel_region
+        for url_type, urls in result_obj.items()
+        if url_type in channel_type
+        for ip in get_multicast_ip_list(urls)
+    ]
+
+
+def get_channel_multicast_name_region_type_result(result, names):
+    """
+    Get the multicast name and region and type result by names from result
+    """
+    name_region_type_result = {}
+    for name in names:
+        data = result.get(name)
+        if data:
+            name_region_type_result[name] = data
+    return name_region_type_result
+
+
+def get_channel_multicast_region_type_list(result):
+    """
+    Get the channel multicast region type list from result
+    """
+    region_list = config.multicast_region_list
+    region_type_list = {
+        (region, r_type)
+        for region_type in result.values()
+        for region, types in region_type.items()
+        if "all" in region_list
+           or "ALL" in region_list
+           or "全部" in region_list
+           or region in region_list
+        for r_type in types
+    }
+    return list(region_type_list)
+
+
+def get_channel_multicast_result(result, search_result):
+    """
+    Get the channel multicast info result by result and search result
+    """
+    info_result = {}
+    multicast_name = constants.origin_map["multicast"]
+    for name, result_obj in result.items():
+        info_list = [
+            {
+                "url":
+                    add_url_info(
+                        total_url,
+                        f"{result_region}{result_type}{multicast_name}",
+                    ),
+                "date": date,
+                "resolution": resolution,
+            }
+            for result_region, result_types in result_obj.items()
+            if result_region in search_result
+            for result_type, result_type_urls in result_types.items()
+            if result_type in search_result[result_region]
+            for ip in get_multicast_ip_list(result_type_urls) or []
+            for url, date, resolution in search_result[result_region][result_type]
+            if (total_url := f"http://{url}/rtp/{ip}")
+        ]
+        info_result[name] = info_list
+    return info_result
+
+
+def get_results_from_soup(soup, name):
+    """
+    Get the results from the soup
+    """
+    results = []
+    if not soup.descendants:
+        return results
+    for element in soup.descendants:
+        if isinstance(element, NavigableString):
+            text = element.get_text(strip=True)
+            url = get_channel_url(text)
+            if url and not any(item[0] == url for item in results):
+                url_element = soup.find(lambda tag: tag.get_text(strip=True) == url)
+                if url_element:
+                    name_element = url_element.find_previous_sibling()
+                    if name_element:
+                        channel_name = name_element.get_text(strip=True)
+                        if channel_name_is_equal(name, channel_name):
+                            info_element = url_element.find_next_sibling()
+                            date, resolution = get_channel_info(
+                                info_element.get_text(strip=True)
+                            )
+                            results.append({
+                                "url": url,
+                                "date": date,
+                                "resolution": resolution,
+                            })
+    return results
+
+
+def get_results_from_multicast_soup(soup, hotel=False):
+    """
+    Get the results from the multicast soup
+    """
+    results = []
+    if not soup.descendants:
+        return results
+    for element in soup.descendants:
+        if isinstance(element, NavigableString):
+            text = element.strip()
+            if "失效" in text:
+                continue
+            url = get_channel_url(text)
+            if url and not any(item["url"] == url for item in results):
+                url_element = soup.find(lambda tag: tag.get_text(strip=True) == url)
+                if not url_element:
+                    continue
+                parent_element = url_element.find_parent()
+                info_element = parent_element.find_all(recursive=False)[-1]
+                if not info_element:
+                    continue
+                info_text = info_element.get_text(strip=True)
+                if "上线" in info_text and " " in info_text:
+                    date, region, channel_type = get_multicast_channel_info(info_text)
+                    if hotel and "酒店" not in region:
+                        continue
+                    results.append(
+                        {
+                            "url": url,
+                            "date": date,
+                            "region": region,
+                            "type": channel_type,
+                        }
+                    )
+    return results
+
+
+def get_results_from_soup_requests(soup, name):
+    """
+    Get the results from the soup by requests
+    """
+    results = []
+    elements = soup.find_all("div", class_="resultplus") if soup else []
+    for element in elements:
+        name_element = element.find("div", class_="channel")
+        if name_element:
+            channel_name = name_element.get_text(strip=True)
+            if channel_name_is_equal(name, channel_name):
+                text_list = get_element_child_text_list(element, "div")
+                url = date = resolution = None
+                for text in text_list:
+                    text_url = get_channel_url(text)
+                    if text_url:
+                        url = text_url
+                    if " " in text:
+                        text_info = get_channel_info(text)
+                        date, resolution = text_info
+                if url:
+                    results.append({
+                        "url": url,
+                        "date": date,
+                        "resolution": resolution,
+                    })
+    return results
+
+
+def get_results_from_multicast_soup_requests(soup, hotel=False):
+    """
+    Get the results from the multicast soup by requests
+    """
+    results = []
+    if not soup:
+        return results
+
+    elements = soup.find_all("div", class_="result")
+    for element in elements:
+        name_element = element.find("div", class_="channel")
+        if not name_element:
+            continue
+
+        text_list = get_element_child_text_list(element, "div")
+        url, date, region, channel_type = None, None, None, None
+        valid = True
+
+        for text in text_list:
+            if "失效" in text:
+                valid = False
+                break
+
+            text_url = get_channel_url(text)
+            if text_url:
+                url = text_url
+
+            if url and "上线" in text and " " in text:
+                date, region, channel_type = get_multicast_channel_info(text)
+
+        if url and valid:
+            if hotel and "酒店" not in region:
+                continue
+            results.append({"url": url, "date": date, "region": region, "type": channel_type})
+
+    return results
+
 def get_channel_url(text):
     """
     Get the url from text
@@ -416,6 +650,37 @@ def get_channel_url(text):
     if url_search:
         url = url_search.group()
     return url
+
+def get_channel_info(text):
+    """
+    Get the channel info from text
+    """
+    date, resolution = None, None
+    if text:
+        date, resolution = (
+            (text.partition(" ")[0] if text.partition(" ")[0] else None),
+            (
+                text.partition(" ")[2].partition("•")[2]
+                if text.partition(" ")[2].partition("•")[2]
+                else None
+            ),
+        )
+    return date, resolution
+
+
+def get_multicast_channel_info(text):
+    """
+    Get the multicast channel info from text
+    """
+    date, region, channel_type = None, None, None
+    if text:
+        text_split = text.split(" ")
+        filtered_data = list(filter(lambda x: x.strip() != "", text_split))
+        if filtered_data and len(filtered_data) == 4:
+            date = filtered_data[0]
+            region = filtered_data[2]
+            channel_type = filtered_data[3]
+    return date, region, channel_type
 
 
 def init_info_data(data: dict, category: str, name: str) -> None:
@@ -620,7 +885,11 @@ def print_channel_number(data: CategoryChannelData, cate: str, name: str):
 def append_total_data(
         items,
         data,
+        hotel_fofa_result=None,
+        multicast_result=None,
+        hotel_foodie_result=None,
         subscribe_result=None,
+        online_search_result=None,
         whitelist_maps=None,
         blacklist=None,
 ):
@@ -629,7 +898,11 @@ def append_total_data(
     """
     items = list(items)
     total_result = [
+        ("hotel_fofa", hotel_fofa_result),
+        ("multicast", multicast_result),
+        ("hotel_foodie", hotel_foodie_result),
         ("subscribe", subscribe_result),
+        ("online_search", online_search_result),
     ]
     unmatch_category = t("content.unmatch_channel")
     source_names = {
