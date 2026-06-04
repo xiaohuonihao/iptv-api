@@ -14,6 +14,10 @@ from tqdm import tqdm
 import utils.constants as constants
 import utils.frozen as frozen
 from updates.epg import get_epg
+from updates.fofa import get_channels_by_fofa
+from updates.hotel import get_channels_by_hotel
+from updates.multicast import get_channels_by_multicast
+from updates.online_search import get_channels_by_online_search
 from updates.epg.tools import write_to_xml, compress_to_gz
 from updates.subscribe import get_channels_by_subscribe_urls
 from utils.aggregator import ResultAggregator
@@ -30,6 +34,7 @@ from utils.tools import (
     get_version_info,
     get_urls_len,
     get_public_url,
+    join_url,
     parse_times,
     to_serializable,
     get_subscribe_entries,
@@ -56,6 +61,11 @@ class UpdateSource:
 
         self.subscribe_result = {}
         self.epg_result = {}
+
+        self.hotel_fofa_result = {}
+        self.hotel_foodie_result = {}
+        self.multicast_result = {}
+        self.online_search_result = {}
 
         self.channel_data: CategoryChannelData = {}
 
@@ -169,27 +179,60 @@ class UpdateSource:
         return await get_epg(channel_names, callback=self.update_progress)
 
     async def visit_page(self, channel_names: list[str] = None):
-        """
-        Visits subscribe and epg pages concurrently to fetch data.
-        """
-        channel_names = channel_names or []
+       """
+       Visits multiple data source pages concurrently to fetch data.
+       """
+       channel_names = channel_names or []
+    
+       tasks_config = [
+           ("hotel_fofa", get_channels_by_fofa, "hotel_fofa_result"),
+           ("multicast", get_channels_by_multicast, "multicast_result"),
+           ("hotel_foodie", get_channels_by_hotel, "hotel_foodie_result"),
+           ("subscribe", get_channels_by_subscribe_urls, "subscribe_result"),
+           ("online_search", get_channels_by_online_search, "online_search_result"),
+           ("epg", get_epg, "epg_result"),
+       ]
 
-        cors: list[tuple[str, asyncio.Future]] = []
-        if config.open_method.get("subscribe"):
-            cors.append(("subscribe_result", asyncio.create_task(self._fetch_subscribe(channel_names))))
-        if config.open_method.get("epg"):
-            cors.append(("epg_result", asyncio.create_task(self._fetch_epg(channel_names))))
-
-        if not cors:
-            return
-
-        results = await asyncio.gather(*(c for _, c in cors), return_exceptions=True)
-        for (attr, _), res in zip(cors, results):
-            if isinstance(res, Exception):
-                print(f"{attr} failed: {res}", flush=True)
-                setattr(self, attr, {})
-            else:
-                setattr(self, attr, res)
+       for setting, task_func, result_attr in tasks_config:
+           if (setting == "hotel_foodie" or setting == "hotel_fofa") and config.open_hotel == False:
+               continue
+           if config.open_method.get(setting, False):
+               print(t("msg.fetching_name").format(name=setting), flush=True)
+               if setting == "subscribe":
+                   whitelist_entries, default_entries = get_subscribe_entries(constants.subscribe_path)
+                   disabled_count = count_disabled_urls(constants.subscribe_path)
+                
+                   seen = set()
+                   subscribe_entries = []
+                   for e in (whitelist_entries + default_entries):
+                       url = e['url'] if isinstance(e, dict) else e
+                       if url in seen:
+                           continue
+                       seen.add(url)
+                       subscribe_entries.append(e)
+                
+                   whitelist_urls = [e['url'] for e in whitelist_entries]
+                
+                   if not os.getenv("GITHUB_ACTIONS") and config.cdn_url:
+                       for entry in subscribe_entries:
+                           if isinstance(entry, dict) and "raw.githubusercontent.com" in entry.get('url', ''):
+                               entry['url'] = join_url(config.cdn_url, entry['url'])
+                
+                   task = asyncio.create_task(
+                       task_func(subscribe_entries,
+                                 names=channel_names,
+                                 whitelist=whitelist_urls,
+                                 callback=self.update_progress
+                                 )
+                   )
+               elif setting == "hotel_foodie" or setting == "hotel_fofa":
+                   task = asyncio.create_task(task_func(callback=self.update_progress))
+               else:
+                   task = asyncio.create_task(
+                       task_func(channel_names, callback=self.update_progress)
+                   )
+               self.tasks.append(task)
+               setattr(self, result_attr, await task)
 
     def _write_epg_files_if_needed(self):
         if not self.epg_result:
@@ -319,7 +362,11 @@ class UpdateSource:
             append_total_data(
                 self.channel_items.items(),
                 self.channel_data,
+                self.hotel_fofa_result,
+                self.multicast_result,
+                self.hotel_foodie_result,
                 self.subscribe_result,
+                self.online_search_result,
                 self.whitelist_maps,
                 self.blacklist,
             )
