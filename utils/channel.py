@@ -1438,3 +1438,49 @@ def write_channel_to_file(data, ipv6=False, first_channel_name=None, skip_print=
             print(t("msg.write_success"), flush=True)
     except Exception as e:
         print(t("msg.write_error").format(info=e), flush=True)
+
+def get_multicast_fofa_search_org(region, org_type):
+    """
+    Get the fofa search organization for multicast
+    """
+    org = None
+    if region == "北京" and org_type == "联通":
+        org = "China Unicom Beijing Province Network"
+    elif org_type == "联通":
+        org = "CHINA UNICOM China169 Backbone"
+    elif org_type == "电信":
+        org = "Chinanet"
+    elif org_type == "移动":
+        org = "China Mobile communications corporation"
+    return org
+
+
+def get_multicast_fofa_search_urls():
+    """
+    Get the fofa search urls for multicast
+    """
+    rtp_file_names = []
+    for filename in os.listdir(resource_path("config/rtp")):
+        if filename.endswith(".txt") and "_" in filename:
+            filename = filename.replace(".txt", "")
+            rtp_file_names.append(filename)
+    region_list = config.multicast_region_list
+    region_type_list = [
+        (parts[0], parts[1])
+        for name in rtp_file_names
+        if (parts := name.partition("_"))[0] in region_list
+           or "all" in region_list
+           or "ALL" in region_list
+           or "全部" in region_list
+    ]
+    search_urls = []
+    for region, r_type in region_type_list:
+        search_url = "https://fofa.info/result?qbase64="
+        search_txt = f'"udpxy" && country="CN" && region="{region}" && org="{get_multicast_fofa_search_org(region, r_type)}"'
+        bytes_string = search_txt.encode("utf-8")
+        search_txt = base64.b64encode(bytes_string).decode("utf-8")
+        search_url += search_txt
+        search_urls.append((search_url, region, r_type))
+    return search_urls
+
+
