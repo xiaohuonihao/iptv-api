@@ -184,9 +184,8 @@ async def get_channels_by_hotel(callback=None):
             for region, result in search_region_result.items()
             for item in result
         ]
-        request_channels = await get_channels_by_subscribe_urls(
-            urls, retry=False, error_print=False
-        )
+       request_channels = await get_channels_by_subscribe_urls(urls)
+
         channels = merge_objects(channels, request_channels)
         if not open_driver:
             close_session()
