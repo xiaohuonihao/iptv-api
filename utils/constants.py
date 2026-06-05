@@ -69,6 +69,8 @@ url_pattern = re.compile(
     r"(?P<url>" + url_host_pattern.pattern + r"\S*)")
 
 rt_url_pattern = re.compile(r"^(rtmp|rtsp)://.*$")
+
+rtp_pattern = re.compile(r"^(?P<name>[^,，]+)[,，]?(?P<url>rtp://.*)$")
 # 将这行 (新版本):
 # demo_txt_pattern = re.compile(r"^(?P<name>[^,，]+)[,，]?(?!#genre#)(?P<value>.+)?$")
 
