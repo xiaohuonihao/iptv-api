@@ -218,6 +218,7 @@ class ConfigManager:
             "subscribe": self.open_subscribe,
             "hotel": self.open_hotel,
             "multicast": self.open_multicast,
+            "online_search": self.open_online_search,
             "hotel_fofa": self.open_hotel and self.open_hotel_fofa,
             "hotel_foodie": self.open_hotel and self.open_hotel_foodie,
             "multicast_fofa": self.open_multicast and self.open_multicast_fofa,
