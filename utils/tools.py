@@ -757,6 +757,42 @@ def get_name_value(content, pattern, open_headers=False, check_value=True):
         append_item(name, value, attributes)
     return result
 
+def get_name_url(content, pattern, open_headers=False, check_url=True):
+    """
+    Extract name and URL from content using a regex pattern.
+    :param content: str, the input content to search.
+    :param pattern: re.Pattern, the compiled regex pattern to match.
+    :param open_headers: bool, whether to extract headers.
+    :param check_url: bool, whether to validate the presence of a URL.
+    """
+    result = []
+    for match in pattern.finditer(content):
+        group_dict = match.groupdict()
+        name = (group_dict.get("name", "") or "").strip()
+        url = (group_dict.get("url", "") or "").strip()
+        if not name or (check_url and not url):
+            continue
+        data = {"name": name, "url": url}
+        attributes = {**get_headers_key_value(group_dict.get("attributes", "")),
+                      **get_headers_key_value(group_dict.get("options", ""))}
+        headers = {
+            "User-Agent": attributes.get("useragent", ""),
+            "Referer": attributes.get("referer", ""),
+            "Origin": attributes.get("origin", "")
+        }
+        catchup = {
+            "catchup": attributes.get("catchup", ""),
+            "catchup-source": attributes.get("catchupsource", ""),
+        }
+        headers = {k: v for k, v in headers.items() if v}
+        catchup = {k: v for k, v in catchup.items() if v}
+        if not open_headers and headers:
+            continue
+        if open_headers:
+            data["headers"] = headers
+        data["catchup"] = catchup
+        result.append(data)
+    return result
 
 def get_real_path(path) -> str:
     """
