@@ -5,5 +5,5 @@
 # Support setting whitelist: add $! after the interface
 # If there are multiple local source files, you can create a local directory under the config directory for storage, supporting txt/m3u file formats
 
-https://gh-proxy.org/https://raw.githubusercontent.com/xiaolong-nihao/iptvzb/refs/heads/main/zubo.txt$!
+
 
