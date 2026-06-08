@@ -185,6 +185,24 @@ async def get_result(url: str, headers: dict = None, resolution: str = None,
     Get the test result of the url
     """
     info = {'speed': 0.0, 'delay': -1, 'resolution': resolution}
+    
+    # ========== 在这里添加 ==========
+    # 对于 http://.../rtp/... 或 http://.../udp/... 的地址，使用 ffprobe 直接探测
+    if '/rtp/' in url or '/udp/' in url:
+        try:
+            probed = await probe_url(url, headers, timeout=timeout)
+            if probed:
+                info['speed'] = float("inf") if probed.get('resolution') else 0
+                info['delay'] = 0
+                info['resolution'] = probed.get('resolution')
+                info['fps'] = probed.get('fps')
+                info['video_codec'] = probed.get('video_codec')
+                info['audio_codec'] = probed.get('audio_codec')
+                return info
+        except Exception:
+            pass
+    # ========== 添加结束 ==========
+    
     location = None
     try:
         url = quote(url, safe=':/?$&=@[]%').partition('$')[0]
