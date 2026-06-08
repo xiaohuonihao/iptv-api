@@ -469,24 +469,23 @@ async def get_speed(data, headers=None, ipv6_proxy=None, filter_resolution=open_
             if data['ipv_type'] == "ipv6" and ipv6_proxy:
                 result.update(default_ipv6_result)
             elif constants.rt_url_pattern.match(url) is not None or url.startswith('rtp://'):
-    # 组播/rtmp/rtsp：使用老版本测速逻辑
-    start_time = time()
-    # 只尝试获取分辨率（使用 ffprobe）
-    if not result.get('resolution') and filter_resolution:
-        try:
-            # 使用 probe_url 获取流信息（类似老版本的 get_resolution_ffprobe）
-            probed = await probe_url(url, headers, timeout=timeout)
-            if probed and probed.get('resolution'):
-                result['resolution'] = probed.get('resolution')
-                result['fps'] = probed.get('fps')
-                result['video_codec'] = probed.get('video_codec')
-                result['audio_codec'] = probed.get('audio_codec')
-        except:
-            pass
-    result['delay'] = int(round((time() - start_time) * 1000))
-    # 老版本逻辑：只要拿到分辨率就给无限速度
-    if result.get('resolution') is not None:
-        result['speed'] = float("inf")
+                # 组播/rtmp/rtsp：使用老版本测速逻辑
+                start_time = time()
+                # 只尝试获取分辨率（使用 ffprobe）
+                if not result.get('resolution') and filter_resolution:
+                    try:
+                        probed = await probe_url(url, headers, timeout=timeout)
+                        if probed and probed.get('resolution'):
+                            result['resolution'] = probed.get('resolution')
+                            result['fps'] = probed.get('fps')
+                            result['video_codec'] = probed.get('video_codec')
+                            result['audio_codec'] = probed.get('audio_codec')
+                    except:
+                        pass
+                result['delay'] = int(round((time() - start_time) * 1000))
+                # 老版本逻辑：只要拿到分辨率就给无限速度
+                if result.get('resolution') is not None:
+                    result['speed'] = float("inf")
             else:
                 result.update(await get_result(url, headers, resolution, filter_resolution, timeout))
             if cache_key:
