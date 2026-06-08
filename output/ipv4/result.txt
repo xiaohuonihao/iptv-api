@@ -53,11 +53,8 @@ CGTN法语,http://mg.hmysapp.cn:177/咪咕央视/咪咕直连/CGTN法语.php?id=
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 凤凰卫视,http://221.7.175.154:8445/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰香港,http://mg.hmysapp.cn:177/港澳台/香港港hk/凤凰卫视香港台.php?id=301
-凤凰香港,http://rihou.cc:555/tv/[Pd]凤凰香港
 凤凰中文,http://mg.hmysapp.cn:177/港澳台/香港港hk/凤凰卫视中文台.php?id=301
-凤凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
 凤凰资讯,http://mg.hmysapp.cn:177/港澳台/香港港hk/凤凰卫视资讯台.php?id=301
-凤凰资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯
 翡翠台,http://o11.163189.xyz/stream/tvb/fct/
 翡翠台,http://r.jdshipin.com/qrfbg
 翡翠台,http://mg.hmysapp.cn:177/港澳台/香港港hk/翡翠台.php?id=301
@@ -65,50 +62,29 @@ CGTN法语,http://mg.hmysapp.cn:177/咪咕央视/咪咕直连/CGTN法语.php?id=
 明珠台,http://o11.163189.xyz/stream/tvb/mzt/
 明珠台,http://mytv.cdn.loc.cc/o12.php?id=mzt
 TVB Plus,http://mg.hmysapp.cn:177/港澳台/香港港hk/TVBplus.php?id=301
-TVB Plus,http://rihou.cc:555/tv/[Pd]Plus综合
 TVBS,http://mg.hmysapp.cn:177/港澳台/台湾湾4G/TVBS.php?id=301
 华丽翡翠台,http://r.jdshipin.com/thuYX
 无线新闻台,http://mg.hmysapp.cn:177/港澳台/香港港hk/无线新闻台.php?id=301
-无线新闻台,http://rihou.cc:555/tv/[Pd]无线新闻
-无线高清翡翠台,http://rihou.cc:555/tv/[Pd]无线翡翠
-无线华丽台,http://rihou.cc:555/tv/[Pd]无线华丽
-无线功夫台,http://rihou.cc:555/tv/[Pd]无线功夫
-无线星河台,http://rihou.cc:555/tv/[Pd]无线星河
 娱乐新闻台,http://mg.hmysapp.cn:177/港澳台/香港港hk/娱乐新闻台.php?id=301
 香港C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 美亚电影台,https://php.jdshipin.com:2096/TVOD/iptv.php?id=meiya
 美亚电影台,http://mg.hmysapp.cn:177/港澳台/香港港hk/美亞電影台.php?id=301
 美亚电视剧台,https://tv.zubo.cc.cd/live/rx2/375/32545f856489cb883e0e85b8d6e21b50/index.m3u8
 星空卫视,https://stream1.freetv.fun/ec98a9ccdf617ca10e287a87558d44b94346626aea3863392cc314b0fe235dfc.m3u8
-HOY 77,http://rihou.cc:555/tv/[Cx]有线综合
-HOY 77,http://rihou.cc:555/tv/[Pd]有线综合
-HOY 78,http://rihou.cc:555/tv/[Pd]有线新闻
 纬来精采台,http://61.221.215.25:8800/hls/48/index.m3u8
 纬来育乐台,rtmp://f13h.mine.nu/sat/tv701
 纬来体育台,rtmp://f13h.mine.nu/sat/tv721
 纬来日本台,rtmp://f13h.mine.nu/sat/tv771
 
 澳门频道,#genre#
-澳视澳门,http://rihou.cc:555/tv/[Pd]澳视澳门
-澳视卫星,http://rihou.cc:555/tv/[Pd]澳视卫星
 澳门资讯,https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
-澳门体育,http://rihou.cc:555/tv/[Pd]澳门体育
-澳门综艺,http://rihou.cc:555/tv/[Pd]澳门综艺
-澳门莲花,http://rihou.cc:555/tv/[Pd]澳门莲花
 
 台湾频道,#genre#
 台视,rtmp://f13h.mine.nu/sat/tv071
-台视,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-台视,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 中视,rtmp://f13h.mine.nu/sat/tv091
 华视,rtmp://f13h.mine.nu/sat/tv111
 民视,rtmp://f13h.mine.nu/sat/tv051
 公视,https://cdn12.178.indevs.in/163189/2973b910e7719c08
-台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-台视新闻,http://38.64.72.148:80/hls/modn/list/4013/playlist.m3u8
-台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 非凡新闻,rtmp://f13h.mine.nu/sat/tv581
 中天娱乐台,http://61.221.215.25:8800/hls/47/index.m3u8
@@ -120,13 +96,6 @@ TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 纬来精采台,http://61.221.215.25:8800/hls/48/index.m3u8
 三立戏剧台,http://61.221.215.25:8800/hls/41/index.m3u8
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
-人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
-人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
-龙华电影台,http://rihou.cc:555/tv/[Pd]龙华电影
-龙华戏剧台,http://rihou.cc:555/tv/[Pd]龙华戏剧
-龙华经典台,http://rihou.cc:555/tv/[Pd]龙华经典
-龙华偶像台,http://rihou.cc:555/tv/[Pd]龙华偶像
-龙华日韩台,http://rihou.cc:555/tv/[Pd]龙华日韩
 HBO,http://23.237.104.106:8080/USA_HBO2/tracks-v1a1/mono.m3u8
 HBO,http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
 tvN,http://217.26.190.76:8888/play/a0m6/index.m3u8
@@ -138,17 +107,6 @@ tvN,http://217.26.190.76:8888/play/a0m6/index.m3u8
 
 电影频道,#genre#
 周星驰,http://38.75.136.137:98/gslb/dsdqpub/lbzxc.m3u8?auth=testpub
-周星驰,https://isus.cc/php/huya.php?id=11342412
-刘德华,https://isus.cc/php/huya.php?id=11342424
-成龙,https://isus.cc/php/huya.php?id=11342386
-林正英,https://isus.cc/php/huya.php?id=11342421
-古天乐,https://isus.cc/php/huya.php?id=29982675
-王晶,https://isus.cc/php/huya.php?id=11602058
-海盗,https://isus.cc/php/huya.php?id=21059595
-喜剧专场,https://isus.cc/php/huya.php?id=11602044
-女神系列,https://isus.cc/php/huya.php?id=11336571
-许氏三杰,https://isus.cc/php/huya.php?id=11602033
-国产悬疑,https://isus.cc/php/huya.php?id=11342395
 
 游戏赛事,#genre#
 
@@ -264,4 +222,4 @@ tvN,http://217.26.190.76:8888/play/a0m6/index.m3u8
 广*场*舞,#genre#
 
 🕘️更新时间,#genre#
-2026-06-08 21:34:00,http://mg.hmysapp.cn:177/咪咕央视/咪咕直连/CGTN俄语.php?id=301
+2026-06-08 21:57:04,http://mg.hmysapp.cn:177/咪咕央视/咪咕直连/CGTN俄语.php?id=301
