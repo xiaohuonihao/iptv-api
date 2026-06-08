@@ -1,21 +1,4 @@
 央视频道,#genre#
-CCTV-1,http://mg.hmysapp.cn:177/咪咕央视/咪咕直连/cctv1.php
-CCTV-2,http://mg.hmysapp.cn:177/咪咕央视/咪咕直连/cctv2.php
-CCTV-3,http://mg.hmysapp.cn:177/咪咕央视/咪咕直连/cctv3.php
-CCTV-4,http://mg.hmysapp.cn:177/咪咕央视/咪咕直连/cctv4.php
-CCTV-5,http://mg.hmysapp.cn:177/咪咕央视/咪咕直连/cctv5.php
-CCTV-5+,http://mg.hmysapp.cn:177/咪咕央视/咪咕直连/cctv5p.php?id=301
-CCTV-6,http://mg.hmysapp.cn:177/咪咕央视/咪咕直连/cctv6.php
-CCTV-7,http://mg.hmysapp.cn:177/咪咕央视/咪咕直连/cctv7.php
-CCTV-8,http://mg.hmysapp.cn:177/咪咕央视/咪咕直连/cctv8.php
-CCTV-9,http://mg.hmysapp.cn:177/咪咕央视/咪咕直连/cctv9.php
-CCTV-10,http://mg.hmysapp.cn:177/咪咕央视/咪咕直连/cctv10.php
-CCTV-11,http://mg.hmysapp.cn:177/咪咕央视/咪咕直连/cctv11.php
-CCTV-12,http://mg.hmysapp.cn:177/咪咕央视/咪咕直连/cctv12.php
-CCTV-13,http://mg.hmysapp.cn:177/咪咕央视/咪咕直连/cctv13.php
-CCTV-14,http://mg.hmysapp.cn:177/咪咕央视/咪咕直连/cctv14.php
-CCTV-15,http://mg.hmysapp.cn:177/咪咕央视/咪咕直连/cctv15.php
-CCTV-17,http://mg.hmysapp.cn:177/咪咕央视/咪咕直连/cctv17.php
 CGTN俄语,http://mg.hmysapp.cn:177/咪咕央视/咪咕直连/CGTN俄语.php?id=301
 CGTN法语,http://mg.hmysapp.cn:177/咪咕央视/咪咕直连/CGTN法语.php?id=301
 
@@ -65,8 +48,6 @@ CGTN法语,http://mg.hmysapp.cn:177/咪咕央视/咪咕直连/CGTN法语.php?id=
 
 体育频道,#genre#
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
-深圳体育,http://mg.hmysapp.cn:177/卫视/深圳卫视.php?id=301
-辽宁体育,http://mg.hmysapp.cn:177/卫视/辽宁卫视.php?id=301
 
 香港频道,#genre#
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
@@ -117,25 +98,30 @@ HOY 78,http://rihou.cc:555/tv/[Pd]有线新闻
 
 台湾频道,#genre#
 台视,rtmp://f13h.mine.nu/sat/tv071
-台视,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 台视,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+台视,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 中视,rtmp://f13h.mine.nu/sat/tv091
 华视,rtmp://f13h.mine.nu/sat/tv111
 民视,rtmp://f13h.mine.nu/sat/tv051
 公视,https://cdn12.178.indevs.in/163189/2973b910e7719c08
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/playlist.m3u8
-民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 非凡新闻,rtmp://f13h.mine.nu/sat/tv581
 中天娱乐台,http://61.221.215.25:8800/hls/47/index.m3u8
 民视第一台,http://37.27.111.214:8080/live/4/hls.m3u8
 东森超视台,rtmp://f13h.mine.nu/sat/tv331
+纬来日本台,rtmp://f13h.mine.nu/sat/tv771
+纬来育乐台,rtmp://f13h.mine.nu/sat/tv701
+纬来体育台,rtmp://f13h.mine.nu/sat/tv721
+纬来精采台,http://61.221.215.25:8800/hls/48/index.m3u8
 三立戏剧台,http://61.221.215.25:8800/hls/41/index.m3u8
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
-人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
+人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 龙华电影台,http://rihou.cc:555/tv/[Pd]龙华电影
 龙华戏剧台,http://rihou.cc:555/tv/[Pd]龙华戏剧
 龙华经典台,http://rihou.cc:555/tv/[Pd]龙华经典
@@ -152,9 +138,17 @@ tvN,http://217.26.190.76:8888/play/a0m6/index.m3u8
 
 电影频道,#genre#
 周星驰,http://38.75.136.137:98/gslb/dsdqpub/lbzxc.m3u8?auth=testpub
+周星驰,https://isus.cc/php/huya.php?id=11342412
+刘德华,https://isus.cc/php/huya.php?id=11342424
 成龙,https://isus.cc/php/huya.php?id=11342386
+林正英,https://isus.cc/php/huya.php?id=11342421
+古天乐,https://isus.cc/php/huya.php?id=29982675
+王晶,https://isus.cc/php/huya.php?id=11602058
+海盗,https://isus.cc/php/huya.php?id=21059595
 喜剧专场,https://isus.cc/php/huya.php?id=11602044
+女神系列,https://isus.cc/php/huya.php?id=11336571
 许氏三杰,https://isus.cc/php/huya.php?id=11602033
+国产悬疑,https://isus.cc/php/huya.php?id=11342395
 
 游戏赛事,#genre#
 
@@ -163,11 +157,9 @@ tvN,http://217.26.190.76:8888/play/a0m6/index.m3u8
 
 北京,#genre#
 北京卫视,http://mg.hmysapp.cn:177/卫视/北京卫视.php?id=301
-北京淘娱乐,http://mg.hmysapp.cn:177/卫视/北京卫视.php?id=301
 
 上海,#genre#
 东方卫视,http://mg.hmysapp.cn:177/卫视/东方卫视.php?id=301
-上海点掌财经,http://mg.hmysapp.cn:177/卫视/东方卫视.php?id=301
 
 广东,#genre#
 广东卫视,http://mg.hmysapp.cn:177/卫视/广东卫视.php?id=301
@@ -179,7 +171,6 @@ tvN,http://217.26.190.76:8888/play/a0m6/index.m3u8
 
 浙江,#genre#
 浙江卫视,http://mg.hmysapp.cn:177/卫视/浙江卫视.php?id=301
-浙江经视,http://mg.hmysapp.cn:177/卫视/浙江卫视.php?id=301
 
 江苏,#genre#
 江苏卫视,http://mg.hmysapp.cn:177/卫视/江苏卫视.php?id=301
@@ -193,7 +184,6 @@ tvN,http://217.26.190.76:8888/play/a0m6/index.m3u8
 
 天津,#genre#
 天津卫视,http://mg.hmysapp.cn:177/卫视/天津卫视.php?id=301
-天津交通,http://mg.hmysapp.cn:177/卫视/天津卫视.php?id=301
 
 安徽,#genre#
 安徽卫视,http://mg.hmysapp.cn:177/卫视/安徽卫视.php?id=301
@@ -215,7 +205,6 @@ tvN,http://217.26.190.76:8888/play/a0m6/index.m3u8
 
 陕西,#genre#
 陕西卫视,http://mg.hmysapp.cn:177/卫视/陕西卫视.php?id=301
-陕西西部电影,http://mg.hmysapp.cn:177/卫视/陕西卫视.php?id=301
 
 广西,#genre#
 广西卫视,http://mg.hmysapp.cn:177/卫视/广西卫视.php?id=301
@@ -275,4 +264,4 @@ tvN,http://217.26.190.76:8888/play/a0m6/index.m3u8
 广*场*舞,#genre#
 
 🕘️更新时间,#genre#
-2026-06-08 21:15:14,http://mg.hmysapp.cn:177/咪咕央视/咪咕直连/cctv1.php
+2026-06-08 21:34:00,http://mg.hmysapp.cn:177/咪咕央视/咪咕直连/CGTN俄语.php?id=301
