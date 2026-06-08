@@ -199,4 +199,4 @@ TVBS,http://mg.hmysapp.cn:177/港澳台/台湾湾4G/TVBS.php?id=301
 广*场*舞,#genre#
 
 🕘️更新时间,#genre#
-2026-06-08 21:57:04,http://mg.hmysapp.cn:177/咪咕央视/咪咕直连/CGTN俄语.php?id=301
+2026-06-08 22:10:40,http://mg.hmysapp.cn:177/咪咕央视/咪咕直连/CGTN俄语.php?id=301
