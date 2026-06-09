@@ -504,21 +504,21 @@ async def get_speed(data, headers=None, ipv6_proxy=None, filter_resolution=open_
     headers = {**request_headers, **(headers or {})}
     
     # ========== 使用 1.7.3 的测速逻辑（只针对 http://.../rtp/...）==========
-    if 'http://' in url and '/rtp/' in url:
-        start_time = time()
-        if not result['resolution'] and filter_resolution:
-            try:
-                resolution_val = await get_resolution_ffprobe_173(url, headers, timeout=5)
-                if resolution_val:
-                    result['resolution'] = resolution_val
-            except Exception:
-                pass
-        result['delay'] = int(round((time() - start_time) * 1000))
-        if result.get('resolution') is not None:
-            result['speed'] = float("inf")
-        if logger:
-            logger.info(f"1.7.3风格测速: {url}, 延迟: {result['delay']}ms, 分辨率: {result['resolution']}")
-        return result
+    if ('http://' in url and '/rtp/' in url) or url.startswith('rtp://'):
+    start_time = time()
+    if not result['resolution'] and filter_resolution:
+        try:
+            resolution_val = await get_resolution_ffprobe_173(url, headers, timeout=5)
+            if resolution_val:
+                result['resolution'] = resolution_val
+        except Exception:
+            pass
+    result['delay'] = int(round((time() - start_time) * 1000))
+    if result.get('resolution') is not None:
+        result['speed'] = float("inf")
+    if logger:
+        logger.info(f"组播宽容模式: {url}")
+    return result
     # ================================================================
     
     try:
