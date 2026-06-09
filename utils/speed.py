@@ -462,9 +462,9 @@ async def get_speed(data, headers=None, ipv6_proxy=None, filter_resolution=open_
     result: TestResult = {'speed': 0, 'delay': -1, 'resolution': resolution}
     headers = {**request_headers, **(headers or {})}
     
-    # ========== 新增：专门处理 http://.../rtp/... 格式 ==========
+    # ========== 新增代码开始 ==========
+    # 专门处理 http://xxx/rtp/xxx 格式的地址（你的组播代理）
     if 'http://' in url and '/rtp/' in url:
-        # 这种是你通过 HTTP 代理访问的组播地址，直接通过
         result['delay'] = 0
         result['speed'] = float("inf")
         if not result.get('resolution'):
@@ -472,7 +472,7 @@ async def get_speed(data, headers=None, ipv6_proxy=None, filter_resolution=open_
         if logger:
             logger.info(f"HTTP代理组播地址跳过测速: {url}")
         return result
-    # ========================================================
+    # ========== 新增代码结束 ==========
     
     try:
         cache_key = data['host'] if speed_test_filter_host else url
