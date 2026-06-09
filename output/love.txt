@@ -5,6 +5,8 @@ CCTV-3,https://live.chinacert.cftest5.cn/cnmg/live/624878271
 CCTV-13,https://cdn3.163189.xyz/163189/cctv13
 
 卫视频道,#genre#
+山东卫视,http://39.77.159.46:4002/rtp/239.253.254.78:8000
+山东卫视,http://39.77.163.179:4002/rtp/239.253.254.78:8000
 山东卫视,http://mg.hmysapp.cn:177/卫视/山东卫视.php?id=301
 浙江卫视,http://mg.hmysapp.cn:177/卫视/浙江卫视.php?id=301
 湖南卫视,http://mg.hmysapp.cn:177/卫视/湖南卫视.php?id=301
@@ -22,18 +24,23 @@ CCTV-13,https://cdn3.163189.xyz/163189/cctv13
 高清频道,#genre#
 
 儿童频道,#genre#
+山东少儿,http://39.77.159.46:4002/rtp/239.253.254.25:8000
+山东少儿,http://39.77.163.179:4002/rtp/239.253.254.25:8000
 
 体育频道,#genre#
 广东体育,https://cdn2.163189.xyz/163189/gdty
+山东体育,http://39.77.159.46:4002/rtp/239.253.254.22:8000
+山东体育,http://39.77.163.179:4002/rtp/239.253.254.22:8000
 
 香港频道,#genre#
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 凤凰卫视,http://221.7.175.154:8445/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰香港,http://mg.hmysapp.cn:177/港澳台/香港港hk/凤凰卫视香港台.php?id=301
 凤凰香港,https://cdn6.163189.xyz/163189/fhhk
 凤凰香港,http://r.jdshipin.com/yDoTN
 凤凰香港,http://cdn6.163189.xyz/163189/fhhk
+凤凰中文,http://mg.hmysapp.cn:177/港澳台/香港港hk/凤凰卫视中文台.php?id=301
 凤凰中文,https://cdn6.163189.xyz/163189/fhzw
-凤凰资讯,http://mg.hmysapp.cn:177/港澳台/香港港hk/凤凰卫视资讯台.php?id=301
 凤凰资讯,https://cdn6.163189.xyz/163189/fhzx
 翡翠台,http://mg.hmysapp.cn:177/港澳台/香港港hk/翡翠台.php?id=301
 翡翠台,https://mytv.cdn.loc.cc/o12.php?id=fct
@@ -54,6 +61,7 @@ TVBS,http://mg.hmysapp.cn:177/港澳台/台湾湾4G/TVBS.php?id=301
 华丽翡翠台,https://o11.163189.xyz/stream/live/hlt/
 华丽翡翠台,https://o11.163189.xyz/stream/live/jade/
 华丽翡翠台,http://r.jdshipin.com/thuYX
+无线新闻台,http://mg.hmysapp.cn:177/港澳台/香港港hk/无线新闻台.php?id=301
 无线新闻台,https://cdn6.163189.xyz/163189/wxxw
 无线新闻台,https://smt.1678520.xyz/smt3.2.3.php?id=inews_twn
 无线新闻台,https://cdn6.163189.xyz/163189/wxxwt
@@ -110,7 +118,6 @@ ViuTV,https://cdn.163189.xyz/163189/viu
 台视,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 公视,https://cdn12.178.indevs.in/163189/2973b910e7719c08
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/playlist.m3u8
-台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
@@ -120,8 +127,8 @@ TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 纬来戏剧台,https://smt.1678520.xyz/163189/ab657380c65c1fd1
 纬来电影台,https://smt.1678520.xyz/163189/602e9465658d4f8c
 三立戏剧台,http://61.221.215.25:8800/hls/41/index.m3u8
-人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
+人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 龙华电影台,https://cdn8.163189.xyz/163189/lhdy
 龙华电影台,http://cdn8.163189.xyz/163189/lhdy
@@ -185,6 +192,27 @@ tvN,http://217.26.190.76:8888/play/a0m6/index.m3u8
 穿越火线,https://live.ottiptv.cc/huya/660101
 
 山东,#genre#
+山东齐鲁,http://39.77.159.46:4002/rtp/239.253.254.114:8000
+山东齐鲁,http://39.77.163.179:4002/rtp/239.253.254.114:8000
+山东综艺,http://39.77.159.46:4002/rtp/239.253.254.159:8000
+山东综艺,http://39.77.163.179:4002/rtp/239.253.254.159:8000
+山东生活,http://39.77.159.46:4002/rtp/239.253.254.151:8000
+山东生活,http://39.77.163.179:4002/rtp/239.253.254.151:8000
+山东新闻,http://39.77.159.46:4002/rtp/239.253.254.23:8000
+山东新闻,http://39.77.163.179:4002/rtp/239.253.254.23:8000
+山东农科,http://39.77.159.46:4002/rtp/239.253.254.24:8000
+山东农科,http://39.77.163.179:4002/rtp/239.253.254.24:8000
+山东教育,http://39.77.159.46:4002/rtp/239.253.254.59:8000
+山东教育,http://39.77.163.179:4002/rtp/239.253.254.59:8000
+山东文旅,http://39.77.159.46:4002/rtp/239.253.254.160:8000
+山东文旅,http://39.77.163.179:4002/rtp/239.253.254.160:8000
+青岛QTV1,http://39.77.159.46:4002/rtp/239.253.254.249:8000
+青岛QTV1,http://39.77.163.179:4002/rtp/239.253.254.249:8000
+青岛QTV2,http://39.77.159.46:4002/rtp/239.253.254.250:8000
+青岛QTV2,http://39.77.163.179:4002/rtp/239.253.254.250:8000
+青岛QTV3,http://39.77.159.46:4002/rtp/239.253.254.251:8000
+青岛QTV3,http://39.77.163.179:4002/rtp/239.253.254.251:8000
+青岛QTV4,http://39.77.159.46:4002/rtp/239.253.254.252:8000
 
 北京,#genre#
 
@@ -264,4 +292,4 @@ tvN,http://217.26.190.76:8888/play/a0m6/index.m3u8
 广*场*舞,#genre#
 
 🕘️更新时间,#genre#
-2026-06-10 00:04:32,https://live.chinacert.cftest5.cn/cnmg/live/608807420
+2026-06-10 00:28:05,https://live.chinacert.cftest5.cn/cnmg/live/608807420
