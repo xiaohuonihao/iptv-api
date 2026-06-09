@@ -462,17 +462,29 @@ async def get_speed(data, headers=None, ipv6_proxy=None, filter_resolution=open_
     result: TestResult = {'speed': 0, 'delay': -1, 'resolution': resolution}
     headers = {**request_headers, **(headers or {})}
     
-    # ========== 新增代码开始 ==========
-    # 专门处理 http://xxx/rtp/xxx 格式的地址（你的组播代理）
+    # ========== 只针对 http://.../rtp/... 宽容处理 ==========
     if 'http://' in url and '/rtp/' in url:
-        result['delay'] = 0
-        result['speed'] = float("inf")
+        start_time = time()
+        
+        # 轻量级探测（不下载视频）
+        if not result['resolution'] and filter_resolution:
+            try:
+                probed = await probe_url(url, headers, timeout=5)
+                if probed and probed.get('resolution'):
+                    result['resolution'] = probed.get('resolution')
+            except Exception:
+                pass
+        
         if not result.get('resolution'):
             result['resolution'] = "1920x1080"
+        
+        result['delay'] = int(round((time() - start_time) * 1000))
+        result['speed'] = 1.0  # 给一个中等速度，确保通过速率过滤
+        
         if logger:
-            logger.info(f"HTTP代理组播地址跳过测速: {url}")
+            logger.info(f"HTTP代理组播(宽容模式): {url}")
         return result
-    # ========== 新增代码结束 ==========
+    # ===================================================
     
     try:
         cache_key = data['host'] if speed_test_filter_host else url
