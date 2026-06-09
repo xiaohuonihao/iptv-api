@@ -6,4 +6,23 @@
 # If there are multiple local source files, you can create a local directory under the config directory for storage, supporting txt/m3u file formats
 
 
-
+CCTV1,https://live.chinacert.cftest5.cn/cnmg/live/608807420$!
+CCTV1,http://mg.hmysapp.cn:177/咪咕央视/咪咕直连/cctv1.php$!
+CCTV2,http://mg.hmysapp.cn:177/咪咕央视/咪咕直连/cctv2.php$!
+CCTV3,http://mg.hmysapp.cn:177/咪咕央视/咪咕直连/cctv3.php$!
+CCTV3,https://live.chinacert.cftest5.cn/cnmg/live/624878271$!
+CCTV4,http://mg.hmysapp.cn:177/咪咕央视/咪咕直连/cctv4.php$!
+CCTV5,http://mg.hmysapp.cn:177/咪咕央视/咪咕直连/cctv5.php$!
+CCTV5+,http://mg.hmysapp.cn:177/咪咕央视/咪咕直连/cctv5p.php?id=301$!
+CCTV6,http://mg.hmysapp.cn:177/咪咕央视/咪咕直连/cctv6.php$!
+CCTV7,http://mg.hmysapp.cn:177/咪咕央视/咪咕直连/cctv7.php$!
+CCTV8,http://mg.hmysapp.cn:177/咪咕央视/咪咕直连/cctv8.php$!
+CCTV9,http://mg.hmysapp.cn:177/咪咕央视/咪咕直连/cctv9.php$!
+CCTV10,http://mg.hmysapp.cn:177/咪咕央视/咪咕直连/cctv10.php$!
+CCTV11,http://mg.hmysapp.cn:177/咪咕央视/咪咕直连/cctv11.php$!
+CCTV12,http://mg.hmysapp.cn:177/咪咕央视/咪咕直连/cctv12.php$!
+CCTV13,http://mg.hmysapp.cn:177/咪咕央视/咪咕直连/cctv13.php$!
+CCTV14,http://mg.hmysapp.cn:177/咪咕央视/咪咕直连/cctv14.php$!
+CCTV15,http://mg.hmysapp.cn:177/咪咕央视/咪咕直连/cctv15.php$!
+CCTV16,http://mg.hmysapp.cn:177/咪咕央视/咪咕直连/cctv16.php$!
+CCTV17,http://mg.hmysapp.cn:177/咪咕央视/咪咕直连/cctv17.php$!
