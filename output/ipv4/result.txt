@@ -26,7 +26,7 @@
 凤凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
 凤凰中文,http://mg.hmysapp.cn:177/港澳台/香港港hk/凤凰卫视中文台.php?id=301
 凤凰资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯
-凤凰资讯,http://mg.hmysapp.cn:177/港澳台/香港港hk/凤凰卫视资讯台.php?id=301
+翡翠台,http://mg.hmysapp.cn:177/港澳台/香港港hk/翡翠台.php?id=301
 TVB Plus,http://rihou.cc:555/tv/[Pd]Plus综合
 TVBS,http://mg.hmysapp.cn:177/港澳台/台湾湾4G/TVBS.php?id=301
 无线新闻台,http://rihou.cc:555/tv/[Pd]无线新闻
@@ -36,8 +36,8 @@ TVBS,http://mg.hmysapp.cn:177/港澳台/台湾湾4G/TVBS.php?id=301
 无线星河台,http://rihou.cc:555/tv/[Pd]无线星河
 香港C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-HOY 77,http://rihou.cc:555/tv/[Pd]有线综合
 HOY 77,http://rihou.cc:555/tv/[Cx]有线综合
+HOY 77,http://rihou.cc:555/tv/[Pd]有线综合
 HOY 78,http://rihou.cc:555/tv/[Pd]有线新闻
 纬来精采台,http://61.221.215.25:8800/hls/48/index.m3u8
 
@@ -50,8 +50,8 @@ HOY 78,http://rihou.cc:555/tv/[Pd]有线新闻
 澳门莲花,http://rihou.cc:555/tv/[Pd]澳门莲花
 
 台湾频道,#genre#
-台视,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 台视,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+台视,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/playlist.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
@@ -79,9 +79,13 @@ tvN,http://217.26.190.76:8888/play/a0m6/index.m3u8
 
 电影频道,#genre#
 周星驰,http://38.75.136.137:98/gslb/dsdqpub/lbzxc.m3u8?auth=testpub
+周星驰,https://isus.cc/php/huya.php?id=11342412
+刘德华,https://isus.cc/php/huya.php?id=11342424
 成龙,https://isus.cc/php/huya.php?id=11342386
+林正英,https://isus.cc/php/huya.php?id=11342421
 古天乐,https://isus.cc/php/huya.php?id=29982675
 王晶,https://isus.cc/php/huya.php?id=11602058
+海盗,https://isus.cc/php/huya.php?id=21059595
 喜剧专场,https://isus.cc/php/huya.php?id=11602044
 许氏三杰,https://isus.cc/php/huya.php?id=11602033
 国产悬疑,https://isus.cc/php/huya.php?id=11342395
@@ -165,4 +169,4 @@ tvN,http://217.26.190.76:8888/play/a0m6/index.m3u8
 广*场*舞,#genre#
 
 🕘️更新时间,#genre#
-2026-06-09 20:58:53,http://mg.hmysapp.cn:177/卫视/山东卫视.php?id=301
+2026-06-09 21:40:53,http://mg.hmysapp.cn:177/卫视/山东卫视.php?id=301
