@@ -288,6 +288,47 @@ async def get_delay_requests(url, timeout=speed_test_timeout, proxy=None):
             return -1
         return int(round((end - start) * 1000)) if end else -1
 
+# ========== 在这里添加新函数 ==========
+async def get_resolution_ffprobe_173(url: str, headers: dict = None, timeout: int = 5) -> str | None:
+    """
+    从 1.7.3 搬运的 get_resolution_ffprobe 函数
+    轻量级获取分辨率，不下载视频
+    """
+    import json
+    resolution = None
+    proc = None
+    try:
+        headers_str = ''
+        if headers:
+            headers_str = ''.join(f'{k}: {v}\r\n' for k, v in headers.items())
+        
+        probe_args = [
+            'ffprobe',
+            '-v', 'error',
+            '-headers', headers_str,
+            '-select_streams', 'v:0',
+            '-show_entries', 'stream=width,height',
+            '-of', 'json',
+            url
+        ]
+        proc = await asyncio.create_subprocess_exec(
+            *probe_args,
+            stdout=asyncio.subprocess.PIPE,
+            stderr=asyncio.subprocess.PIPE
+        )
+        out, _ = await asyncio.wait_for(proc.communicate(), timeout=timeout)
+        if out:
+            video_stream = json.loads(out.decode('utf-8'))["streams"][0]
+            resolution = f"{video_stream['width']}x{video_stream['height']}"
+    except Exception:
+        if proc:
+            proc.kill()
+    finally:
+        if proc:
+            await proc.wait()
+        return resolution
+# ====================================
+
 
 def get_video_info(video_info):
     """
@@ -462,29 +503,23 @@ async def get_speed(data, headers=None, ipv6_proxy=None, filter_resolution=open_
     result: TestResult = {'speed': 0, 'delay': -1, 'resolution': resolution}
     headers = {**request_headers, **(headers or {})}
     
-    # ========== 只针对 http://.../rtp/... 宽容处理 ==========
+    # ========== 使用 1.7.3 的测速逻辑（只针对 http://.../rtp/...）==========
     if 'http://' in url and '/rtp/' in url:
         start_time = time()
-        
-        # 轻量级探测（不下载视频）
         if not result['resolution'] and filter_resolution:
             try:
-                probed = await probe_url(url, headers, timeout=5)
-                if probed and probed.get('resolution'):
-                    result['resolution'] = probed.get('resolution')
+                resolution_val = await get_resolution_ffprobe_173(url, headers, timeout=5)
+                if resolution_val:
+                    result['resolution'] = resolution_val
             except Exception:
                 pass
-        
-        if not result.get('resolution'):
-            result['resolution'] = "1920x1080"
-        
         result['delay'] = int(round((time() - start_time) * 1000))
-        result['speed'] = 1.0  # 给一个中等速度，确保通过速率过滤
-        
+        if result.get('resolution') is not None:
+            result['speed'] = float("inf")
         if logger:
-            logger.info(f"HTTP代理组播(宽容模式): {url}")
+            logger.info(f"1.7.3风格测速: {url}, 延迟: {result['delay']}ms, 分辨率: {result['resolution']}")
         return result
-    # ===================================================
+    # ================================================================
     
     try:
         cache_key = data['host'] if speed_test_filter_host else url
