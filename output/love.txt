@@ -5,9 +5,9 @@ CCTV-3,https://live.chinacert.cftest5.cn/cnmg/live/624878271
 CCTV-13,https://cdn3.163189.xyz/163189/cctv13
 
 卫视频道,#genre#
+山东卫视,http://mg.hmysapp.cn:177/卫视/山东卫视.php?id=301
 山东卫视,http://39.77.159.46:4002/rtp/239.253.254.78:8000
 山东卫视,http://39.77.163.179:4002/rtp/239.253.254.78:8000
-山东卫视,http://mg.hmysapp.cn:177/卫视/山东卫视.php?id=301
 浙江卫视,http://mg.hmysapp.cn:177/卫视/浙江卫视.php?id=301
 湖南卫视,http://mg.hmysapp.cn:177/卫视/湖南卫视.php?id=301
 天津卫视,http://mg.hmysapp.cn:177/卫视/天津卫视.php?id=301
@@ -35,17 +35,19 @@ CCTV-13,https://cdn3.163189.xyz/163189/cctv13
 香港频道,#genre#
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 凤凰卫视,http://221.7.175.154:8445/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰香港,http://mg.hmysapp.cn:177/港澳台/香港港hk/凤凰卫视香港台.php?id=301
 凤凰香港,https://cdn6.163189.xyz/163189/fhhk
 凤凰香港,http://r.jdshipin.com/yDoTN
 凤凰香港,http://cdn6.163189.xyz/163189/fhhk
 凤凰中文,http://mg.hmysapp.cn:177/港澳台/香港港hk/凤凰卫视中文台.php?id=301
 凤凰中文,https://cdn6.163189.xyz/163189/fhzw
+凤凰资讯,http://mg.hmysapp.cn:177/港澳台/香港港hk/凤凰卫视资讯台.php?id=301
 凤凰资讯,https://cdn6.163189.xyz/163189/fhzx
+翡翠台,http://mg.hmysapp.cn:177/港澳台/香港港hk/翡翠台.php?id=301
 翡翠台,https://mytv.cdn.loc.cc/o12.php?id=fct
 翡翠台,https://o11.163189.xyz/stream/tvb/fct4k/
 翡翠台,https://cdn6.163189.xyz/163189/fct
 翡翠台,https://o11.163189.xyz/stream/tvb/fct/
-翡翠台,https://6.cdn.loc.cc/163189.php?id=j1
 明珠台,https://mytv.cdn.loc.cc/o12.php?id=mzt
 明珠台,https://o11.163189.xyz/stream/tvb/mzt/
 明珠台,https://cdn6.163189.xyz/163189/mzt
@@ -116,10 +118,10 @@ ViuTV,https://cdn.163189.xyz/163189/viu
 台视,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 台视,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 公视,https://cdn12.178.indevs.in/163189/2973b910e7719c08
-台视新闻,http://38.64.72.148:80/hls/modn/list/4013/playlist.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/playlist.m3u8
 民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 中天娱乐台,http://61.221.215.25:8800/hls/47/index.m3u8
 民视第一台,http://37.27.111.214:8080/live/4/hls.m3u8
@@ -128,8 +130,8 @@ TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 纬来电影台,https://smt.1678520.xyz/163189/602e9465658d4f8c
 三立戏剧台,http://61.221.215.25:8800/hls/41/index.m3u8
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
-人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
+人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 龙华电影台,https://cdn8.163189.xyz/163189/lhdy
 龙华电影台,http://cdn8.163189.xyz/163189/lhdy
 龙华戏剧台,https://cdn8.163189.xyz/163189/lhxj
@@ -142,8 +144,8 @@ TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 龙华日韩台,http://cdn8.163189.xyz/163189/lhrh
 龙华洋片台,https://cdn8.163189.xyz/163189/lhyp
 龙华洋片台,http://cdn8.163189.xyz/163189/lhyp
-HBO,http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
 HBO,http://23.237.104.106:8080/USA_HBO2/tracks-v1a1/mono.m3u8
+HBO,http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
 tvN,http://217.26.190.76:8888/play/a0m6/index.m3u8
 阿里郎电视台,http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 阿里郎电视台,https://dash3.antik.sk/live/test_arirang/playlist.m3u8
@@ -292,4 +294,4 @@ tvN,http://217.26.190.76:8888/play/a0m6/index.m3u8
 广*场*舞,#genre#
 
 🕘️更新时间,#genre#
-2026-06-10 00:36:14,https://live.chinacert.cftest5.cn/cnmg/live/608807420
+2026-06-10 00:52:41,https://live.chinacert.cftest5.cn/cnmg/live/608807420
