@@ -69,6 +69,8 @@ http://rihou.cc:555/tv/[Pd]澳门莲花
 http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 #EXTINF:-1 tvg-id="台视新闻" tvg-name="台视新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/台视新闻.png" group-title="台湾频道",台视新闻
 http://38.64.72.148:80/hls/modn/list/4013/playlist.m3u8
+#EXTINF:-1 tvg-id="台视新闻" tvg-name="台视新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/台视新闻.png" group-title="台湾频道",台视新闻
+http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 #EXTINF:-1 tvg-id="民视新闻" tvg-name="民视新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/民视新闻.png" group-title="台湾频道",民视新闻
 http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 #EXTINF:-1 tvg-id="民视新闻" tvg-name="民视新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/民视新闻.png" group-title="台湾频道",民视新闻
@@ -81,8 +83,6 @@ http://61.221.215.25:8800/hls/47/index.m3u8
 http://37.27.111.214:8080/live/4/hls.m3u8
 #EXTINF:-1 tvg-id="三立戏剧台" tvg-name="三立戏剧台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/三立戏剧台.png" group-title="台湾频道",三立戏剧台
 http://61.221.215.25:8800/hls/41/index.m3u8
-#EXTINF:-1 tvg-id="人间卫视" tvg-name="人间卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/人间卫视.png" group-title="台湾频道",人间卫视
-https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 #EXTINF:-1 tvg-id="人间卫视" tvg-name="人间卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/人间卫视.png" group-title="台湾频道",人间卫视
 http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 #EXTINF:-1 tvg-id="人间卫视" tvg-name="人间卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/人间卫视.png" group-title="台湾频道",人间卫视
@@ -111,6 +111,8 @@ http://61.221.215.25:8800/hls/57/index.m3u8
 https://67acccf130420.streamlock.net/enlacepr1/enlacepr1/playlist.m3u8
 #EXTINF:-1 tvg-id="周星驰" tvg-name="周星驰" tvg-logo="https://www.xn--rgv465a.top/tvlogo/周星驰.png" group-title="电影频道",周星驰
 http://38.75.136.137:98/gslb/dsdqpub/lbzxc.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="成龙" tvg-name="成龙" tvg-logo="https://www.xn--rgv465a.top/tvlogo/成龙.png" group-title="电影频道",成龙
+https://isus.cc/php/huya.php?id=11342386
 #EXTINF:-1 tvg-id="古天乐" tvg-name="古天乐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/古天乐.png" group-title="电影频道",古天乐
 https://isus.cc/php/huya.php?id=29982675
 #EXTINF:-1 tvg-id="王晶" tvg-name="王晶" tvg-logo="https://www.xn--rgv465a.top/tvlogo/王晶.png" group-title="电影频道",王晶
@@ -119,5 +121,5 @@ https://isus.cc/php/huya.php?id=11602058
 https://isus.cc/php/huya.php?id=11602044
 #EXTINF:-1 tvg-id="许氏三杰" tvg-name="许氏三杰" tvg-logo="https://www.xn--rgv465a.top/tvlogo/许氏三杰.png" group-title="电影频道",许氏三杰
 https://isus.cc/php/huya.php?id=11602033
-#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-06-09 19:26:23
+#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-06-09 20:16:24
 http://mg.hmysapp.cn:177/卫视/山东卫视.php?id=301
