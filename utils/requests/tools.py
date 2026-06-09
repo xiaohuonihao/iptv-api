@@ -1,4 +1,5 @@
 import re
+import chardet
 
 import requests
 from bs4 import BeautifulSoup
@@ -49,7 +50,29 @@ def get_requests(url, data=None, proxy=None, timeout=30, headers_override: dict 
     if response is None:
         raise requests.RequestException(f"No response from {url}")
 
-    text = re.sub(r"<!--.*?-->", "", response.text or "", flags=re.DOTALL)
+    # ========== 添加编码修复逻辑 ==========
+    # 获取原始字节内容
+    raw_content = response.content
+    
+    # 自动检测真实编码
+    detected_encoding = chardet.detect(raw_content)['encoding']
+    print(f"🔍 自动检测到编码: {detected_encoding} for {url}")
+    
+    # 用检测到的编码重新解码
+    try:
+        fixed_text = raw_content.decode(detected_encoding)
+    except (UnicodeDecodeError, LookupError):
+        # 失败则回退到 utf-8，忽略错误字符
+        print(f"⚠️ 解码失败，回退到 utf-8 for {url}")
+        fixed_text = raw_content.decode('utf-8', errors='ignore')
+    
+    # 替换 response 的 text 属性为修复后的内容
+    response._text = fixed_text
+    # 同时更新 encoding 属性，让后续 response.text 也能返回正确内容
+    response.encoding = detected_encoding if detected_encoding else 'utf-8'
+    # ========== 修复结束 ==========
+
+    text = re.sub(r"<!--.*?-->", "", fixed_text or "", flags=re.DOTALL)
     if not text.strip():
         raise requests.RequestException(f"Empty response from {url}")
 
