@@ -108,21 +108,8 @@ async def get_channels_by_subscribe_urls(
                 disable_reason = t("msg.auto_disable_request_failed")
             if response:
                 if hasattr(response, 'text'):
-                    # ==========================================
-                    # 修改：自动检测编码（优先 GBK，回退 UTF-8）
-                    # ==========================================
-                    # 先尝试用 GBK 解码（你的订阅源是这个编码）
-                    try:
-                        response.encoding = "gbk"
-                        content = response.text
-                        # 如果解码后出现典型乱码字符，说明不是 GBK，回退到 UTF-8
-                        if 'å' in content or '鍜' in content or 'ç' in content:
-                            raise Exception("detected garbled, fallback to utf-8")
-                    except Exception:
-                        # GBK 失败或产生乱码，改用 UTF-8
-                        response.encoding = "utf-8"
-                        content = response.text
-                    # ==========================================
+                    response.encoding = "utf-8"
+                    content = response.text
                 else:
                     content = str(response)
                 if not content:
