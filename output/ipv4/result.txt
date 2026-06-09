@@ -42,11 +42,6 @@ HOY 78,http://rihou.cc:555/tv/[Pd]æçº¿æ°é»
 台湾频道,#genre#
 台视,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 台视,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
-台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-台视新闻,http://38.64.72.148:80/hls/modn/list/4013/playlist.m3u8
-台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 中天娱乐台,http://61.221.215.25:8800/hls/47/index.m3u8
 民视第一台,http://37.27.111.214:8080/live/4/hls.m3u8
@@ -71,6 +66,17 @@ tvN,http://217.26.190.76:8888/play/a0m6/index.m3u8
 
 电影频道,#genre#
 周星驰,http://38.75.136.137:98/gslb/dsdqpub/lbzxc.m3u8?auth=testpub
+周星驰,https://isus.cc/php/huya.php?id=11342412
+刘德华,https://isus.cc/php/huya.php?id=11342424
+成龙,https://isus.cc/php/huya.php?id=11342386
+林正英,https://isus.cc/php/huya.php?id=11342421
+古天乐,https://isus.cc/php/huya.php?id=29982675
+王晶,https://isus.cc/php/huya.php?id=11602058
+海盗,https://isus.cc/php/huya.php?id=21059595
+喜剧专场,https://isus.cc/php/huya.php?id=11602044
+女神系列,https://isus.cc/php/huya.php?id=11336571
+许氏三杰,https://isus.cc/php/huya.php?id=11602033
+国产悬疑,https://isus.cc/php/huya.php?id=11342395
 
 游戏赛事,#genre#
 
@@ -151,4 +157,4 @@ tvN,http://217.26.190.76:8888/play/a0m6/index.m3u8
 广*场*舞,#genre#
 
 🕘️更新时间,#genre#
-2026-06-09 12:04:11,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+2026-06-09 12:37:00,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
