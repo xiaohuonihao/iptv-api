@@ -48,9 +48,9 @@ http://r.jdshipin.com/yDoTN
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰香港.png" group-title="香港频道",凤凰香港
 http://cdn6.163189.xyz/163189/fhhk
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰中文.png" group-title="香港频道",凤凰中文
+http://mg.hmysapp.cn:177/港澳台/香港港hk/凤凰卫视中文台.php?id=301
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰中文.png" group-title="香港频道",凤凰中文
 https://cdn6.163189.xyz/163189/fhzw
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰资讯.png" group-title="香港频道",凤凰资讯
-http://mg.hmysapp.cn:177/港澳台/香港港hk/凤凰卫视资讯台.php?id=301
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰资讯.png" group-title="香港频道",凤凰资讯
 https://cdn6.163189.xyz/163189/fhzx
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/翡翠台.png" group-title="香港频道",翡翠台
@@ -72,6 +72,8 @@ https://cdn6.163189.xyz/163189/mzt
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/明珠台.png" group-title="香港频道",明珠台
 http://o11.163189.xyz/stream/tvb/mzt/
 #EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVB Plus.png" group-title="香港频道",TVB Plus
+http://mg.hmysapp.cn:177/港澳台/香港港hk/TVBplus.php?id=301
+#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVB Plus.png" group-title="香港频道",TVB Plus
 https://tvb.go-iptv.ggff.net/stream/tvb/tvbplus/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
 #EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVB Plus.png" group-title="香港频道",TVB Plus
 https://o11.163189.xyz/stream/tvb/tvbp/
@@ -90,6 +92,8 @@ https://o11.163189.xyz/stream/live/jade/
 #EXTINF:-1 tvg-id="华丽翡翠台" tvg-name="华丽翡翠台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/华丽翡翠台.png" group-title="香港频道",华丽翡翠台
 http://r.jdshipin.com/thuYX
 #EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/无线新闻台.png" group-title="香港频道",无线新闻台
+http://mg.hmysapp.cn:177/港澳台/香港港hk/无线新闻台.php?id=301
+#EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/无线新闻台.png" group-title="香港频道",无线新闻台
 https://cdn6.163189.xyz/163189/wxxw
 #EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/无线新闻台.png" group-title="香港频道",无线新闻台
 https://smt.1678520.xyz/smt3.2.3.php?id=inews_twn
@@ -105,6 +109,8 @@ https://cdn6.163189.xyz/163189/hlfct
 https://cdn6.163189.xyz/163189/yzwx
 #EXTINF:-1 tvg-id="无线星河台" tvg-name="无线星河台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/无线星河台.png" group-title="香港频道",无线星河台
 https://cdn6.163189.xyz/163189/tvbxh
+#EXTINF:-1 tvg-id="娱乐新闻台" tvg-name="娱乐新闻台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/娱乐新闻台.png" group-title="香港频道",娱乐新闻台
+http://mg.hmysapp.cn:177/港澳台/香港港hk/娱乐新闻台.php?id=301
 #EXTINF:-1 tvg-id="星河台" tvg-name="星河台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/星河台.png" group-title="香港频道",星河台
 https://o11.163189.xyz/stream/live/tvbxh/
 #EXTINF:-1 tvg-id="翡翠一台" tvg-name="翡翠一台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/翡翠一台.png" group-title="香港频道",翡翠一台
@@ -113,6 +119,8 @@ https://mytv.cdn.loc.cc/o12.php?id=fct
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 #EXTINF:-1 tvg-id="香港面包台" tvg-name="香港面包台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/香港面包台.png" group-title="香港频道",香港面包台
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+#EXTINF:-1 tvg-id="美亚电影台" tvg-name="美亚电影台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/美亚电影台.png" group-title="香港频道",美亚电影台
+http://mg.hmysapp.cn:177/港澳台/香港港hk/美亞電影台.php?id=301
 #EXTINF:-1 tvg-id="有线新闻" tvg-name="有线新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/有线新闻.png" group-title="香港频道",有线新闻
 https://cdn.163189.xyz/163189/hoy78
 #EXTINF:-1 tvg-id="Now新闻" tvg-name="Now新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Now新闻.png" group-title="香港频道",Now新闻
@@ -182,15 +190,19 @@ http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
 #EXTINF:-1 tvg-id="澳门莲花" tvg-name="澳门莲花" tvg-logo="https://www.xn--rgv465a.top/tvlogo/澳门莲花.png" group-title="澳门频道",澳门莲花
 http://cdn6.163189.xyz/163189/amlh
 #EXTINF:-1 tvg-id="台视" tvg-name="台视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/台视.png" group-title="台湾频道",台视
+http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1 tvg-id="台视" tvg-name="台视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/台视.png" group-title="台湾频道",台视
 http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 #EXTINF:-1 tvg-id="公视" tvg-name="公视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/公视.png" group-title="台湾频道",公视
 https://cdn12.178.indevs.in/163189/2973b910e7719c08
 #EXTINF:-1 tvg-id="台视新闻" tvg-name="台视新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/台视新闻.png" group-title="台湾频道",台视新闻
-http://38.64.72.148:80/hls/modn/list/4013/playlist.m3u8
-#EXTINF:-1 tvg-id="台视新闻" tvg-name="台视新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/台视新闻.png" group-title="台湾频道",台视新闻
 http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1 tvg-id="台视新闻" tvg-name="台视新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/台视新闻.png" group-title="台湾频道",台视新闻
+http://38.64.72.148:80/hls/modn/list/4013/playlist.m3u8
 #EXTINF:-1 tvg-id="民视新闻" tvg-name="民视新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/民视新闻.png" group-title="台湾频道",民视新闻
 http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 tvg-id="民视新闻" tvg-name="民视新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/民视新闻.png" group-title="台湾频道",民视新闻
+http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 #EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVBS新闻.png" group-title="台湾频道",TVBS新闻
 http://61.221.215.25:8800/hls/9/index.m3u8
 #EXTINF:-1 tvg-id="中天娱乐台" tvg-name="中天娱乐台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中天娱乐台.png" group-title="台湾频道",中天娱乐台
@@ -208,9 +220,9 @@ http://61.221.215.25:8800/hls/41/index.m3u8
 #EXTINF:-1 tvg-id="人间卫视" tvg-name="人间卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/人间卫视.png" group-title="台湾频道",人间卫视
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 #EXTINF:-1 tvg-id="人间卫视" tvg-name="人间卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/人间卫视.png" group-title="台湾频道",人间卫视
-http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
-#EXTINF:-1 tvg-id="人间卫视" tvg-name="人间卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/人间卫视.png" group-title="台湾频道",人间卫视
 http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+#EXTINF:-1 tvg-id="人间卫视" tvg-name="人间卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/人间卫视.png" group-title="台湾频道",人间卫视
+http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
 #EXTINF:-1 tvg-id="龙华电影台" tvg-name="龙华电影台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/龙华电影台.png" group-title="台湾频道",龙华电影台
 https://cdn8.163189.xyz/163189/lhdy
 #EXTINF:-1 tvg-id="龙华电影台" tvg-name="龙华电影台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/龙华电影台.png" group-title="台湾频道",龙华电影台
@@ -286,6 +298,8 @@ https://isus.cc/php/huya.php?id=21059595
 #EXTINF:-1 tvg-id="喜剧专场" tvg-name="喜剧专场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/喜剧专场.png" group-title="电影频道",喜剧专场
 https://isus.cc/php/huya.php?id=11602044
 #EXTINF:-1 tvg-id="女神系列" tvg-name="女神系列" tvg-logo="https://www.xn--rgv465a.top/tvlogo/女神系列.png" group-title="电影频道",女神系列
+https://isus.cc/php/huya.php?id=11336571
+#EXTINF:-1 tvg-id="女神系列" tvg-name="女神系列" tvg-logo="https://www.xn--rgv465a.top/tvlogo/女神系列.png" group-title="电影频道",女神系列
 https://live.metshop.top/huya/11336571
 #EXTINF:-1 tvg-id="经典女神" tvg-name="经典女神" tvg-logo="https://www.xn--rgv465a.top/tvlogo/经典女神.png" group-title="电影频道",经典女神
 https://live.metshop.top/huya/11352909
@@ -323,5 +337,5 @@ https://cdn2.163189.xyz/163189/gdzj
 https://cdn2.163189.xyz/163189/gdty
 #EXTINF:-1 tvg-id="福建海峡卫视" tvg-name="福建海峡卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/福建海峡卫视.png" group-title="福建",福建海峡卫视
 https://cdn3.163189.xyz/163189/hxws
-#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-06-09 23:26:20
+#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-06-09 23:41:37
 https://live.chinacert.cftest5.cn/cnmg/live/608807420

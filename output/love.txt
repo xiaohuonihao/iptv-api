@@ -33,8 +33,8 @@ CCTV-13,https://cdn3.163189.xyz/163189/cctv13
 凤凰香港,https://cdn6.163189.xyz/163189/fhhk
 凤凰香港,http://r.jdshipin.com/yDoTN
 凤凰香港,http://cdn6.163189.xyz/163189/fhhk
+凤凰中文,http://mg.hmysapp.cn:177/港澳台/香港港hk/凤凰卫视中文台.php?id=301
 凤凰中文,https://cdn6.163189.xyz/163189/fhzw
-凤凰资讯,http://mg.hmysapp.cn:177/港澳台/香港港hk/凤凰卫视资讯台.php?id=301
 凤凰资讯,https://cdn6.163189.xyz/163189/fhzx
 翡翠台,http://mg.hmysapp.cn:177/港澳台/香港港hk/翡翠台.php?id=301
 翡翠台,https://mytv.cdn.loc.cc/o12.php?id=fct
@@ -45,6 +45,7 @@ CCTV-13,https://cdn3.163189.xyz/163189/cctv13
 明珠台,https://o11.163189.xyz/stream/tvb/mzt/
 明珠台,https://cdn6.163189.xyz/163189/mzt
 明珠台,http://o11.163189.xyz/stream/tvb/mzt/
+TVB Plus,http://mg.hmysapp.cn:177/港澳台/香港港hk/TVBplus.php?id=301
 TVB Plus,https://tvb.go-iptv.ggff.net/stream/tvb/tvbplus/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
 TVB Plus,https://o11.163189.xyz/stream/tvb/tvbp/
 TVB Plus,https://cdn6.163189.xyz/163189/tvbp
@@ -54,6 +55,7 @@ TVBS,http://mg.hmysapp.cn:177/港澳台/台湾湾4G/TVBS.php?id=301
 华丽翡翠台,https://o11.163189.xyz/stream/live/hlt/
 华丽翡翠台,https://o11.163189.xyz/stream/live/jade/
 华丽翡翠台,http://r.jdshipin.com/thuYX
+无线新闻台,http://mg.hmysapp.cn:177/港澳台/香港港hk/无线新闻台.php?id=301
 无线新闻台,https://cdn6.163189.xyz/163189/wxxw
 无线新闻台,https://smt.1678520.xyz/smt3.2.3.php?id=inews_twn
 无线新闻台,https://cdn6.163189.xyz/163189/wxxwt
@@ -62,10 +64,12 @@ TVBS,http://mg.hmysapp.cn:177/港澳台/台湾湾4G/TVBS.php?id=301
 无线华丽台,https://cdn6.163189.xyz/163189/hlfct
 无线功夫台,https://cdn6.163189.xyz/163189/yzwx
 无线星河台,https://cdn6.163189.xyz/163189/tvbxh
+娱乐新闻台,http://mg.hmysapp.cn:177/港澳台/香港港hk/娱乐新闻台.php?id=301
 星河台,https://o11.163189.xyz/stream/live/tvbxh/
 翡翠一台,https://mytv.cdn.loc.cc/o12.php?id=fct
 香港C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+美亚电影台,http://mg.hmysapp.cn:177/港澳台/香港港hk/美亞電影台.php?id=301
 有线新闻,https://cdn.163189.xyz/163189/hoy78
 Now新闻,https://cdn.163189.xyz/163189/now
 Now新闻,http://cdn.163189.xyz/163189/now
@@ -104,11 +108,13 @@ ViuTV,https://cdn.163189.xyz/163189/viu
 澳门莲花,http://cdn6.163189.xyz/163189/amlh
 
 台湾频道,#genre#
+台视,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 台视,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 公视,https://cdn12.178.indevs.in/163189/2973b910e7719c08
-台视新闻,http://38.64.72.148:80/hls/modn/list/4013/playlist.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/playlist.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 中天娱乐台,http://61.221.215.25:8800/hls/47/index.m3u8
 民视第一台,http://37.27.111.214:8080/live/4/hls.m3u8
@@ -117,8 +123,8 @@ TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 纬来电影台,https://smt.1678520.xyz/163189/602e9465658d4f8c
 三立戏剧台,http://61.221.215.25:8800/hls/41/index.m3u8
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
-人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
 龙华电影台,https://cdn8.163189.xyz/163189/lhdy
 龙华电影台,http://cdn8.163189.xyz/163189/lhdy
 龙华戏剧台,https://cdn8.163189.xyz/163189/lhxj
@@ -160,6 +166,7 @@ tvN,http://217.26.190.76:8888/play/a0m6/index.m3u8
 港片,https://live.metshop.top/huya/11602043
 海盗,https://isus.cc/php/huya.php?id=21059595
 喜剧专场,https://isus.cc/php/huya.php?id=11602044
+女神系列,https://isus.cc/php/huya.php?id=11336571
 女神系列,https://live.metshop.top/huya/11336571
 经典女神,https://live.metshop.top/huya/11352909
 许氏三杰,https://isus.cc/php/huya.php?id=11602033
@@ -259,4 +266,4 @@ tvN,http://217.26.190.76:8888/play/a0m6/index.m3u8
 广*场*舞,#genre#
 
 🕘️更新时间,#genre#
-2026-06-09 23:26:20,https://live.chinacert.cftest5.cn/cnmg/live/608807420
+2026-06-09 23:41:37,https://live.chinacert.cftest5.cn/cnmg/live/608807420
