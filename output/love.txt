@@ -29,12 +29,11 @@ CCTV-13,https://cdn3.163189.xyz/163189/cctv13
 香港频道,#genre#
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 凤凰卫视,http://221.7.175.154:8445/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰香港,http://mg.hmysapp.cn:177/港澳台/香港港hk/凤凰卫视香港台.php?id=301
 凤凰香港,https://cdn6.163189.xyz/163189/fhhk
 凤凰香港,http://r.jdshipin.com/yDoTN
 凤凰香港,http://cdn6.163189.xyz/163189/fhhk
-凤凰中文,http://mg.hmysapp.cn:177/港澳台/香港港hk/凤凰卫视中文台.php?id=301
 凤凰中文,https://cdn6.163189.xyz/163189/fhzw
+凤凰资讯,http://mg.hmysapp.cn:177/港澳台/香港港hk/凤凰卫视资讯台.php?id=301
 凤凰资讯,https://cdn6.163189.xyz/163189/fhzx
 翡翠台,http://mg.hmysapp.cn:177/港澳台/香港港hk/翡翠台.php?id=301
 翡翠台,https://mytv.cdn.loc.cc/o12.php?id=fct
@@ -55,7 +54,6 @@ TVBS,http://mg.hmysapp.cn:177/港澳台/台湾湾4G/TVBS.php?id=301
 华丽翡翠台,https://o11.163189.xyz/stream/live/hlt/
 华丽翡翠台,https://o11.163189.xyz/stream/live/jade/
 华丽翡翠台,http://r.jdshipin.com/thuYX
-无线新闻台,http://mg.hmysapp.cn:177/港澳台/香港港hk/无线新闻台.php?id=301
 无线新闻台,https://cdn6.163189.xyz/163189/wxxw
 无线新闻台,https://smt.1678520.xyz/smt3.2.3.php?id=inews_twn
 无线新闻台,https://cdn6.163189.xyz/163189/wxxwt
@@ -111,8 +109,8 @@ ViuTV,https://cdn.163189.xyz/163189/viu
 台视,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 台视,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 公视,https://cdn12.178.indevs.in/163189/2973b910e7719c08
-台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/playlist.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
@@ -123,8 +121,8 @@ TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 纬来电影台,https://smt.1678520.xyz/163189/602e9465658d4f8c
 三立戏剧台,http://61.221.215.25:8800/hls/41/index.m3u8
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
-人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
+人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 龙华电影台,https://cdn8.163189.xyz/163189/lhdy
 龙华电影台,http://cdn8.163189.xyz/163189/lhdy
 龙华戏剧台,https://cdn8.163189.xyz/163189/lhxj
@@ -266,4 +264,4 @@ tvN,http://217.26.190.76:8888/play/a0m6/index.m3u8
 广*场*舞,#genre#
 
 🕘️更新时间,#genre#
-2026-06-09 23:41:37,https://live.chinacert.cftest5.cn/cnmg/live/608807420
+2026-06-10 00:04:32,https://live.chinacert.cftest5.cn/cnmg/live/608807420
