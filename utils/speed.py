@@ -16,22 +16,6 @@ from utils.tools import get_resolution_value
 from utils.types import TestResult, ChannelTestResult, TestResultCacheData
 
 http.cookies._is_legal_key = lambda _: True
-
-# ========== 添加修复函数 ==========
-def fix_url_encoding(url):
-    """
-    修复因编解码错误而变成乱码的URL中的中文字符
-    例如：将 'åªå' 恢复为 '哔哩'
-    """
-    if not url or '%' in url:  # 已经是标准编码的就不处理
-        return url
-    try:
-        # 核心修复：乱码字符串 -> Latin-1字节 -> UTF-8解码
-        return url.encode('latin-1').decode('utf-8')
-    except (UnicodeDecodeError, UnicodeEncodeError):
-        return url
-# ========== 添加结束 ==========
-
 cache: TestResultCacheData = {}
 speed_test_timeout = config.speed_test_timeout
 speed_test_filter_host = config.speed_test_filter_host
@@ -474,7 +458,6 @@ async def get_speed(data, headers=None, ipv6_proxy=None, filter_resolution=open_
     Get the speed (response time and resolution) of the url
     """
     url = data['url']
-    url = fix_url_encoding(url)  # <========== 添加这一行：修复乱码URL
     resolution = data['resolution']
     result: TestResult = {'speed': 0, 'delay': -1, 'resolution': resolution}
     headers = {**request_headers, **(headers or {})}
