@@ -461,6 +461,19 @@ async def get_speed(data, headers=None, ipv6_proxy=None, filter_resolution=open_
     resolution = data['resolution']
     result: TestResult = {'speed': 0, 'delay': -1, 'resolution': resolution}
     headers = {**request_headers, **(headers or {})}
+    
+    # ========== 新增：专门处理 http://.../rtp/... 格式 ==========
+    if 'http://' in url and '/rtp/' in url:
+        # 这种是你通过 HTTP 代理访问的组播地址，直接通过
+        result['delay'] = 0
+        result['speed'] = float("inf")
+        if not result.get('resolution'):
+            result['resolution'] = "1920x1080"
+        if logger:
+            logger.info(f"HTTP代理组播地址跳过测速: {url}")
+        return result
+    # ========================================================
+    
     try:
         cache_key = data['host'] if speed_test_filter_host else url
         if cache_key and cache_key in cache:
@@ -468,21 +481,7 @@ async def get_speed(data, headers=None, ipv6_proxy=None, filter_resolution=open_
         else:
             if data['ipv_type'] == "ipv6" and ipv6_proxy:
                 result.update(default_ipv6_result)
-            elif '/rtp/' in url:
-                start_time = time()
-                if not result['resolution'] and filter_resolution:
-                    try:
-                        probed = await probe_url(url, headers, timeout=timeout)
-                        if probed and probed.get('resolution'):
-                            result['resolution'] = probed.get('resolution')
-                            result['fps'] = probed.get('fps')
-                            result['video_codec'] = probed.get('video_codec')
-                            result['audio_codec'] = probed.get('audio_codec')
-                    except Exception:
-                        pass
-                result['delay'] = int(round((time() - start_time) * 1000))
-                if result.get('resolution') is not None:
-                    result['speed'] = float("inf")
+            
             else:
                 result.update(await get_result(url, headers, resolution, filter_resolution, timeout))
             if cache_key:
