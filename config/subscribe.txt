@@ -3,7 +3,7 @@
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
 
-https://gh-proxy.org/https://raw.githubusercontent.com/xiaolong-nihao/IPTV-api/refs/heads/master/output/zblove.txt
+# https://gh-proxy.org/https://raw.githubusercontent.com/xiaolong-nihao/IPTV-api/refs/heads/master/output/zblove.txt
 
 https://18592.kstore.space/TVBox/tvzb.txt
 # https://18592.kstore.space/%E6%B5%8B%E8%AF%95/01.json
