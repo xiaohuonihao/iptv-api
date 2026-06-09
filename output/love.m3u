@@ -59,6 +59,18 @@ http://rihou.cc:555/tv/[Pd]澳门综艺
 http://rihou.cc:555/tv/[Pd]澳门莲花
 #EXTINF:-1 tvg-id="台视" tvg-name="台视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/台视.png" group-title="台湾频道",台视
 http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1 tvg-id="台视" tvg-name="台视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/台视.png" group-title="台湾频道",台视
+http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1 tvg-id="台视新闻" tvg-name="台视新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/台视新闻.png" group-title="台湾频道",台视新闻
+http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1 tvg-id="台视新闻" tvg-name="台视新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/台视新闻.png" group-title="台湾频道",台视新闻
+http://38.64.72.148:80/hls/modn/list/4013/playlist.m3u8
+#EXTINF:-1 tvg-id="台视新闻" tvg-name="台视新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/台视新闻.png" group-title="台湾频道",台视新闻
+http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1 tvg-id="民视新闻" tvg-name="民视新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/民视新闻.png" group-title="台湾频道",民视新闻
+http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 tvg-id="民视新闻" tvg-name="民视新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/民视新闻.png" group-title="台湾频道",民视新闻
+http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 #EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVBS新闻.png" group-title="台湾频道",TVBS新闻
 http://61.221.215.25:8800/hls/9/index.m3u8
 #EXTINF:-1 tvg-id="中天娱乐台" tvg-name="中天娱乐台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中天娱乐台.png" group-title="台湾频道",中天娱乐台
@@ -99,5 +111,27 @@ http://61.221.215.25:8800/hls/57/index.m3u8
 https://67acccf130420.streamlock.net/enlacepr1/enlacepr1/playlist.m3u8
 #EXTINF:-1 tvg-id="周星驰" tvg-name="周星驰" tvg-logo="https://www.xn--rgv465a.top/tvlogo/周星驰.png" group-title="电影频道",周星驰
 http://38.75.136.137:98/gslb/dsdqpub/lbzxc.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-06-09 15:07:14
+#EXTINF:-1 tvg-id="周星驰" tvg-name="周星驰" tvg-logo="https://www.xn--rgv465a.top/tvlogo/周星驰.png" group-title="电影频道",周星驰
+https://isus.cc/php/huya.php?id=11342412
+#EXTINF:-1 tvg-id="刘德华" tvg-name="刘德华" tvg-logo="https://www.xn--rgv465a.top/tvlogo/刘德华.png" group-title="电影频道",刘德华
+https://isus.cc/php/huya.php?id=11342424
+#EXTINF:-1 tvg-id="成龙" tvg-name="成龙" tvg-logo="https://www.xn--rgv465a.top/tvlogo/成龙.png" group-title="电影频道",成龙
+https://isus.cc/php/huya.php?id=11342386
+#EXTINF:-1 tvg-id="林正英" tvg-name="林正英" tvg-logo="https://www.xn--rgv465a.top/tvlogo/林正英.png" group-title="电影频道",林正英
+https://isus.cc/php/huya.php?id=11342421
+#EXTINF:-1 tvg-id="古天乐" tvg-name="古天乐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/古天乐.png" group-title="电影频道",古天乐
+https://isus.cc/php/huya.php?id=29982675
+#EXTINF:-1 tvg-id="王晶" tvg-name="王晶" tvg-logo="https://www.xn--rgv465a.top/tvlogo/王晶.png" group-title="电影频道",王晶
+https://isus.cc/php/huya.php?id=11602058
+#EXTINF:-1 tvg-id="海盗" tvg-name="海盗" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海盗.png" group-title="电影频道",海盗
+https://isus.cc/php/huya.php?id=21059595
+#EXTINF:-1 tvg-id="喜剧专场" tvg-name="喜剧专场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/喜剧专场.png" group-title="电影频道",喜剧专场
+https://isus.cc/php/huya.php?id=11602044
+#EXTINF:-1 tvg-id="女神系列" tvg-name="女神系列" tvg-logo="https://www.xn--rgv465a.top/tvlogo/女神系列.png" group-title="电影频道",女神系列
+https://isus.cc/php/huya.php?id=11336571
+#EXTINF:-1 tvg-id="许氏三杰" tvg-name="许氏三杰" tvg-logo="https://www.xn--rgv465a.top/tvlogo/许氏三杰.png" group-title="电影频道",许氏三杰
+https://isus.cc/php/huya.php?id=11602033
+#EXTINF:-1 tvg-id="国产悬疑" tvg-name="国产悬疑" tvg-logo="https://www.xn--rgv465a.top/tvlogo/国产悬疑.png" group-title="电影频道",国产悬疑
+https://isus.cc/php/huya.php?id=11342395
+#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-06-09 15:09:45
 http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
