@@ -215,6 +215,7 @@ async def get_result(url: str, headers: dict = None, resolution: str = None,
                 else:
                     res_info = await get_speed_with_download(url, headers, session, timeout)
                     info.update({'speed': res_info['speed'], 'delay': res_info['delay']})
+                    return info  # <-- 只需要加这一行
                 start_time = time()
                 sampled_segment_urls = sample_segment_urls(segment_urls, speed_test_limit)
                 tasks = [get_speed_with_download(ts_url, headers, session, timeout) for ts_url in sampled_segment_urls]
@@ -287,47 +288,6 @@ async def get_delay_requests(url, timeout=speed_test_timeout, proxy=None):
         except Exception as e:
             return -1
         return int(round((end - start) * 1000)) if end else -1
-
-# ========== 在这里添加新函数 ==========
-async def get_resolution_ffprobe_173(url: str, headers: dict = None, timeout: int = 5) -> str | None:
-    """
-    从 1.7.3 搬运的 get_resolution_ffprobe 函数
-    轻量级获取分辨率，不下载视频
-    """
-    import json
-    resolution = None
-    proc = None
-    try:
-        headers_str = ''
-        if headers:
-            headers_str = ''.join(f'{k}: {v}\r\n' for k, v in headers.items())
-        
-        probe_args = [
-            'ffprobe',
-            '-v', 'error',
-            '-headers', headers_str,
-            '-select_streams', 'v:0',
-            '-show_entries', 'stream=width,height',
-            '-of', 'json',
-            url
-        ]
-        proc = await asyncio.create_subprocess_exec(
-            *probe_args,
-            stdout=asyncio.subprocess.PIPE,
-            stderr=asyncio.subprocess.PIPE
-        )
-        out, _ = await asyncio.wait_for(proc.communicate(), timeout=timeout)
-        if out:
-            video_stream = json.loads(out.decode('utf-8'))["streams"][0]
-            resolution = f"{video_stream['width']}x{video_stream['height']}"
-    except Exception:
-        if proc:
-            proc.kill()
-    finally:
-        if proc:
-            await proc.wait()
-        return resolution
-# ====================================
 
 
 def get_video_info(video_info):
@@ -502,25 +462,6 @@ async def get_speed(data, headers=None, ipv6_proxy=None, filter_resolution=open_
     resolution = data['resolution']
     result: TestResult = {'speed': 0, 'delay': -1, 'resolution': resolution}
     headers = {**request_headers, **(headers or {})}
-    
-    # ========== 使用 1.7.3 的测速逻辑（针对 http://.../rtp/... 和 rtp://...）==========
-    if ('http://' in url and '/rtp/' in url) or url.startswith('rtp://'):
-        start_time = time()
-        if not result['resolution'] and filter_resolution:
-            try:
-                resolution_val = await get_resolution_ffprobe_173(url, headers, timeout=5)
-                if resolution_val:
-                    result['resolution'] = resolution_val
-            except Exception:
-                pass
-        result['delay'] = int(round((time() - start_time) * 1000))
-        if result.get('resolution') is not None:
-            result['speed'] = float("inf")
-        if logger:
-            logger.info(f"组播宽容模式: {url}, 延迟: {result['delay']}ms, 分辨率: {result['resolution']}")
-        return result
-    # ================================================================
-    
     try:
         cache_key = data['host'] if speed_test_filter_host else url
         if cache_key and cache_key in cache:
@@ -528,7 +469,23 @@ async def get_speed(data, headers=None, ipv6_proxy=None, filter_resolution=open_
         else:
             if data['ipv_type'] == "ipv6" and ipv6_proxy:
                 result.update(default_ipv6_result)
-            
+            elif constants.rt_url_pattern.match(url) is not None:
+                rt_headers = await get_headers(url, headers)
+                if rt_headers:
+                    start_time = time()
+                    ff_out = await ffmpeg_url(url, headers, timeout)
+                    if ff_out:
+                        try:
+                            parsed = get_video_info(ff_out)
+                            if parsed:
+                                result['delay'] = int(round((time() - start_time) * 1000))
+                                result['speed'] = parsed['speed']
+                                result['resolution'] = parsed['resolution']
+                                result['fps'] = parsed['fps']
+                                result['video_codec'] = parsed['video_codec']
+                                result['audio_codec'] = parsed['audio_codec']
+                        except Exception:
+                            pass
             else:
                 result.update(await get_result(url, headers, resolution, filter_resolution, timeout))
             if cache_key:
