@@ -463,52 +463,28 @@ async def get_speed(data, headers=None, ipv6_proxy=None, filter_resolution=open_
     result: TestResult = {'speed': 0, 'delay': -1, 'resolution': resolution}
     headers = {**request_headers, **(headers or {})}
     
-    # ========== 添加调试：检测组播代理 ==========
+    # 🟢 添加：检测组播代理链接
     is_rtp_proxy = '/rtp/' in url or url.startswith('rtp://')
-    if logger and is_rtp_proxy:
-        logger.info(f"🔍 检测到组播代理链接: {url}")
-    # ===========================================
     
     try:
         cache_key = data['host'] if speed_test_filter_host else url
         if cache_key and cache_key in cache:
             result = get_avg_result(cache[cache_key])
-            if logger:
-                logger.info(f"使用缓存: {cache_key}")
         else:
             if data['ipv_type'] == "ipv6" and ipv6_proxy:
                 result.update(default_ipv6_result)
-                if logger:
-                    logger.info(f"IPv6 使用默认结果: {url}")
-            # ========== 组播代理直接测速 ==========
+            # 🟢 添加：组播代理直接测速分支
             elif is_rtp_proxy:
-                if logger:
-                    logger.info(f"🚀 开始组播代理测速: {url}")
-                start_time = time()
-                try:
-                    # 直接调用下载测速，不经过 get_result 的 HEAD 检查
-                    res_info = await get_speed_with_download(url, headers, timeout=timeout)
-                    result['speed'] = res_info['speed']
-                    result['delay'] = res_info['delay']
-                    if logger:
-                        logger.info(f"📊 组播测速结果: speed={result['speed']:.2f} MB/s, delay={result['delay']}ms, size={res_info.get('size', 0)} bytes")
-                except Exception as e:
-                    if logger:
-                        logger.error(f"❌ 组播测速异常: {e}")
-                
-                # 尝试获取分辨率
+                res_info = await get_speed_with_download(url, headers, timeout=timeout)
+                result['speed'] = res_info['speed']
+                result['delay'] = res_info['delay']
                 if filter_resolution and not result.get('resolution'):
                     try:
-                        if logger:
-                            logger.info(f"🔍 尝试获取分辨率: {url}")
                         probed = await probe_url(url, headers, timeout=timeout)
                         if probed and probed.get('resolution'):
                             result['resolution'] = probed['resolution']
-                            if logger:
-                                logger.info(f"✅ 获取到分辨率: {result['resolution']}")
-                    except Exception as e:
-                        if logger:
-                            logger.debug(f"分辨率获取失败: {e}")
+                    except:
+                        pass
             # ====================================
             elif constants.rt_url_pattern.match(url) is not None:
                 rt_headers = await get_headers(url, headers)
@@ -528,14 +504,9 @@ async def get_speed(data, headers=None, ipv6_proxy=None, filter_resolution=open_
                         except Exception:
                             pass
             else:
-                if logger:
-                    logger.info(f"普通测速: {url}")
                 result.update(await get_result(url, headers, resolution, filter_resolution, timeout))
             if cache_key:
                 cache.setdefault(cache_key, []).append(result)
-    except Exception as e:
-        if logger:
-            logger.error(f"get_speed 外层异常: {e}")
     finally:
         if callback:
             callback()
