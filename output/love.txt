@@ -28,7 +28,6 @@ CGTN法语,http://mg.hmysapp.cn:177/咪咕央视/咪咕直连/CGTN法语.php?id=
 卫视频道,#genre#
 山东卫视,http://mg.hmysapp.cn:177/卫视/山东卫视.php?id=301
 山东卫视,http://39.77.163.179:4002/rtp/239.253.254.78:8000
-浙江卫视,http://mg.hmysapp.cn:177/卫视/浙江卫视.php?id=301
 湖南卫视,http://mg.hmysapp.cn:177/卫视/湖南卫视.php?id=301
 北京卫视,http://mg.hmysapp.cn:177/卫视/北京卫视.php?id=301
 湖北卫视,http://mg.hmysapp.cn:177/卫视/湖北卫视.php?id=301
@@ -50,7 +49,6 @@ CGTN法语,http://mg.hmysapp.cn:177/咪咕央视/咪咕直连/CGTN法语.php?id=
 陕西卫视,http://mg.hmysapp.cn:177/卫视/陕西卫视.php?id=301
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 深圳卫视,http://mg.hmysapp.cn:177/卫视/深圳卫视.php?id=301
-云南卫视,http://mg.hmysapp.cn:177/卫视/云南卫视.php?id=301
 西藏卫视,http://mg.hmysapp.cn:177/卫视/西藏卫视.php?id=301
 三沙卫视,http://mg.hmysapp.cn:177/卫视/三沙卫视.php?id=301
 海峡卫视,https://cdn3.163189.xyz/163189/hxws
@@ -60,7 +58,6 @@ CGTN法语,http://mg.hmysapp.cn:177/咪咕央视/咪咕直连/CGTN法语.php?id=
 高清频道,#genre#
 
 儿童频道,#genre#
-山东少儿,http://39.77.163.179:4002/rtp/239.253.254.25:8000
 
 体育频道,#genre#
 CCTV-5,http://mg.hmysapp.cn:177/咪咕央视/咪咕直连/cctv5.php
@@ -89,7 +86,6 @@ TVB Plus,https://tvb.go-iptv.ggff.net/stream/tvb/tvbplus/master.m3u8?u=caonima&p
 TVB Plus,https://o11.163189.xyz/stream/tvb/tvbp/
 TVB Plus,https://cdn6.163189.xyz/163189/tvbp
 TVB Plus,http://r.jdshipin.com/Nr5jq
-TVBS,http://mg.hmysapp.cn:177/港澳台/台湾湾4G/TVBS.php?id=301
 华丽翡翠台,https://cdn6.163189.xyz/163189/jade
 华丽翡翠台,https://o11.163189.xyz/stream/live/hlt/
 华丽翡翠台,https://o11.163189.xyz/stream/live/jade/
@@ -102,7 +98,6 @@ TVBS,http://mg.hmysapp.cn:177/港澳台/台湾湾4G/TVBS.php?id=301
 无线华丽台,https://cdn6.163189.xyz/163189/hlfct
 无线功夫台,https://cdn6.163189.xyz/163189/yzwx
 无线星河台,https://cdn6.163189.xyz/163189/tvbxh
-娱乐新闻台,http://mg.hmysapp.cn:177/港澳台/香港港hk/娱乐新闻台.php?id=301
 星河台,https://o11.163189.xyz/stream/live/tvbxh/
 翡翠一台,https://mytv.cdn.loc.cc/o12.php?id=fct
 香港C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
@@ -149,8 +144,8 @@ ViuTV,https://cdn.163189.xyz/163189/viu
 台视,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 台视,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 公视,https://cdn12.178.indevs.in/163189/2973b910e7719c08
-台视新闻,http://38.64.72.148:80/hls/modn/list/4013/playlist.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/playlist.m3u8
 民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
@@ -197,10 +192,8 @@ tvN,http://217.26.190.76:8888/play/a0m6/index.m3u8
 五福星,https://live.metshop.top/huya/11282233
 古天乐,https://isus.cc/php/huya.php?id=29982675
 邱淑贞,https://live.metshop.top/huya/11352949
-王晶,https://isus.cc/php/huya.php?id=11602058
 港片,https://live.metshop.top/huya/11602043
 海盗,https://isus.cc/php/huya.php?id=21059595
-喜剧专场,https://isus.cc/php/huya.php?id=11602044
 女神系列,https://isus.cc/php/huya.php?id=11336571
 女神系列,https://live.metshop.top/huya/11336571
 经典女神,https://live.metshop.top/huya/11352909
@@ -226,10 +219,10 @@ tvN,http://217.26.190.76:8888/play/a0m6/index.m3u8
 山东综艺,http://39.77.163.179:4002/rtp/239.253.254.159:8000
 山东生活,http://39.77.163.179:4002/rtp/239.253.254.151:8000
 山东新闻,http://39.77.163.179:4002/rtp/239.253.254.23:8000
-山东农科,http://39.77.163.179:4002/rtp/239.253.254.24:8000
 山东教育,http://39.77.163.179:4002/rtp/239.253.254.59:8000
 山东文旅,http://39.77.163.179:4002/rtp/239.253.254.160:8000
-青岛QTV2,http://39.77.163.179:4002/rtp/239.253.254.250:8000
+青岛QTV1,http://39.77.163.179:4002/rtp/239.253.254.249:8000
+青岛QTV3,http://39.77.163.179:4002/rtp/239.253.254.251:8000
 
 北京,#genre#
 
@@ -309,4 +302,4 @@ tvN,http://217.26.190.76:8888/play/a0m6/index.m3u8
 广*场*舞,#genre#
 
 🕘️更新时间,#genre#
-2026-06-11 00:36:55,https://live.chinacert.cftest5.cn/cnmg/live/608807420
+2026-06-11 01:27:13,https://live.chinacert.cftest5.cn/cnmg/live/608807420
