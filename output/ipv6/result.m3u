@@ -1239,12 +1239,16 @@ http://stream.jmtv.com.cn/ngpd/sd/live.m3u8
 http://stream.jmtv.com.cn/ggsh/sd/live.m3u8
 #EXTINF:-1 tvg-id="荆门新闻" tvg-name="荆门新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/荆门新闻.png" group-title="湖北",荆门新闻
 https://www.jmtv.com.cn/folder48/folder50/folder62
+#EXTINF:-1 tvg-id="荆门新闻" tvg-name="荆门新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/荆门新闻.png" group-title="湖北",荆门新闻
+http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
 #EXTINF:-1 tvg-id="荆门新闻" tvg-name="荆门公共" tvg-logo="https://www.xn--rgv465a.top/tvlogo/荆门公共.png" group-title="湖北",荆门公共
 http://stream.jmtv.com.cn/ngpd/sd/live.m3u8
 #EXTINF:-1 tvg-id="荆门新闻" tvg-name="荆门公共" tvg-logo="https://www.xn--rgv465a.top/tvlogo/荆门公共.png" group-title="湖北",荆门公共
 http://stream.jmtv.com.cn/ggsh/sd/live.m3u8
 #EXTINF:-1 tvg-id="荆门新闻" tvg-name="荆门公共" tvg-logo="https://www.xn--rgv465a.top/tvlogo/荆门公共.png" group-title="湖北",荆门公共
 https://www.jmtv.com.cn/folder48/folder50/folder62
+#EXTINF:-1 tvg-id="荆门新闻" tvg-name="荆门公共" tvg-logo="https://www.xn--rgv465a.top/tvlogo/荆门公共.png" group-title="湖北",荆门公共
+http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
 #EXTINF:-1 tvg-id="孝感新闻" tvg-name="孝感新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/孝感新闻.png" group-title="湖北",孝感新闻
 https://share.xgrb.cn/live_detail?newsid=25009136_xgrb
 #EXTINF:-1 tvg-id="孝感新闻" tvg-name="孝感新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/孝感新闻.png" group-title="湖北",孝感新闻
@@ -1337,8 +1341,16 @@ http://wxfx.tlbts.com/mag/livevideo/v1/video/wapVideoView?id=56
 http://wxfx.tlbts.com/mag/livevideo/v1/video/wapVideoView?id=58
 #EXTINF:-1 tvg-id="黄山新闻" tvg-name="黄山新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/黄山新闻.png" group-title="安徽",黄山新闻
 http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8
+#EXTINF:-1 tvg-id="黄山新闻" tvg-name="黄山新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/黄山新闻.png" group-title="安徽",黄山新闻
+http://www.hsnewsnet.com/web/tvnews/
+#EXTINF:-1 tvg-id="黄山新闻" tvg-name="黄山新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/黄山新闻.png" group-title="安徽",黄山新闻
+http://www.hsnewsnet.com/web/tvlife/
 #EXTINF:-1 tvg-id="黄山新闻" tvg-name="黄山公共" tvg-logo="https://www.xn--rgv465a.top/tvlogo/黄山公共.png" group-title="安徽",黄山公共
 http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8
+#EXTINF:-1 tvg-id="黄山新闻" tvg-name="黄山公共" tvg-logo="https://www.xn--rgv465a.top/tvlogo/黄山公共.png" group-title="安徽",黄山公共
+http://www.hsnewsnet.com/web/tvnews/
+#EXTINF:-1 tvg-id="黄山新闻" tvg-name="黄山公共" tvg-logo="https://www.xn--rgv465a.top/tvlogo/黄山公共.png" group-title="安徽",黄山公共
+http://www.hsnewsnet.com/web/tvlife/
 #EXTINF:-1 tvg-id="滁州新闻" tvg-name="滁州新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/滁州新闻.png" group-title="安徽",滁州新闻
 http://www.cztv.cc/Live/index?liveid=1
 #EXTINF:-1 tvg-id="滁州新闻" tvg-name="滁州新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/滁州新闻.png" group-title="安徽",滁州新闻
@@ -1489,8 +1501,12 @@ http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226697/1.m3u8
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226659/1.m3u8
 #EXTINF:-1 tvg-id="泸州新闻" tvg-name="泸州新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/泸州新闻.png" group-title="四川",泸州新闻
 http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel102221/playlist.m3u8
+#EXTINF:-1 tvg-id="泸州新闻" tvg-name="泸州新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/泸州新闻.png" group-title="四川",泸州新闻
+http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8
 #EXTINF:-1 tvg-id="泸州新闻" tvg-name="泸州科教生活" tvg-logo="https://www.xn--rgv465a.top/tvlogo/泸州科教生活.png" group-title="四川",泸州科教生活
 http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel102221/playlist.m3u8
+#EXTINF:-1 tvg-id="泸州新闻" tvg-name="泸州科教生活" tvg-logo="https://www.xn--rgv465a.top/tvlogo/泸州科教生活.png" group-title="四川",泸州科教生活
+http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8
 #EXTINF:-1 tvg-id="广安新闻" tvg-name="广安新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广安新闻.png" group-title="四川",广安新闻
 http://live1.gatv.com.cn:85/live/GGPD.m3u8
 #EXTINF:-1 tvg-id="广安新闻" tvg-name="广安新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广安新闻.png" group-title="四川",广安新闻
@@ -1803,5 +1819,5 @@ https://vd3.bdstatic.com/mda-pac5q1he7r5wjykx/576p/h264/1673583274906869271/mda-
 https://vd3.bdstatic.com/mda-nmkefmyd0arci215/576p/h264/1671618057578437373/mda-nmkefmyd0arci215.mp4
 #EXTINF:-1 tvg-id="宝丽金《成立20周年 1990群星演唱会完整版》" tvg-name="宝丽金《成立20周年 1990群星演唱会完整版》" tvg-logo="https://www.xn--rgv465a.top/tvlogo/宝丽金《成立20周年 1990群星演唱会完整版》.png" group-title="演*唱*会",宝丽金《成立20周年 1990群星演唱会完整版》
 https://vd3.bdstatic.com/mda-pbp4sapcn5kmpxhg/hd/cae_h264/1677214872094217006/mda-pbp4sapcn5kmpxhg.mp4
-#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-06-13 22:57:30
+#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-06-14 23:59:38
 https://live.chinacert.cftest5.cn/cnmg/live/608807420
