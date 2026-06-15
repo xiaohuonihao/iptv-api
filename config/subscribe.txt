@@ -8,8 +8,8 @@
 # https://gh-proxy.org/https://raw.githubusercontent.com/xiaolong-nihao/iptvzb/refs/heads/main/zubo.txt
 
  https://18592.kstore.space/TVBox/tvzb.txt
-https://gh-proxy.org/https://raw.githubusercontent.com/xiaolong-nihao/4K-IPTV-M3U/refs/heads/main/txt/output/%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD.txt
-https://gh-proxy.org/https://raw.githubusercontent.com/xiaolong-nihao/4K-IPTV-M3U/refs/heads/main/txt/output/%E8%81%94%E9%80%9A4K%E7%BB%84%E6%92%AD.txt
+ https://gh-proxy.org/https://raw.githubusercontent.com/xiaolong-nihao/4K-IPTV-M3U/refs/heads/main/txt/output/CU_ZB.txt
+ https://gh-proxy.org/https://raw.githubusercontent.com/xiaolong-nihao/4K-IPTV-M3U/refs/heads/main/txt/output/CU4K.txt
  https://gh-proxy.com/https://raw.githubusercontent.com/tianze889/vbd/refs/heads/main/gatw0417.txt
  https://ghfast.top/https://raw.githubusercontent.com/qingtingjjjjjjj/iptv-auto-update/refs/heads/main/my.txt
  https://ghfast.top/https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/zubo_all.txt
