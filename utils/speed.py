@@ -464,7 +464,7 @@ async def get_speed(data, headers=None, ipv6_proxy=None, filter_resolution=open_
     headers = {**request_headers, **(headers or {})}
     
     # 🟢 添加：检测组播代理链接
-    is_rtp_proxy = '/rtp/' in url or url.startswith('rtp://')
+    is_rtp_proxy = '/rtp/' in url or '/udp/' in url or url.startswith(('rtp://', 'udp://'))
     
     try:
         cache_key = data['host'] if speed_test_filter_host else url
