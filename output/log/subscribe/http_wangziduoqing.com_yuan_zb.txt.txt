@@ -753,7 +753,7 @@ w_400,https://live.ottiptv.cc/yy/1354693629
 南国都市4K,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de$LR•IPV4
 世界杯赛线路。赛事结束线路就删掉,#genre#
 瑞典 vs 突尼斯 - 咪咕 (线路1),https://live.666666.zip/stream/12871538.m3u8
-瑞典 vs 突尼斯 - 咪咕 (线路2),https://live.666666.zip/stream/85042987.m3u8
+西班牙vs佛的脚,https://hlsz.yjjcfw.com/live/elta.m3u8?expire=1781552698&sign=b9c41db6b0299d0374b3e22014223c2a
 瑞典 vs 突尼斯 - 咪咕 (线路3),https://live.666666.zip/stream/13212901.m3u8
 瑞典 vs 突尼斯 - 咪咕 (线路4),https://live.666666.zip/stream/79298159.m3u8
 瑞典 vs 突尼斯 - 咪咕 (线路5),https://live.666666.zip/stream/37111391.m3u8
