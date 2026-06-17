@@ -561,7 +561,7 @@ async def get_speed(data, headers=None, ipv6_proxy=None, filter_resolution=open_
                         result['speed'] = float("inf")
                 else:
                     # HTTP代理（/rtp/ 或 /udp/）：用1.7.3的简单下载测速
-                   res_info = await get_speed_with_download_simple(url, headers, timeout=timeout)
+                    res_info = await get_speed_with_download_simple(url, headers, timeout=timeout)  # ← 20个空格
                     result['speed'] = res_info['speed']
                     result['delay'] = res_info['delay']
                     if filter_resolution and not result.get('resolution'):
