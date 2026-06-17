@@ -1,12 +1,12 @@
 #EXTM3U x-tvg-url="https://gh-proxy.org/https://raw.githubusercontent.com/xiaohuonihao/iptv-api/refs/heads/master/output/epg/epg.gz"
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/山东卫视.png" group-title="山东",山东卫视
-http://192.151.150.154/live/sdwshd.m3u8
-#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/山东卫视.png" group-title="山东",山东卫视
-http://204.12.221.218:8181/3m1080p/sdws.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/sdwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/山东卫视.png" group-title="山东",山东卫视
 http://mg.hmysapp.cn:177/卫视/山东卫视.php?id=301
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/山东卫视.png" group-title="山东",山东卫视
-http://38.75.136.137:98/gslb/dsdqpub/sdwshd.m3u8?auth=testpub
+http://192.151.150.154/live/sdwshd.m3u8
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/山东卫视.png" group-title="山东",山东卫视
+http://204.12.221.218:8181/3m1080p/sdws.m3u8
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/山东卫视.png" group-title="山东",山东卫视
 http://live.bypbwxx.top/live/jmysp.php?token=81671a9e82937a98e46925f9579967
 #EXTINF:-1 tvg-id="山东齐鲁" tvg-name="山东齐鲁" tvg-logo="https://www.xn--rgv465a.top/tvlogo/山东齐鲁.png" group-title="山东",山东齐鲁
@@ -22,11 +22,11 @@ http://39.89.71.136:4000/rtp/239.253.254.23:8000
 #EXTINF:-1 tvg-id="山东农科" tvg-name="山东农科" tvg-logo="https://www.xn--rgv465a.top/tvlogo/山东农科.png" group-title="山东",山东农科
 http://39.89.71.136:4000/rtp/239.253.254.24:8000
 #EXTINF:-1 tvg-id="山东教育" tvg-name="山东教育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/山东教育.png" group-title="山东",山东教育
-http://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
+http://112.109.206.208:9999/rtp/239.255.40.32:8208
 #EXTINF:-1 tvg-id="山东教育" tvg-name="山东教育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/山东教育.png" group-title="山东",山东教育
 https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
 #EXTINF:-1 tvg-id="山东教育" tvg-name="山东教育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/山东教育.png" group-title="山东",山东教育
-http://112.109.206.208:9999/rtp/239.255.40.32:8208
+http://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
 #EXTINF:-1 tvg-id="山东文旅" tvg-name="山东文旅" tvg-logo="https://www.xn--rgv465a.top/tvlogo/山东文旅.png" group-title="山东",山东文旅
 http://39.89.71.136:4000/rtp/239.253.254.160:8000
 #EXTINF:-1 tvg-id="济南新闻综合" tvg-name="济南新闻综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/济南新闻综合.png" group-title="山东",济南新闻综合
@@ -46,59 +46,59 @@ http://39.77.27.90:4002/rtp/239.253.254.249:8000
 #EXTINF:-1 tvg-id="青岛QTV1" tvg-name="青岛QTV1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/青岛QTV1.png" group-title="山东",青岛QTV1
 http://39.77.22.252:4002/rtp/239.253.254.249:8000
 #EXTINF:-1 tvg-id="青岛QTV1" tvg-name="青岛QTV1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/青岛QTV1.png" group-title="山东",青岛QTV1
-http://39.77.26.135:4002/rtp/239.253.254.249:8000
+http://39.77.20.62:4002/rtp/239.253.254.249:8000
 #EXTINF:-1 tvg-id="青岛QTV1" tvg-name="青岛QTV1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/青岛QTV1.png" group-title="山东",青岛QTV1
 http://39.77.158.228:4002/rtp/239.253.254.249:8000
 #EXTINF:-1 tvg-id="青岛QTV1" tvg-name="青岛QTV1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/青岛QTV1.png" group-title="山东",青岛QTV1
-http://39.77.24.219:4002/rtp/239.253.254.249:8000
-#EXTINF:-1 tvg-id="青岛QTV2" tvg-name="青岛QTV2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/青岛QTV2.png" group-title="山东",青岛QTV2
-http://39.77.26.255:4002/rtp/239.253.254.250:8000
-#EXTINF:-1 tvg-id="青岛QTV2" tvg-name="青岛QTV2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/青岛QTV2.png" group-title="山东",青岛QTV2
-http://39.77.27.90:4002/rtp/239.253.254.250:8000
+http://39.77.26.255:4002/rtp/239.253.254.249:8000
 #EXTINF:-1 tvg-id="青岛QTV2" tvg-name="青岛QTV2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/青岛QTV2.png" group-title="山东",青岛QTV2
 http://39.77.24.219:4002/rtp/239.253.254.250:8000
 #EXTINF:-1 tvg-id="青岛QTV2" tvg-name="青岛QTV2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/青岛QTV2.png" group-title="山东",青岛QTV2
-http://39.77.159.240:4002/rtp/239.253.254.250:8000
-#EXTINF:-1 tvg-id="青岛QTV2" tvg-name="青岛QTV2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/青岛QTV2.png" group-title="山东",青岛QTV2
 http://39.77.158.228:4002/rtp/239.253.254.250:8000
+#EXTINF:-1 tvg-id="青岛QTV2" tvg-name="青岛QTV2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/青岛QTV2.png" group-title="山东",青岛QTV2
+http://39.77.26.255:4002/rtp/239.253.254.250:8000
+#EXTINF:-1 tvg-id="青岛QTV2" tvg-name="青岛QTV2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/青岛QTV2.png" group-title="山东",青岛QTV2
+http://39.77.20.62:4002/rtp/239.253.254.250:8000
+#EXTINF:-1 tvg-id="青岛QTV2" tvg-name="青岛QTV2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/青岛QTV2.png" group-title="山东",青岛QTV2
+http://39.77.27.90:4002/rtp/239.253.254.250:8000
 #EXTINF:-1 tvg-id="青岛QTV3" tvg-name="青岛QTV3" tvg-logo="https://www.xn--rgv465a.top/tvlogo/青岛QTV3.png" group-title="山东",青岛QTV3
-http://39.77.159.240:4002/rtp/239.253.254.251:8000
+http://39.77.22.252:4002/rtp/239.253.254.251:8000
 #EXTINF:-1 tvg-id="青岛QTV3" tvg-name="青岛QTV3" tvg-logo="https://www.xn--rgv465a.top/tvlogo/青岛QTV3.png" group-title="山东",青岛QTV3
 http://39.77.158.228:4002/rtp/239.253.254.251:8000
 #EXTINF:-1 tvg-id="青岛QTV3" tvg-name="青岛QTV3" tvg-logo="https://www.xn--rgv465a.top/tvlogo/青岛QTV3.png" group-title="山东",青岛QTV3
-http://39.77.27.90:4002/rtp/239.253.254.251:8000
+http://39.77.26.255:4002/rtp/239.253.254.251:8000
 #EXTINF:-1 tvg-id="青岛QTV3" tvg-name="青岛QTV3" tvg-logo="https://www.xn--rgv465a.top/tvlogo/青岛QTV3.png" group-title="山东",青岛QTV3
-http://39.77.20.62:4002/rtp/239.253.254.251:8000
+http://39.77.24.219:4002/rtp/239.253.254.251:8000
 #EXTINF:-1 tvg-id="青岛QTV3" tvg-name="青岛QTV3" tvg-logo="https://www.xn--rgv465a.top/tvlogo/青岛QTV3.png" group-title="山东",青岛QTV3
-http://39.77.22.252:4002/rtp/239.253.254.251:8000
+http://39.77.159.240:4002/rtp/239.253.254.251:8000
 #EXTINF:-1 tvg-id="青岛QTV4" tvg-name="青岛QTV4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/青岛QTV4.png" group-title="山东",青岛QTV4
 http://39.77.22.252:4002/rtp/239.253.254.252:8000
 #EXTINF:-1 tvg-id="青岛QTV4" tvg-name="青岛QTV4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/青岛QTV4.png" group-title="山东",青岛QTV4
-http://39.77.20.62:4002/rtp/239.253.254.252:8000
+http://39.77.26.135:4002/rtp/239.253.254.252:8000
 #EXTINF:-1 tvg-id="青岛QTV4" tvg-name="青岛QTV4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/青岛QTV4.png" group-title="山东",青岛QTV4
 http://39.77.27.90:4002/rtp/239.253.254.252:8000
 #EXTINF:-1 tvg-id="青岛QTV4" tvg-name="青岛QTV4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/青岛QTV4.png" group-title="山东",青岛QTV4
-http://39.77.26.135:4002/rtp/239.253.254.252:8000
+http://39.77.20.62:4002/rtp/239.253.254.252:8000
 #EXTINF:-1 tvg-id="青岛QTV4" tvg-name="青岛QTV4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/青岛QTV4.png" group-title="山东",青岛QTV4
-http://39.77.24.219:4002/rtp/239.253.254.252:8000
+http://39.77.159.240:4002/rtp/239.253.254.252:8000
+#EXTINF:-1 tvg-id="青岛综合" tvg-name="青岛综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/青岛综合.png" group-title="山东",青岛综合
+http://39.77.22.252:4002/rtp/239.253.254.243:8000
 #EXTINF:-1 tvg-id="青岛综合" tvg-name="青岛综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/青岛综合.png" group-title="山东",青岛综合
 http://39.77.27.90:4002/rtp/239.253.254.243:8000
 #EXTINF:-1 tvg-id="青岛综合" tvg-name="青岛综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/青岛综合.png" group-title="山东",青岛综合
-http://39.77.158.228:4002/rtp/239.253.254.243:8000
+http://39.77.24.219:4002/rtp/239.253.254.243:8000
+#EXTINF:-1 tvg-id="青岛综合" tvg-name="青岛综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/青岛综合.png" group-title="山东",青岛综合
+http://39.77.20.62:4002/rtp/239.253.254.243:8000
 #EXTINF:-1 tvg-id="青岛综合" tvg-name="青岛综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/青岛综合.png" group-title="山东",青岛综合
 http://39.77.26.135:4002/rtp/239.253.254.243:8000
-#EXTINF:-1 tvg-id="青岛综合" tvg-name="青岛综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/青岛综合.png" group-title="山东",青岛综合
-http://39.77.159.240:4002/rtp/239.253.254.243:8000
-#EXTINF:-1 tvg-id="青岛综合" tvg-name="青岛综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/青岛综合.png" group-title="山东",青岛综合
-http://39.77.26.255:4002/rtp/239.253.254.243:8000
-#EXTINF:-1 tvg-id="青岛生活" tvg-name="青岛生活" tvg-logo="https://www.xn--rgv465a.top/tvlogo/青岛生活.png" group-title="山东",青岛生活
-http://39.77.27.90:4002/rtp/239.253.254.244:8000
-#EXTINF:-1 tvg-id="青岛生活" tvg-name="青岛生活" tvg-logo="https://www.xn--rgv465a.top/tvlogo/青岛生活.png" group-title="山东",青岛生活
-http://39.89.71.136:4000/rtp/239.253.254.244:8000
 #EXTINF:-1 tvg-id="青岛生活" tvg-name="青岛生活" tvg-logo="https://www.xn--rgv465a.top/tvlogo/青岛生活.png" group-title="山东",青岛生活
 http://39.77.22.252:4002/rtp/239.253.254.244:8000
 #EXTINF:-1 tvg-id="青岛生活" tvg-name="青岛生活" tvg-logo="https://www.xn--rgv465a.top/tvlogo/青岛生活.png" group-title="山东",青岛生活
 http://39.77.158.228:4002/rtp/239.253.254.244:8000
+#EXTINF:-1 tvg-id="青岛生活" tvg-name="青岛生活" tvg-logo="https://www.xn--rgv465a.top/tvlogo/青岛生活.png" group-title="山东",青岛生活
+http://39.77.27.90:4002/rtp/239.253.254.244:8000
+#EXTINF:-1 tvg-id="青岛生活" tvg-name="青岛生活" tvg-logo="https://www.xn--rgv465a.top/tvlogo/青岛生活.png" group-title="山东",青岛生活
+http://39.77.26.135:4002/rtp/239.253.254.244:8000
 #EXTINF:-1 tvg-id="青岛生活" tvg-name="青岛生活" tvg-logo="https://www.xn--rgv465a.top/tvlogo/青岛生活.png" group-title="山东",青岛生活
 http://39.77.24.219:4002/rtp/239.253.254.244:8000
 #EXTINF:-1 tvg-id="黄岛生活" tvg-name="黄岛生活" tvg-logo="https://www.xn--rgv465a.top/tvlogo/黄岛生活.png" group-title="山东",黄岛生活
@@ -106,23 +106,23 @@ http://1.94.31.214/php/qilu.php?id=qdhdsh
 #EXTINF:-1 tvg-id="崂山电视台" tvg-name="崂山电视台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/崂山电视台.png" group-title="山东",崂山电视台
 http://39.77.27.90:4002/rtp/239.253.254.242:8000
 #EXTINF:-1 tvg-id="崂山电视台" tvg-name="崂山电视台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/崂山电视台.png" group-title="山东",崂山电视台
-http://39.77.26.135:4002/rtp/239.253.254.242:8000
+http://39.77.20.62:4002/rtp/239.253.254.242:8000
 #EXTINF:-1 tvg-id="崂山电视台" tvg-name="崂山电视台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/崂山电视台.png" group-title="山东",崂山电视台
 http://39.77.24.219:4002/rtp/239.253.254.242:8000
 #EXTINF:-1 tvg-id="崂山电视台" tvg-name="崂山电视台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/崂山电视台.png" group-title="山东",崂山电视台
-http://39.77.159.240:4002/rtp/239.253.254.242:8000
-#EXTINF:-1 tvg-id="崂山电视台" tvg-name="崂山电视台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/崂山电视台.png" group-title="山东",崂山电视台
 http://39.77.22.252:4002/rtp/239.253.254.242:8000
+#EXTINF:-1 tvg-id="崂山电视台" tvg-name="崂山电视台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/崂山电视台.png" group-title="山东",崂山电视台
+http://39.77.159.240:4002/rtp/239.253.254.242:8000
 #EXTINF:-1 tvg-id="莱西综合频道" tvg-name="莱西综合频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/莱西综合频道.png" group-title="山东",莱西综合频道
-http://39.77.158.228:4002/rtp/239.253.254.247:8000
+http://39.77.27.90:4002/rtp/239.253.254.247:8000
 #EXTINF:-1 tvg-id="莱西综合频道" tvg-name="莱西综合频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/莱西综合频道.png" group-title="山东",莱西综合频道
-http://39.77.22.252:4002/rtp/239.253.254.247:8000
-#EXTINF:-1 tvg-id="莱西综合频道" tvg-name="莱西综合频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/莱西综合频道.png" group-title="山东",莱西综合频道
-http://39.77.159.240:4002/rtp/239.253.254.247:8000
+http://39.77.26.135:4002/rtp/239.253.254.247:8000
 #EXTINF:-1 tvg-id="莱西综合频道" tvg-name="莱西综合频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/莱西综合频道.png" group-title="山东",莱西综合频道
 http://39.77.26.255:4002/rtp/239.253.254.247:8000
 #EXTINF:-1 tvg-id="莱西综合频道" tvg-name="莱西综合频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/莱西综合频道.png" group-title="山东",莱西综合频道
-http://39.77.20.62:4002/rtp/239.253.254.247:8000
+http://39.77.24.219:4002/rtp/239.253.254.247:8000
+#EXTINF:-1 tvg-id="莱西综合频道" tvg-name="莱西综合频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/莱西综合频道.png" group-title="山东",莱西综合频道
+http://144.255.31.236:6688/udp/239.21.1.247:5002
 #EXTINF:-1 tvg-id="烟台新闻综合" tvg-name="烟台新闻综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/烟台新闻综合.png" group-title="山东",烟台新闻综合
 http://144.255.31.236:6688/udp/239.21.1.116:5002
 #EXTINF:-1 tvg-id="烟台公共" tvg-name="烟台公共" tvg-logo="https://www.xn--rgv465a.top/tvlogo/烟台公共.png" group-title="山东",烟台公共
@@ -189,30 +189,20 @@ http://1.94.31.214/php/qilu.php?id=bzhmzh
 http://1.94.31.214/php/qilu.php?id=jncqxw
 #EXTINF:-1 tvg-id="桓台综合" tvg-name="桓台综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/桓台综合.png" group-title="山东",桓台综合
 http://1.94.31.214/php/qilu.php?id=zbht1
-#EXTINF:-1 tvg-id="桓台综合" tvg-name="桓台综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/桓台综合.png" group-title="山东",桓台综合
-http://144.255.31.236:6688/udp/239.21.1.105:5002
 #EXTINF:-1 tvg-id="无棣综合" tvg-name="无棣综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/无棣综合.png" group-title="山东",无棣综合
 http://1.94.31.214/php/qilu.php?id=bzwdzh
-#EXTINF:-1 tvg-id="无棣综合" tvg-name="无棣综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/无棣综合.png" group-title="山东",无棣综合
-http://144.255.31.236:6688/udp/239.21.1.214:5002
 #EXTINF:-1 tvg-id="新泰乡村" tvg-name="新泰乡村" tvg-logo="https://www.xn--rgv465a.top/tvlogo/新泰乡村.png" group-title="山东",新泰乡村
 http://1.94.31.214/php/qilu.php?id=taxtxc
 #EXTINF:-1 tvg-id="济阳综合" tvg-name="济阳综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/济阳综合.png" group-title="山东",济阳综合
 http://1.94.31.214/php/qilu.php?id=jnjyzh
-#EXTINF:-1 tvg-id="济阳综合" tvg-name="济阳综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/济阳综合.png" group-title="山东",济阳综合
-http://144.255.31.236:6688/udp/239.21.1.187:5002
 #EXTINF:-1 tvg-id="蒙阴综合" tvg-name="蒙阴综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/蒙阴综合.png" group-title="山东",蒙阴综合
 http://1.94.31.214/php/qilu.php?id=lymy1
-#EXTINF:-1 tvg-id="蒙阴综合" tvg-name="蒙阴综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/蒙阴综合.png" group-title="山东",蒙阴综合
-http://144.255.31.236:6688/udp/239.21.2.23:5002
 #EXTINF:-1 tvg-id="沾化综合" tvg-name="沾化综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/沾化综合.png" group-title="山东",沾化综合
 http://144.255.31.236:6688/udp/239.21.1.226:5002
 #EXTINF:-1 tvg-id="冠县综合" tvg-name="冠县综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/冠县综合.png" group-title="山东",冠县综合
-http://144.255.31.236:6688/udp/239.21.1.250:5002
+http://1.94.31.214/php/qilu.php?id=lcgxzh
 #EXTINF:-1 tvg-id="青州综合" tvg-name="青州综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/青州综合.png" group-title="山东",青州综合
 http://1.94.31.214/php/qilu.php?id=wfqzzh
-#EXTINF:-1 tvg-id="青州综合" tvg-name="青州综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/青州综合.png" group-title="山东",青州综合
-http://144.255.31.236:6688/udp/239.21.1.232:5002
 #EXTINF:-1 tvg-id="乳山综合" tvg-name="乳山综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/乳山综合.png" group-title="山东",乳山综合
 http://1.94.31.214/php/qilu.php?id=whrszh
 #EXTINF:-1 tvg-id="乳山综合" tvg-name="乳山综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/乳山综合.png" group-title="山东",乳山综合
@@ -223,36 +213,32 @@ http://1.94.31.214/php/qilu.php?id=jnpyzh
 http://144.255.31.236:6688/udp/239.21.1.221:5002
 #EXTINF:-1 tvg-id="兖州新闻" tvg-name="兖州新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/兖州新闻.png" group-title="山东",兖州新闻
 http://1.94.31.214/php/qilu.php?id=jiyzxw
-#EXTINF:-1 tvg-id="兖州新闻" tvg-name="兖州新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/兖州新闻.png" group-title="山东",兖州新闻
-http://144.255.31.236:6688/udp/239.21.1.224:5002
 #EXTINF:-1 tvg-id="荣成综合" tvg-name="荣成综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/荣成综合.png" group-title="山东",荣成综合
 http://1.94.31.214/php/qilu.php?id=whrczh
 #EXTINF:-1 tvg-id="栖霞综合" tvg-name="栖霞综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/栖霞综合.png" group-title="山东",栖霞综合
 http://1.94.31.214/php/qilu.php?id=ytqxzh
-#EXTINF:-1 tvg-id="栖霞综合" tvg-name="栖霞综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/栖霞综合.png" group-title="山东",栖霞综合
-http://144.255.31.236:6688/udp/239.21.1.229:5002
 #EXTINF:-1 tvg-id="齐河新闻" tvg-name="齐河新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/齐河新闻.png" group-title="山东",齐河新闻
 http://144.255.31.236:6688/udp/239.21.1.230:5002
 #EXTINF:-1 tvg-id="禹城综合" tvg-name="禹城综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/禹城综合.png" group-title="山东",禹城综合
 http://1.94.31.214/php/qilu.php?id=dzyczh
-#EXTINF:-1 tvg-id="禹城综合" tvg-name="禹城综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/禹城综合.png" group-title="山东",禹城综合
-http://144.255.31.236:6688/udp/239.21.1.241:5002
 #EXTINF:-1 tvg-id="禹城综艺" tvg-name="禹城综艺" tvg-logo="https://www.xn--rgv465a.top/tvlogo/禹城综艺.png" group-title="山东",禹城综艺
 http://1.94.31.214/php/qilu.php?id=dzyczy
 #EXTINF:-1 tvg-id="夏津综合" tvg-name="夏津综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/夏津综合.png" group-title="山东",夏津综合
 http://1.94.31.214/php/qilu.php?id=dzxjzh
-#EXTINF:-1 tvg-id="夏津综合" tvg-name="夏津综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/夏津综合.png" group-title="山东",夏津综合
-http://144.255.31.236:6688/udp/239.21.1.106:5002
 #EXTINF:-1 tvg-id="夏津公共" tvg-name="夏津公共" tvg-logo="https://www.xn--rgv465a.top/tvlogo/夏津公共.png" group-title="山东",夏津公共
 http://1.94.31.214/php/qilu.php?id=dzxjgg
 #EXTINF:-1 tvg-id="夏津公共" tvg-name="夏津公共" tvg-logo="https://www.xn--rgv465a.top/tvlogo/夏津公共.png" group-title="山东",夏津公共
 http://144.255.31.236:6688/udp/239.21.1.102:5002
 #EXTINF:-1 tvg-id="牟平新闻" tvg-name="牟平新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/牟平新闻.png" group-title="山东",牟平新闻
 http://144.255.31.236:6688/udp/239.21.2.10:5002
+#EXTINF:-1 tvg-id="牟平生活" tvg-name="牟平生活" tvg-logo="https://www.xn--rgv465a.top/tvlogo/牟平生活.png" group-title="山东",牟平生活
+http://144.255.31.236:6688/udp/239.21.2.11:5002
 #EXTINF:-1 tvg-id="淄川新闻" tvg-name="淄川新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/淄川新闻.png" group-title="山东",淄川新闻
 http://1.94.31.214/php/qilu.php?id=zbzcxw
 #EXTINF:-1 tvg-id="安丘综合" tvg-name="安丘综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/安丘综合.png" group-title="山东",安丘综合
 http://1.94.31.214/php/qilu.php?id=wfaqzh
+#EXTINF:-1 tvg-id="安丘综合" tvg-name="安丘综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/安丘综合.png" group-title="山东",安丘综合
+http://144.255.31.236:6688/udp/239.21.2.13:5002
 #EXTINF:-1 tvg-id="河东综合" tvg-name="河东综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河东综合.png" group-title="山东",河东综合
 http://1.94.31.214/php/qilu.php?id=lyhdzh
 #EXTINF:-1 tvg-id="鱼台生活" tvg-name="鱼台生活" tvg-logo="https://www.xn--rgv465a.top/tvlogo/鱼台生活.png" group-title="山东",鱼台生活
@@ -262,14 +248,14 @@ http://1.94.31.214/php/qilu.php?id=lyys1
 #EXTINF:-1 tvg-id="东阿综合" tvg-name="东阿综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东阿综合.png" group-title="山东",东阿综合
 http://1.94.31.214/php/qilu.php?id=lcdezh
 #EXTINF:-1 tvg-id="海洋频道" tvg-name="海洋频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海洋频道.png" group-title="山东",海洋频道
-http://39.77.158.228:4002/rtp/239.253.254.67:8000
-#EXTINF:-1 tvg-id="海洋频道" tvg-name="海洋频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海洋频道.png" group-title="山东",海洋频道
-http://39.77.26.135:4002/rtp/239.253.254.67:8000
-#EXTINF:-1 tvg-id="海洋频道" tvg-name="海洋频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海洋频道.png" group-title="山东",海洋频道
-http://39.77.24.219:4002/rtp/239.253.254.67:8000
+http://39.77.22.252:4002/rtp/239.253.254.67:8000
 #EXTINF:-1 tvg-id="海洋频道" tvg-name="海洋频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海洋频道.png" group-title="山东",海洋频道
 http://39.77.27.90:4002/rtp/239.253.254.67:8000
 #EXTINF:-1 tvg-id="海洋频道" tvg-name="海洋频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海洋频道.png" group-title="山东",海洋频道
-http://39.77.159.240:4002/rtp/239.253.254.67:8000
-#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/山东卫视.png" group-title="🕘️更新时间",2026-06-17 21:03:00
-http://192.151.150.154/live/sdwshd.m3u8
+http://39.77.24.219:4002/rtp/239.253.254.67:8000
+#EXTINF:-1 tvg-id="海洋频道" tvg-name="海洋频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海洋频道.png" group-title="山东",海洋频道
+http://39.77.20.62:4002/rtp/239.253.254.67:8000
+#EXTINF:-1 tvg-id="海洋频道" tvg-name="海洋频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海洋频道.png" group-title="山东",海洋频道
+http://39.77.26.255:4002/rtp/239.253.254.67:8000
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/山东卫视.png" group-title="🕘️更新时间",2026-06-17 21:19:54
+http://38.75.136.137:98/gslb/dsdqpub/sdwshd.m3u8?auth=testpub
