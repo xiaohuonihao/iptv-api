@@ -568,7 +568,7 @@ async def get_speed(data, headers=None, ipv6_proxy=None, filter_resolution=open_
                         try:
                             # HTTP代理用 改回 probe_url
                             probed = await probe_url(url, headers, timeout=timeout)
-                           if probed and probed.get('resolution'):
+                            if probed and probed.get('resolution'):
                                 result['resolution'] = probed['resolution']
                         except:
                             pass
