@@ -561,20 +561,17 @@ async def get_speed(data, headers=None, ipv6_proxy=None, filter_resolution=open_
                         result['speed'] = float("inf")
                 else:
                     # HTTP代理（/rtp/ 或 /udp/）：用1.7.3的简单下载测速
-                    res_info = await get_speed_with_download_simple(url, headers, timeout=timeout)
+                   res_info = await get_speed_with_download_simple(url, headers, timeout=timeout)
                     result['speed'] = res_info['speed']
                     result['delay'] = res_info['delay']
                     if filter_resolution and not result.get('resolution'):
                         try:
-                            # HTTP代理用 get_resolution_ffprobe
-                            resolution_val = await get_resolution_ffprobe(url, headers, timeout)
-                            if resolution_val:
-                                result['resolution'] = resolution_val
+                            # HTTP代理用 改回 probe_url
+                            probed = await probe_url(url, headers, timeout=timeout)
+                           if probed and probed.get('resolution'):
+                                result['resolution'] = probed['resolution']
                         except:
                             pass
-            # 🔧 ========== 修改到这里 ↑↑↑ ==========
-            elif constants.rt_url_pattern.match(url) is not None:
-                rt_headers = await get_headers(url, headers)
                 if rt_headers:
                     start_time = time()
                     ff_out = await ffmpeg_url(url, headers, timeout)
