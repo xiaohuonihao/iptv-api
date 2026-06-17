@@ -141,6 +141,39 @@ async def get_speed_with_download_simple(url: str, headers: dict = None, session
         }
 # 🟢 ========== 添加结束 ==========
 
+# 🟢 ========== 👇👇👇 在这里添加 1.7.3 的分辨率获取函数 ==========
+async def get_resolution_ffprobe(url: str, headers: dict = None, timeout: int = speed_test_timeout) -> str | None:
+    """
+    Get the resolution of the url by ffprobe (1.7.3 版本方式)
+    专门用于原生组播（rtp:// 和 udp://）
+    """
+    resolution = None
+    proc = None
+    try:
+        probe_args = [
+            'ffprobe',
+            '-v', 'error',
+            '-headers', ''.join(f'{k}: {v}\r\n' for k, v in headers.items()) if headers else '',
+            '-select_streams', 'v:0',
+            '-show_entries', 'stream=width,height',
+            "-of", 'json',
+            url
+        ]
+        proc = await asyncio.create_subprocess_exec(*probe_args, stdout=asyncio.subprocess.PIPE,
+                                                    stderr=asyncio.subprocess.PIPE)
+        out, _ = await asyncio.wait_for(proc.communicate(), timeout)
+        import json
+        video_stream = json.loads(out.decode('utf-8'))["streams"][0]
+        resolution = f"{video_stream['width']}x{video_stream['height']}"
+    except:
+        if proc:
+            proc.kill()
+    finally:
+        if proc:
+            await proc.wait()
+        return resolution
+# 🟢 ========== 添加结束 ==========
+
 async def get_headers(url: str, headers: dict = None, session: ClientSession = None, timeout: int = 3) -> dict:
     """
     Get the headers of the url
@@ -513,25 +546,27 @@ async def get_speed(data, headers=None, ipv6_proxy=None, filter_resolution=open_
             # 🔧 ========== 修改这里 ↓↓↓ ==========
             elif is_rtp_proxy:
                 if url.startswith(('rtp://', 'udp://')):
-                    # 原生组播：只测延迟，速度=无穷大（和1.7.3一样）
+                    # 🟢 原生组播：用1.7.3的方法获取分辨率
                     start_time = time()
                     if filter_resolution and not result.get('resolution'):
                         try:
-                            probed = await probe_url(url, headers, timeout=timeout)
-                            if probed and probed.get('resolution'):
-                                result['resolution'] = probed['resolution']
+                            # 🟢 使用 1.7.3 的 get_resolution_ffprobe
+                            resolution_val = await get_resolution_ffprobe(url, headers, timeout)
+                            if resolution_val:
+                                result['resolution'] = resolution_val
                         except:
                             pass
                     result['delay'] = int(round((time() - start_time) * 1000))
                     if result['resolution'] is not None:
                         result['speed'] = float("inf")
                 else:
-                    # HTTP代理（/rtp/ 或 /udp/）：用1.7.3的简单下载测速（无稳定性检测）
+                    # HTTP代理（/rtp/ 或 /udp/）：用1.7.3的简单下载测速
                     res_info = await get_speed_with_download_simple(url, headers, timeout=timeout)
                     result['speed'] = res_info['speed']
                     result['delay'] = res_info['delay']
                     if filter_resolution and not result.get('resolution'):
                         try:
+                            # HTTP代理用 probe_url
                             probed = await probe_url(url, headers, timeout=timeout)
                             if probed and probed.get('resolution'):
                                 result['resolution'] = probed['resolution']
