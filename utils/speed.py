@@ -561,7 +561,7 @@ async def get_speed(data, headers=None, ipv6_proxy=None, filter_resolution=open_
                         result['speed'] = float("inf")
                 else:
                     # HTTP代理（/rtp/ 或 /udp/）：用1.7.3的简单下载测速
-                    res_info = await get_speed_with_download_simple(url, headers, timeout=timeout)  # ← 20个空格
+                    res_info = await get_speed_with_download_simple(url, headers, timeout=timeout)
                     result['speed'] = res_info['speed']
                     result['delay'] = res_info['delay']
                     if filter_resolution and not result.get('resolution'):
@@ -572,6 +572,11 @@ async def get_speed(data, headers=None, ipv6_proxy=None, filter_resolution=open_
                                 result['resolution'] = resolution_val
                         except:
                             pass
+            # 🔧 注意：这里删除了 if rt_headers: 和它下面的代码
+            # 因为这部分代码是多余的（在获取组播源时不会执行）
+            # ============================================
+            elif constants.rt_url_pattern.match(url) is not None:
+                rt_headers = await get_headers(url, headers)
                 if rt_headers:
                     start_time = time()
                     ff_out = await ffmpeg_url(url, headers, timeout)
