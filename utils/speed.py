@@ -103,6 +103,43 @@ async def get_speed_with_download(url: str, headers: dict = None, session: Clien
             'time': total_time,
         }
 
+# 🟢 ========== 在这里添加 1.7.3 的简单下载测速函数 ==========
+async def get_speed_with_download_simple(url: str, headers: dict = None, session: ClientSession = None,
+                                         timeout: int = speed_test_timeout) -> dict[str, float | None]:
+    """
+    1.7.3 版本的简单下载测速，无稳定性检测
+    专门用于组播代理（/rtp/ 和 /udp/）
+    """
+    start_time = time()
+    delay = -1
+    total_size = 0
+    if session is None:
+        session = ClientSession(connector=TCPConnector(ssl=False), trust_env=True)
+        created_session = True
+    else:
+        created_session = False
+    try:
+        async with session.get(url, headers=headers, timeout=timeout) as response:
+            if response.status != 200:
+                raise Exception("Invalid response")
+            delay = int(round((time() - start_time) * 1000))
+            async for chunk in response.content.iter_any():
+                if chunk:
+                    total_size += len(chunk)
+    except:
+        pass
+    finally:
+        total_time = time() - start_time
+        if created_session:
+            await session.close()
+        speed_value = total_size / total_time / 1024 / 1024 if total_time > 0 else 0.0
+        return {
+            'speed': speed_value,
+            'delay': delay,
+            'size': total_size,
+            'time': total_time,
+        }
+# 🟢 ========== 添加结束 ==========
 
 async def get_headers(url: str, headers: dict = None, session: ClientSession = None, timeout: int = 3) -> dict:
     """
@@ -463,7 +500,7 @@ async def get_speed(data, headers=None, ipv6_proxy=None, filter_resolution=open_
     result: TestResult = {'speed': 0, 'delay': -1, 'resolution': resolution}
     headers = {**request_headers, **(headers or {})}
     
-    # 🔧 检测 /rtp/ 和 /udp/
+    # 🔧 检测组播代理链接（同时检测 /rtp/ 和 /udp/）
     is_rtp_proxy = '/rtp/' in url or '/udp/' in url or url.startswith(('rtp://', 'udp://'))
     
     try:
@@ -473,10 +510,10 @@ async def get_speed(data, headers=None, ipv6_proxy=None, filter_resolution=open_
         else:
             if data['ipv_type'] == "ipv6" and ipv6_proxy:
                 result.update(default_ipv6_result)
-            # 🔧 修改这里 ↓↓↓
+            # 🔧 ========== 修改这里 ↓↓↓ ==========
             elif is_rtp_proxy:
                 if url.startswith(('rtp://', 'udp://')):
-                    # 原生组播：只测延迟，速度=无穷大
+                    # 原生组播：只测延迟，速度=无穷大（和1.7.3一样）
                     start_time = time()
                     if filter_resolution and not result.get('resolution'):
                         try:
@@ -489,8 +526,8 @@ async def get_speed(data, headers=None, ipv6_proxy=None, filter_resolution=open_
                     if result['resolution'] is not None:
                         result['speed'] = float("inf")
                 else:
-                    # HTTP代理：下载测速
-                    res_info = await get_speed_with_download(url, headers, timeout=timeout)
+                    # HTTP代理（/rtp/ 或 /udp/）：用1.7.3的简单下载测速（无稳定性检测）
+                    res_info = await get_speed_with_download_simple(url, headers, timeout=timeout)
                     result['speed'] = res_info['speed']
                     result['delay'] = res_info['delay']
                     if filter_resolution and not result.get('resolution'):
@@ -500,7 +537,7 @@ async def get_speed(data, headers=None, ipv6_proxy=None, filter_resolution=open_
                                 result['resolution'] = probed['resolution']
                         except:
                             pass
-            # 🔧 修改到这里 ↑↑↑
+            # 🔧 ========== 修改到这里 ↑↑↑ ==========
             elif constants.rt_url_pattern.match(url) is not None:
                 rt_headers = await get_headers(url, headers)
                 if rt_headers:
