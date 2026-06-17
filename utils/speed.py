@@ -495,23 +495,30 @@ async def get_speed(data, headers=None, ipv6_proxy=None, filter_resolution=open_
     result: TestResult = {'speed': 0, 'delay': -1, 'resolution': resolution}
     headers = {**request_headers, **(headers or {})}
     
-    # 🔧 ========== 修改这里 ↓↓↓ ==========
-            elif is_rtp_proxy:
+    # 检测组播代理链接
+    is_rtp_proxy = '/rtp/' in url or '/udp/' in url or url.startswith(('rtp://', 'udp://'))
+    
+    try:
+        cache_key = data['host'] if speed_test_filter_host else url
+        if cache_key and cache_key in cache:
+            result = get_avg_result(cache[cache_key])
+        else:
+            if data['ipv_type'] == "ipv6" and ipv6_proxy:
+                result.update(default_ipv6_result)
+            # 🔧 ========== 修改这里 ↓↓↓ ==========
+            elif is_rtp_proxy:  # ← 注意缩进：和上面的 if 对齐，前面是 12 个空格
                 start_time = time()
                 if filter_resolution or not result.get('resolution'):
                     try:
-                        # 使用 1.7.3 的分辨率获取方式
                         resolution_val = await get_resolution_ffprobe(url, headers, timeout)
                         if resolution_val:
                             result['resolution'] = resolution_val
                     except:
                         pass
                 result['delay'] = int(round((time() - start_time) * 1000))
-                # 只要延迟不是 -1，速度设为无穷大（1.7.3方式）
                 if result['delay'] != -1:
                     result['speed'] = float("inf")
                 else:
-                    # 兜底：下载测速
                     res_info = await get_speed_with_download(url, headers, timeout=timeout)
                     result['speed'] = res_info['speed']
                     result['delay'] = res_info['delay']
