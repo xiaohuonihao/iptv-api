@@ -1,6 +1,0 @@
-山东,#genre#
-山东卫视,https://live.chinacert.cftest5.cn/zgst/live/shandong
-山东卫视,https://live.douyin.com/235694078803
-
-🕘️更新时间,#genre#
-2026-06-17 22:16:59,https://live.chinacert.cftest5.cn/zgst/live/shandong
