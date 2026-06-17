@@ -566,10 +566,10 @@ async def get_speed(data, headers=None, ipv6_proxy=None, filter_resolution=open_
                     result['delay'] = res_info['delay']
                     if filter_resolution and not result.get('resolution'):
                         try:
-                            # HTTP代理用 改回 probe_url
-                            probed = await probe_url(url, headers, timeout=timeout)
-                            if probed and probed.get('resolution'):
-                                result['resolution'] = probed['resolution']
+                            # HTTP代理用 使用 1.7.3 的 get_resolution_ffprobe（替代 probe_url）
+                            resolution_val = await get_resolution_ffprobe(url, headers, timeout)
+                            if resolution_val:
+                                result['resolution'] = resolution_val
                         except:
                             pass
                 if rt_headers:
