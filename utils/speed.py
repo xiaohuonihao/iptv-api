@@ -463,7 +463,7 @@ async def get_speed(data, headers=None, ipv6_proxy=None, filter_resolution=open_
     result: TestResult = {'speed': 0, 'delay': -1, 'resolution': resolution}
     headers = {**request_headers, **(headers or {})}
     
-    # 🟢 添加：检测组播代理链接
+    # 🟢 检测组播代理链接
     is_rtp_proxy = '/rtp/' in url or '/udp/' in url or url.startswith(('rtp://', 'udp://'))
     
     try:
@@ -473,19 +473,24 @@ async def get_speed(data, headers=None, ipv6_proxy=None, filter_resolution=open_
         else:
             if data['ipv_type'] == "ipv6" and ipv6_proxy:
                 result.update(default_ipv6_result)
-            # 🟢 添加：组播代理直接测速分支
+            # 🔧 修改这里 ↓↓↓
             elif is_rtp_proxy:
-                res_info = await get_speed_with_download(url, headers, timeout=timeout)
-                result['speed'] = res_info['speed']
-                result['delay'] = res_info['delay']
-                if filter_resolution and not result.get('resolution'):
+                start_time = time()
+                if filter_resolution or not result.get('resolution'):
                     try:
                         probed = await probe_url(url, headers, timeout=timeout)
                         if probed and probed.get('resolution'):
                             result['resolution'] = probed['resolution']
                     except:
                         pass
-            # ====================================
+                result['delay'] = int(round((time() - start_time) * 1000))
+                if result['resolution'] is not None:
+                    result['speed'] = float("inf")
+                else:
+                    res_info = await get_speed_with_download(url, headers, timeout=timeout)
+                    result['speed'] = res_info['speed']
+                    result['delay'] = res_info['delay']
+            # 🔧 修改到这里 ↑↑↑
             elif constants.rt_url_pattern.match(url) is not None:
                 rt_headers = await get_headers(url, headers)
                 if rt_headers:
