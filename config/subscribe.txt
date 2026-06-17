@@ -27,7 +27,7 @@
  https://0419.xn--jfx065ba424q.top
  https://live.zbds.top/tv/iptv4.txt 
  http://wangziduoqing.com/yuan/zb.txt
-
+https://gh-proxy.org/https://raw.githubusercontent.com/xiaolong-nihao/iptvzb/refs/heads/main/zubo.txt
  # https://gh-proxy.org/https://raw.githubusercontent.com/xiaolong-nihao/4K-IPTV-M3U/refs/heads/main/txt/output/CU_ZB.txt
 
 [WHITELIST]
