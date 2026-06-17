@@ -1,6 +1,7 @@
 import asyncio
 import http.cookies
 import re
+import json  # 🟢 添加这行（如果在函数内部 import 了就不需要）
 from time import time
 from urllib.parse import quote, urljoin
 
@@ -266,6 +267,37 @@ async def get_result(url: str, headers: dict = None, resolution: str = None,
                 pass
         return info
 
+# 🟢 ========== 添加 1.7.3 的分辨率获取函数 ==========
+async def get_resolution_ffprobe(url: str, headers: dict = None, timeout: int = speed_test_timeout) -> str | None:
+    """
+    Get the resolution of the url by ffprobe (1.7.3 版本方式)
+    """
+    resolution = None
+    proc = None
+    try:
+        probe_args = [
+            'ffprobe',
+            '-v', 'error',
+            '-headers', ''.join(f'{k}: {v}\r\n' for k, v in headers.items()) if headers else '',
+            '-select_streams', 'v:0',
+            '-show_entries', 'stream=width,height',
+            "-of", 'json',
+            url
+        ]
+        proc = await asyncio.create_subprocess_exec(*probe_args, stdout=asyncio.subprocess.PIPE,
+                                                    stderr=asyncio.subprocess.PIPE)
+        out, _ = await asyncio.wait_for(proc.communicate(), timeout)
+        import json
+        video_stream = json.loads(out.decode('utf-8'))["streams"][0]
+        resolution = f"{video_stream['width']}x{video_stream['height']}"
+    except:
+        if proc:
+            proc.kill()
+    finally:
+        if proc:
+            await proc.wait()
+        return resolution
+# 🟢 ========== 添加结束 ==========
 
 async def get_delay_requests(url, timeout=speed_test_timeout, proxy=None):
     """
@@ -463,34 +495,27 @@ async def get_speed(data, headers=None, ipv6_proxy=None, filter_resolution=open_
     result: TestResult = {'speed': 0, 'delay': -1, 'resolution': resolution}
     headers = {**request_headers, **(headers or {})}
     
-    # 🟢 检测组播代理链接
-    is_rtp_proxy = '/rtp/' in url or '/udp/' in url or url.startswith(('rtp://', 'udp://'))
-    
-    try:
-        cache_key = data['host'] if speed_test_filter_host else url
-        if cache_key and cache_key in cache:
-            result = get_avg_result(cache[cache_key])
-        else:
-            if data['ipv_type'] == "ipv6" and ipv6_proxy:
-                result.update(default_ipv6_result)
-            # 🔧 修改这里 ↓↓↓
+    # 🔧 ========== 修改这里 ↓↓↓ ==========
             elif is_rtp_proxy:
                 start_time = time()
                 if filter_resolution or not result.get('resolution'):
                     try:
-                        probed = await probe_url(url, headers, timeout=timeout)
-                        if probed and probed.get('resolution'):
-                            result['resolution'] = probed['resolution']
+                        # 使用 1.7.3 的分辨率获取方式
+                        resolution_val = await get_resolution_ffprobe(url, headers, timeout)
+                        if resolution_val:
+                            result['resolution'] = resolution_val
                     except:
                         pass
                 result['delay'] = int(round((time() - start_time) * 1000))
-                if result['resolution'] is not None:
+                # 只要延迟不是 -1，速度设为无穷大（1.7.3方式）
+                if result['delay'] != -1:
                     result['speed'] = float("inf")
                 else:
+                    # 兜底：下载测速
                     res_info = await get_speed_with_download(url, headers, timeout=timeout)
                     result['speed'] = res_info['speed']
                     result['delay'] = res_info['delay']
-            # 🔧 修改到这里 ↑↑↑
+            # 🔧 ========== 修改到这里 ↑↑↑ ==========
             elif constants.rt_url_pattern.match(url) is not None:
                 rt_headers = await get_headers(url, headers)
                 if rt_headers:
