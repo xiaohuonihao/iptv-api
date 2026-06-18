@@ -567,13 +567,12 @@ async def get_speed(data, headers=None, ipv6_proxy=None, filter_resolution=open_
                     if filter_resolution and not result.get('resolution'):
                         try:
                             # HTTP代理用 使用 1.7.3 的 get_resolution_ffprobe（替代 probe_url）
-                            resolution_val = await get_resolution_ffprobe(url, headers, timeout)
-                            if resolution_val:
-                                result['resolution'] = resolution_val
+                            probed = await probe_url(url, headers, timeout=timeout)  # ← 改成 probe_url
+                            if probed and probed.get('resolution'):
+                                result['resolution'] = probed['resolution']
                         except:
                             pass
-            # 🔧 注意：这里删除了 if rt_headers: 和它下面的代码
-            # 因为这部分代码是多余的（在获取组播源时不会执行）
+            
             # ============================================
             elif constants.rt_url_pattern.match(url) is not None:
                 rt_headers = await get_headers(url, headers)
