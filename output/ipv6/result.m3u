@@ -1,5 +1,9 @@
 #EXTM3U x-tvg-url="https://gh-proxy.org/https://raw.githubusercontent.com/xiaohuonihao/iptv-api/refs/heads/master/output/epg/epg.gz"
+#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV1.png" group-title="山东",CCTV1
+https://live.chinacert.cftest5.cn/cnmg/live/608807420
+#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV1.png" group-title="山东",CCTV1
+http://mg.hmysapp.cn:177/咪咕央视/咪咕直连/cctv1.php
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东综艺频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/山东综艺频道.png" group-title="山东",山东综艺频道
 https://live.chinacert.cftest5.cn/zgst/live/shandong
-#EXTINF:-1 tvg-id="山东齐鲁" tvg-name="山东齐鲁频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/山东齐鲁频道.png" group-title="🕘️更新时间",2026-06-18 17:43:44
-https://live.chinacert.cftest5.cn/zgst/live/shandong
+#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV1.png" group-title="🕘️更新时间",2026-06-18 21:54:08
+https://live.chinacert.cftest5.cn/cnmg/live/608807420
