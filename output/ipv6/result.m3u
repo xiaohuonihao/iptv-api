@@ -27,11 +27,129 @@ https://live.chinacert.cftest5.cn/cnmg/live/667987558
 https://live.chinacert.cftest5.cn/cnmg/live/673168185
 #EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV-13" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-13.png" group-title="央视频道",CCTV-13
 https://live.chinacert.cftest5.cn/cnmg/live/608807423
+#EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV-13" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-13.png" group-title="央视频道",CCTV-13
+https://event.pull.hebtv.com/jishi/cp1.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8#http://tvbox6.icu/tv/migu.php?id=cctv13
 #EXTINF:-1 tvg-id="CCTV-14" tvg-name="CCTV-14" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-14.png" group-title="央视频道",CCTV-14
 https://live.chinacert.cftest5.cn/cnmg/live/624878440
+#EXTINF:-1 tvg-id="CCTV-14" tvg-name="CCTV-14" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-14.png" group-title="央视频道",CCTV-14
+https://event.pull.hebtv.com/jishi/cp2.m3u8#http://tvbox6.icu/tv/migu.php?id=cctv14
 #EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV-15" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-15.png" group-title="央视频道",CCTV-15
 https://live.chinacert.cftest5.cn/cnmg/live/673168223
 #EXTINF:-1 tvg-id="CCTV-17" tvg-name="CCTV-17" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-17.png" group-title="央视频道",CCTV-17
 https://live.chinacert.cftest5.cn/cnmg/live/673168256
-#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-06-19 01:12:56
+#EXTINF:-1 tvg-id="CCTV4欧洲" tvg-name="cctv4欧洲" tvg-logo="https://www.xn--rgv465a.top/tvlogo/cctv4欧洲.png" group-title="央视频道",cctv4欧洲
+https://live.chinacert.cftest5.cn/cnmg/live/608807419
+#EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="cctv4美洲" tvg-logo="https://www.xn--rgv465a.top/tvlogo/cctv4美洲.png" group-title="央视频道",cctv4美洲
+https://live.chinacert.cftest5.cn/cnmg/live/608807416
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东南卫视.png" group-title="卫视频道",东南卫视
+http://live.zohi.tv/video/s10001-fztv-3/index.m3u8#http://120.76.248.139/live/bfgd/4200000483.m3u8
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广西卫视.png" group-title="卫视频道",广西卫视
+http://gxyd.484947.xyz/PLTV/77777777/224/3221226351/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河北卫视.png" group-title="卫视频道",河北卫视
+https://event.pull.hebtv.com:443/live/live101.m3u8
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东卫视.png" group-title="卫视频道",广东卫视
+https://www.gdtv.cn/tvChannelDetail/110
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东卫视.png" group-title="卫视频道",广东卫视
+https://www.gdtv.cn/tvChannelDetail/16
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东卫视.png" group-title="卫视频道",广东卫视
+https://www.gdtv.cn/tvChannelDetail/43
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东卫视.png" group-title="卫视频道",广东卫视
+https://www.gdtv.cn/tvChannelDetail/44
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东卫视.png" group-title="卫视频道",广东卫视
+https://www.gdtv.cn/tvChannelDetail/45
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/陕西卫视.png" group-title="卫视频道",陕西卫视
+http://hlsbkmgsplive.miguvideo.com/migu/kailu/shan3xiws/57/20220809/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
+#EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/香港卫视.png" group-title="卫视频道",香港卫视
+http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/深圳卫视.png" group-title="卫视频道",深圳卫视
+https://www.sztv.com.cn/pindao/index.html?id=24725
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/深圳卫视.png" group-title="卫视频道",深圳卫视
+https://www.sztv.com.cn/pindao/index.html?id=7867
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/深圳卫视.png" group-title="卫视频道",深圳卫视
+https://www.sztv.com.cn/pindao/index.html?id=7868
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/深圳卫视.png" group-title="卫视频道",深圳卫视
+https://www.sztv.com.cn/pindao/index.html?id=7880
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/深圳卫视.png" group-title="卫视频道",深圳卫视
+https://www.sztv.com.cn/pindao/index.html?id=7871
+#EXTINF:-1 tvg-id="福建海峡卫视" tvg-name="海峡卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海峡卫视.png" group-title="卫视频道",海峡卫视
+http://hlsbkmgsplive.miguvideo.com/migu/kailu/haixiaws/57/20230724/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=#http://8.138.7.223/tv/hxws.m3u8
+#EXTINF:-1 tvg-id="凤凰卫视" tvg-name="凤凰卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰卫视.png" group-title="卫视频道",凤凰卫视
+http://221.7.175.154:8445/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/大湾区卫视.png" group-title="卫视频道",大湾区卫视
+https://www.gdtv.cn/tvChannelDetail/42
+#EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-5" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5.png" group-title="体育频道",CCTV-5
+https://live.chinacert.cftest5.cn/cnmg/live/641886683
+#EXTINF:-1 tvg-id="CCTV-5+" tvg-name="CCTV-5+" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5+.png" group-title="体育频道",CCTV-5+
+https://live.chinacert.cftest5.cn/cnmg/live/641886773
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/深圳体育.png" group-title="体育频道",深圳体育
+https://www.sztv.com.cn/pindao/index.html?id=24725
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/深圳体育.png" group-title="体育频道",深圳体育
+https://www.sztv.com.cn/pindao/index.html?id=7867
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/深圳体育.png" group-title="体育频道",深圳体育
+https://www.sztv.com.cn/pindao/index.html?id=7868
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/深圳体育.png" group-title="体育频道",深圳体育
+https://www.sztv.com.cn/pindao/index.html?id=7880
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/深圳体育.png" group-title="体育频道",深圳体育
+https://www.sztv.com.cn/pindao/index.html?id=7871
+#EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/香港卫视.png" group-title="香港频道",香港卫视
+http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 tvg-id="凤凰卫视" tvg-name="凤凰卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰卫视.png" group-title="香港频道",凤凰卫视
+http://221.7.175.154:8445/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="澳门莲花" tvg-name="澳门莲花" tvg-logo="https://www.xn--rgv465a.top/tvlogo/澳门莲花.png" group-title="澳门频道",澳门莲花
+http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
+#EXTINF:-1 tvg-id="astroAec" tvg-name="astroAec" tvg-logo="https://www.xn--rgv465a.top/tvlogo/astroAec.png" group-title="台湾频道",astroAec
+https://o11.163189.xyz/stream/live/aec/
+#EXTINF:-1 tvg-id="astroAod" tvg-name="astroAod" tvg-logo="https://www.xn--rgv465a.top/tvlogo/astroAod.png" group-title="台湾频道",astroAod
+https://o11.163189.xyz/stream/live/aod/
+#EXTINF:-1 tvg-id="astro欢喜" tvg-name="astro欢喜" tvg-logo="https://www.xn--rgv465a.top/tvlogo/astro欢喜.png" group-title="台湾频道",astro欢喜
+https://o11.163189.xyz/stream/live/hxt/
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东卫视.png" group-title="广东",广东卫视
+https://www.gdtv.cn/tvChannelDetail/110
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东卫视.png" group-title="广东",广东卫视
+https://www.gdtv.cn/tvChannelDetail/16
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东卫视.png" group-title="广东",广东卫视
+https://www.gdtv.cn/tvChannelDetail/43
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东卫视.png" group-title="广东",广东卫视
+https://www.gdtv.cn/tvChannelDetail/44
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东卫视.png" group-title="广东",广东卫视
+https://www.gdtv.cn/tvChannelDetail/45
+#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/大湾区卫视.png" group-title="广东",大湾区卫视
+https://www.gdtv.cn/tvChannelDetail/42
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/深圳卫视.png" group-title="广东",深圳卫视
+https://www.sztv.com.cn/pindao/index.html?id=24725
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/深圳卫视.png" group-title="广东",深圳卫视
+https://www.sztv.com.cn/pindao/index.html?id=7867
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/深圳卫视.png" group-title="广东",深圳卫视
+https://www.sztv.com.cn/pindao/index.html?id=7868
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/深圳卫视.png" group-title="广东",深圳卫视
+https://www.sztv.com.cn/pindao/index.html?id=7880
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/深圳卫视.png" group-title="广东",深圳卫视
+https://www.sztv.com.cn/pindao/index.html?id=7871
+#EXTINF:-1 tvg-id="韶关综合" tvg-name="韶关综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/韶关综合.png" group-title="广东",韶关综合
+https://www.sgmsw.cn/v/tv?spm=0.0.0.0.nRYAvk&id=SB05RIYZOU8JR418AUQOF62CAJQ08D0E
+#EXTINF:-1 tvg-id="河源综合" tvg-name="河源综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河源综合.png" group-title="广东",河源综合
+https://www.hyrtv.cn/itv/zhds/
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东南卫视.png" group-title="福建",东南卫视
+http://live.zohi.tv/video/s10001-fztv-3/index.m3u8#http://120.76.248.139/live/bfgd/4200000483.m3u8
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="福建电视剧" tvg-logo="https://www.xn--rgv465a.top/tvlogo/福建电视剧.png" group-title="福建",福建电视剧
+http://live.zohi.tv/video/s10001-fztv-3/index.m3u8#http://120.76.248.139/live/bfgd/4200000483.m3u8
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="福建旅游" tvg-logo="https://www.xn--rgv465a.top/tvlogo/福建旅游.png" group-title="福建",福建旅游
+http://live.zohi.tv/video/s10001-fztv-3/index.m3u8#http://120.76.248.139/live/bfgd/4200000483.m3u8
+#EXTINF:-1 tvg-id="福建海峡卫视" tvg-name="福建海峡卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/福建海峡卫视.png" group-title="福建",福建海峡卫视
+http://hlsbkmgsplive.miguvideo.com/migu/kailu/haixiaws/57/20230724/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=#http://8.138.7.223/tv/hxws.m3u8
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河北综合.png" group-title="天津",河北综合
+https://event.pull.hebtv.com:443/live/live101.m3u8
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河北卫视.png" group-title="河北",河北卫视
+https://event.pull.hebtv.com:443/live/live101.m3u8
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/陕西卫视.png" group-title="陕西",陕西卫视
+http://hlsbkmgsplive.miguvideo.com/migu/kailu/shan3xiws/57/20220809/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西西部电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/陕西西部电影.png" group-title="陕西",陕西西部电影
+http://hlsbkmgsplive.miguvideo.com/migu/kailu/shan3xiws/57/20220809/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西移动电视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/陕西移动电视.png" group-title="陕西",陕西移动电视
+http://hlsbkmgsplive.miguvideo.com/migu/kailu/shan3xiws/57/20220809/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广西卫视.png" group-title="广西",广西卫视
+http://gxyd.484947.xyz/PLTV/77777777/224/3221226351/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="安多卫视" tvg-name="安多卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/安多卫视.png" group-title="青海",安多卫视
+https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd#https://liveout.xntv.tv/a65jur/96iln2.m3u8#https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqing
+#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-06-19 02:50:23
 https://live.chinacert.cftest5.cn/cnmg/live/608807420
