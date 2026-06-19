@@ -525,105 +525,117 @@ BBC世界新闻,re:(?i)^\s*BBC世界新闻.*$,BBC世界新闻,BBC世界新闻,BB
 
 # ==================== 🇹🇼 台湾综合台 ====================
 
-台视综合,re:(?i)^\s*台视综合.*$,台视综合,台视综合,台视综合,臺視綜合,台视综合Petv,台视综合频晴,台视综合欣赏,台视综合Mttv,台视综合SXtv,台视综合Hktv,台视综合FYtv,台视综合台,台视综合4Gtv,台视综合地波
+台视综合台,re:(?i)^\s*台视综合.*$,台视综合台,台视综合台,台视综合台,臺視綜合台,台视综合Petv,台视综合频晴,台视综合欣赏,台视综合Mttv,台视综合SXtv,台视综合Hktv,台视综合FYtv,台视综合4Gtv,台视综合地波
 
-台视第一,re:(?i)^\s*台视第一.*$,台视第一,台视第一,台视第一,臺視第一,台视第一Petv,台视第一频晴,台视第一欣赏,台视第一Mttv,台视第一SXtv,台视第一Hktv,台视第一FYtv,台视第一台,台视第一4Gtv
+台视第一台,re:(?i)^\s*台视第一.*$,台视第一台,台视第一台,台视第一台,臺視第一台,台视第一Petv,台视第一频晴,台视第一欣赏,台视第一Mttv,台视第一SXtv,台视第一Hktv,台视第一FYtv,台视第一4Gtv
 
-台视财经,re:(?i)^\s*台视财经.*$,台视财经,台视财经,台视财经,臺視財經,台视财经Petv,台视财经频晴,台视财经欣赏,台视财经Mttv,台视财经SXtv,台视财经Hktv,台视财经FYtv,台视财经台,台视财经4Gtv,台视财经地波
+台视财经台,re:(?i)^\s*台视财经.*$,台视财经台,台视财经台,台视财经台,臺視財經台,台视财经Petv,台视财经频晴,台视财经欣赏,台视财经Mttv,台视财经SXtv,台视财经Hktv,台视财经FYtv,台视财经4Gtv,台视财经地波
 
-中视经典,re:(?i)^\s*中视经典.*$,中视经典,中视经典,中视经典,中視經典,中视经典Petv,中视经典频晴,中视经典欣赏,中视经典Mttv,中视经典SXtv,中视经典Hktv,中视经典FYtv,中视经典台,中视经典4Gtv,中视经典地波
+中视经典台,re:(?i)^\s*中视经典.*$,中视经典台,中视经典台,中视经典台,中視經典台,中视经典Petv,中视经典频晴,中视经典欣赏,中视经典Mttv,中视经典SXtv,中视经典Hktv,中视经典FYtv,中视经典4Gtv,中视经典地波
 
-中视菁采,re:(?i)^\s*中视菁采.*$,中视菁采,中视菁采,中视菁采,中視菁采,中视菁采Petv,中视菁采频晴,中视菁采欣赏,中视菁采Mttv,中视菁采SXtv,中视菁采Hktv,中视菁采FYtv,中视菁采台,中视菁采4Gtv,中视青采频陆,中视菁采地波
+中视菁采台,re:(?i)^\s*中视菁采.*$,中视菁采台,中视菁采台,中视菁采台,中視菁采台,中视菁采Petv,中视菁采频晴,中视菁采欣赏,中视菁采Mttv,中视菁采SXtv,中视菁采Hktv,中视菁采FYtv,中视菁采4Gtv,中视青采频陆,中视菁采地波
 
-中天综合,re:(?i)^\s*中天综合.*$,中天综合,中天综合,中天综合,中天綜合,中天综合Petv,中天综合频晴,中天综合欣赏,中天综合Mttv,中天综合SXtv,中天综合Hktv,中天综合FYtv,中天综合台,中天综合4Gtv
+中天综合台,re:(?i)^\s*中天综合.*$,中天综合台,中天综合台,中天综合台,中天綜合台,中天综合Petv,中天综合频晴,中天综合欣赏,中天综合Mttv,中天综合SXtv,中天综合Hktv,中天综合FYtv,中天综合4Gtv
 
-中天娱乐,re:(?i)^\s*中天娱乐.*$,中天娱乐,中天娱乐,中天娱乐,中天娛樂,中天娱乐Petv,中天娱乐频晴,中天娱乐欣赏,中天娱乐Mttv,中天娱乐SXtv,中天娱乐Hktv,中天娱乐FYtv,中天娱乐台,中天娱乐4Gtv
+中天娱乐台,re:(?i)^\s*中天娱乐.*$,中天娱乐台,中天娱乐台,中天娱乐台,中天娛樂台,中天娱乐Petv,中天娱乐频晴,中天娱乐欣赏,中天娱乐Mttv,中天娱乐SXtv,中天娱乐Hktv,中天娱乐FYtv,中天娱乐4Gtv
 
-中天亚洲,re:(?i)^\s*中天亚洲.*$,中天亚洲,中天亚洲,中天亚洲,中天亞洲,中天亚洲Petv,中天亚洲频晴,中天亚洲欣赏,中天亚洲Mttv,中天亚洲SXtv,中天亚洲Hktv,中天亚洲FYtv,中天亚洲台,中天亚洲4Gtv
+中天亚洲台,re:(?i)^\s*中天亚洲.*$,中天亚洲台,中天亚洲台,中天亚洲台,中天亞洲台,中天亚洲Petv,中天亚洲频晴,中天亚洲欣赏,中天亚洲Mttv,中天亚洲SXtv,中天亚洲Hktv,中天亚洲FYtv,中天亚洲4Gtv
 
-民视台湾,re:(?i)^\s*民视台湾.*$,民视台湾,民视台湾,民视台湾,民視臺灣,民视台湾Petv,民视台湾频晴,民视台湾欣赏,民视台湾Mttv,民视台湾SXtv,民视台湾Hktv,民视台湾FYtv,民视台湾台,民视台湾4Gtv
+民视台湾台,re:(?i)^\s*民视台湾.*$,民视台湾台,民视台湾台,民视台湾台,民視臺灣台,民视台湾Petv,民视台湾频晴,民视台湾欣赏,民视台湾Mttv,民视台湾SXtv,民视台湾Hktv,民视台湾FYtv,民视台湾4Gtv
 
-民视第一,re:(?i)^\s*民视第一.*$,民视第一,民视第一,民视第一,民視第一,民视第一Petv,民视第一频晴,民视第一欣赏,民视第一Mttv,民视第一SXtv,民视第一Hktv,民视第一FYtv,民视第一台,民视第一4Gtv,民视第一地波
+民视第一台,re:(?i)^\s*民视第一.*$,民视第一台,民视第一台,民视第一台,民視第一台,民视第一Petv,民视第一频晴,民视第一欣赏,民视第一Mttv,民视第一SXtv,民视第一Hktv,民视第一FYtv,民视第一4Gtv,民视第一地波
 
-民视影剧,re:(?i)^\s*民视影剧.*$,民视影剧,民视影剧,民视影剧,民視影劇,民视影剧Petv,民视影剧频晴,民视影剧欣赏,民视影剧Mttv,民视影剧SXtv,民视影剧Hktv,民视影剧FYtv,民视影剧台,民视影剧4Gtv
+民视影剧台,re:(?i)^\s*民视影剧.*$,民视影剧台,民视影剧台,民视影剧台,民視影劇台,民视影剧Petv,民视影剧频晴,民视影剧欣赏,民视影剧Mttv,民视影剧SXtv,民视影剧Hktv,民视影剧FYtv,民视影剧4Gtv
 
-民视旅游,re:(?i)^\s*民视旅游.*$,民视旅游,民视旅游,民视旅游,民視旅遊,民视旅游Petv,民视旅游频晴,民视旅游欣赏,民视旅游Mttv,民视旅游SXtv,民视旅游Hktv,民视旅游FYtv,民视旅游台,民视旅游4Gtv
+民视旅游台,re:(?i)^\s*民视旅游.*$,民视旅游台,民视旅游台,民视旅游台,民視旅遊台,民视旅游Petv,民视旅游频晴,民视旅游欣赏,民视旅游Mttv,民视旅游SXtv,民视旅游Hktv,民视旅游FYtv,民视旅游4Gtv
 
-民视综艺,re:(?i)^\s*民视综艺.*$,民视综艺,民视综艺,民视综艺,民視綜藝,民视综艺Petv,民视综艺频晴,民视综艺欣赏,民视综艺Mttv,民视综艺SXtv,民视综艺Hktv,民视综艺FYtv,民视综艺台,民视综艺4Gtv
+民视综艺台,re:(?i)^\s*民视综艺.*$,民视综艺台,民视综艺台,民视综艺台,民視綜藝台,民视综艺Petv,民视综艺频晴,民视综艺欣赏,民视综艺Mttv,民视综艺SXtv,民视综艺Hktv,民视综艺FYtv,民视综艺4Gtv
 
-民视戏剧,re:(?i)^\s*民视戏剧.*$,民视戏剧,民视戏剧,民视戏剧,民視戲劇,民视戏剧Petv,民视戏剧频晴,民视戏剧欣赏,民视戏剧Mttv,民视戏剧SXtv,民视戏剧Hktv,民视戏剧FYtv,民视戏剧台
+民视戏剧台,re:(?i)^\s*民视戏剧.*$,民视戏剧台,民视戏剧台,民视戏剧台,民視戲劇台,民视戏剧Petv,民视戏剧频晴,民视戏剧欣赏,民视戏剧Mttv,民视戏剧SXtv,民视戏剧Hktv,民视戏剧FYtv,民视戏剧4Gtv
 
 民视闽南,re:(?i)^\s*民视闽南.*$,民视闽南,民视闽南,民视闽南,民視閩南,民视闽南Petv,民视闽南频晴,民视闽南欣赏,民视闽南Mttv,民视闽南SXtv,民视闽南Hktv,民视闽南FYtv,民视闽南4Gtv,民视闽南地波,民视闽南频道,民视南闽地波
 
-公视台语,re:(?i)^\s*公视台语.*$,公视台语,公视台语,公视台语,公視臺語,公视台语Petv,公视台语频晴,公视台语欣赏,公视台语Mttv,公视台语SXtv,公视台语Hktv,公视台语FYtv,公视台语台,公视台语4Gtv,公视闽南,公视闽南地波,公视闽语地波
+公视台语台,re:(?i)^\s*公视台语.*$,公视台语台,公视台语台,公视台语台,公視臺語台,公视台语Petv,公视台语频晴,公视台语欣赏,公视台语Mttv,公视台语SXtv,公视台语Hktv,公视台语FYtv,公视台语4Gtv,公视闽南,公视闽南地波,公视闽语地波
 
-公视台湾,re:(?i)^\s*公视台湾.*$,公视台湾,公视台湾,公视台湾,公視臺灣,公视台湾Petv,公视台湾频晴,公视台湾欣赏,公视台湾Mttv,公视台湾SXtv,公视台湾Hktv,公视台湾FYtv,公视台湾台
+公视台湾台,re:(?i)^\s*公视台湾.*$,公视台湾台,公视台湾台,公视台湾台,公視臺灣台,公视台湾Petv,公视台湾频晴,公视台湾欣赏,公视台湾Mttv,公视台湾SXtv,公视台湾Hktv,公视台湾FYtv
 
-公视儿少,re:(?i)^\s*公视儿少.*$,公视儿少,公视儿少,公视儿少,公視兒少,公视儿少Petv,公视儿少频晴,公视儿少欣赏,公视儿少Mttv,公视儿少SXtv,公视儿少Hktv,公视儿少FYtv,公视儿少台
+公视儿少台,re:(?i)^\s*公视儿少.*$,公视儿少台,公视儿少台,公视儿少台,公視兒少台,公视儿少Petv,公视儿少频晴,公视儿少欣赏,公视儿少Mttv,公视儿少SXtv,公视儿少Hktv,公视儿少FYtv
 
-公视综合,re:(?i)^\s*公视综合.*$,公视综合,公视综合,公视综合,公視綜合,公视综合Petv,公视综合频晴,公视综合欣赏,公视综合Mttv,公视综合SXtv,公视综合Hktv,公视综合FYtv,公视综合台,公视综合地波,公视戏剧4Gtv
+公视综合台,re:(?i)^\s*公视综合.*$,公视综合台,公视综合台,公视综合台,公視綜合台,公视综合Petv,公视综合频晴,公视综合欣赏,公视综合Mttv,公视综合SXtv,公视综合Hktv,公视综合FYtv,公视综合地波,公视戏剧4Gtv
 
-华视教育文化,re:(?i)^\s*华视教育.*$,华视教育文化,华视教育文化,华视教育文化,華視教育,华视教育Petv,华视教育频晴,华视教育欣赏,华视教育Mttv,华视教育SXtv,华视教育Hktv,华视教育FYtv,华视教育文化台,华视教育台,华视教育地波
+华视教育文化台,re:(?i)^\s*华视教育.*$,华视教育文化台,华视教育文化台,华视教育文化台,華視教育文化台,华视教育Petv,华视教育频晴,华视教育欣赏,华视教育Mttv,华视教育SXtv,华视教育Hktv,华视教育FYtv,华视教育台,华视教育地波
 
-东森综合,re:(?i)^\s*东森综合.*$,东森综合,东森综合,东森综合,東森綜合,东森综合Petv,东森综合频晴,东森综合欣赏,东森综合Mttv,东森综合SXtv,东森综合Hktv,东森综合FYtv,东森综合台,东森综合4Gtv
+东森综合台,re:(?i)^\s*东森综合.*$,东森综合台,东森综合台,东森综合台,東森綜合台,东森综合Petv,东森综合频晴,东森综合欣赏,东森综合Mttv,东森综合SXtv,东森综合Hktv,东森综合FYtv,东森综合4Gtv
 
-东森超视,re:(?i)^\s*东森超视.*$,东森超视,东森超视,东森超视,東森超視,东森超视Petv,东森超视频晴,东森超视欣赏,东森超视Mttv,东森超视SXtv,东森超视Hktv,东森超视FYtv,东森超视台,东森超视4Gtv
+东森超视台,re:(?i)^\s*东森超视.*$,东森超视台,东森超视台,东森超视台,東森超視台,东森超视Petv,东森超视频晴,东森超视欣赏,东森超视Mttv,东森超视SXtv,东森超视Hktv,东森超视FYtv,东森超视4Gtv
 
-东森戏剧,re:(?i)^\s*东森戏剧.*$,东森戏剧,东森戏剧,东森戏剧,東森戲劇,东森戏剧Petv,东森戏剧频晴,东森戏剧欣赏,东森戏剧Mttv,东森戏剧SXtv,东森戏剧Hktv,东森戏剧FYtv,东森戏剧台,东森戏剧4Gtv
+东森戏剧台,re:(?i)^\s*东森戏剧.*$,东森戏剧台,东森戏剧台,东森戏剧台,東森戲劇台,东森戏剧Petv,东森戏剧频晴,东森戏剧欣赏,东森戏剧Mttv,东森戏剧SXtv,东森戏剧Hktv,东森戏剧FYtv,东森戏剧4Gtv
 
-东森洋片,re:(?i)^\s*东森洋片.*$,东森洋片,东森洋片,东森洋片,東森洋片,东森洋片Petv,东森洋片频晴,东森洋片欣赏,东森洋片Mttv,东森洋片SXtv,东森洋片Hktv,东森洋片FYtv,东森洋片台,东森洋片4Gtv
+东森洋片台,re:(?i)^\s*东森洋片.*$,东森洋片台,东森洋片台,东森洋片台,東森洋片台,东森洋片Petv,东森洋片频晴,东森洋片欣赏,东森洋片Mttv,东森洋片SXtv,东森洋片Hktv,东森洋片FYtv,东森洋片4Gtv
 
-东森幼幼,re:(?i)^\s*东森幼幼.*$,东森幼幼,东森幼幼,东森幼幼,東森幼幼,东森幼幼Petv,东森幼幼频晴,东森幼幼欣赏,东森幼幼Mttv,东森幼幼SXtv,东森幼幼Hktv,东森幼幼FYtv,东森幼幼台,东森幼幼4Gtv
+东森幼幼台,re:(?i)^\s*东森幼幼.*$,东森幼幼台,东森幼幼台,东森幼幼台,東森幼幼台,东森幼幼Petv,东森幼幼频晴,东森幼幼欣赏,东森幼幼Mttv,东森幼幼SXtv,东森幼幼Hktv,东森幼幼FYtv,东森幼幼4Gtv
 
-东森财经,re:(?i)^\s*东森财经.*$,东森财经,东森财经,东森财经,東森財經,东森财经Petv,东森财经频晴,东森财经欣赏,东森财经Mttv,东森财经SXtv,东森财经Hktv,东森财经FYtv,东森财经新闻台,东森财经4Gtv
+东森财经新闻台,re:(?i)^\s*东森财经.*$,东森财经新闻台,东森财经新闻台,东森财经新闻台,東森財經新聞台,东森财经Petv,东森财经频晴,东森财经欣赏,东森财经Mttv,东森财经SXtv,东森财经Hktv,东森财经FYtv,东森财经4Gtv
 
-八大综合,re:(?i)^\s*八大综合.*$,八大综合,八大综合,八大综合,八大綜合,八大综合Petv,八大综合频晴,八大综合欣赏,八大综合Mttv,八大综合SXtv,八大综合Hktv,八大综合FYtv,八大综合台,八大综合4Gtv
+纬来综合台,re:(?i)^\s*纬来综合.*$,纬来综合台,纬来综合台,纬来综合台,緯來綜合台,纬来综合Petv,纬来综合频晴,纬来综合欣赏,纬来综合Mttv,纬来综合SXtv,纬来综合Hktv,纬来综合FYtv,纬来综合4Gtv
 
-八大第一,re:(?i)^\s*八大第一.*$,八大第一,八大第一,八大第一,八大第一Petv,八大第一频晴,八大第一欣赏,八大第一Mttv,八大第一SXtv,八大第一Hktv,八大第一FYtv,八大第一台,八大第一4Gtv
+纬来戏剧台,re:(?i)^\s*纬来戏剧.*$,纬来戏剧台,纬来戏剧台,纬来戏剧台,緯來戲劇台,纬来戏剧Petv,纬来戏剧频晴,纬来戏剧欣赏,纬来戏剧Mttv,纬来戏剧SXtv,纬来戏剧Hktv,纬来戏剧FYtv,纬来戏剧4Gtv
 
-八大戏剧,re:(?i)^\s*八大戏剧.*$,八大戏剧,八大戏剧,八大戏剧,八大戲劇,八大戏剧Petv,八大戏剧频晴,八大戏剧欣赏,八大戏剧Mttv,八大戏剧SXtv,八大戏剧Hktv,八大戏剧FYtv,八大戏剧台,八大戏剧4Gtv
+纬来日本台,re:(?i)^\s*纬来日本.*$,纬来日本台,纬来日本台,纬来日本台,緯來日本台,纬来日本Petv,纬来日本频晴,纬来日本欣赏,纬来日本Mttv,纬来日本SXtv,纬来日本Hktv,纬来日本FYtv,纬来日本4Gtv
 
-八大娱乐,re:(?i)^\s*八大娱乐.*$,八大娱乐,八大娱乐,八大娱乐,八大娛樂,八大娱乐Petv,八大娱乐频晴,八大娱乐欣赏,八大娱乐Mttv,八大娱乐SXtv,八大娱乐Hktv,八大娱乐FYtv,八大娱乐台,八大娱乐4Gtv
+纬来育乐台,re:(?i)^\s*纬来育乐.*$,纬来育乐台,纬来育乐台,纬来育乐台,緯來育樂台,纬来育乐Petv,纬来育乐频晴,纬来育乐欣赏,纬来育乐Mttv,纬来育乐SXtv,纬来育乐Hktv,纬来育乐FYtv,纬来育乐4Gtv
 
-八大精彩,re:(?i)^\s*八大精彩.*$,八大精彩,八大精彩,八大精彩,八大精彩Petv,八大精彩频晴,八大精彩欣赏,八大精彩Mttv,八大精彩SXtv,八大精彩Hktv,八大精彩FYtv,八大精彩4Gtv
+纬来体育台,re:(?i)^\s*纬来体育.*$,纬来体育台,纬来体育台,纬来体育台,緯來體育台,纬来体育Petv,纬来体育频晴,纬来体育欣赏,纬来体育Mttv,纬来体育SXtv,纬来体育Hktv,纬来体育FYtv,纬来体育4Gtv
 
-三立台湾,re:(?i)^\s*三立台湾.*$,三立台湾,三立台湾,三立台湾,三立臺灣,三立台湾Petv,三立台湾频晴,三立台湾欣赏,三立台湾Mttv,三立台湾SXtv,三立台湾Hktv,三立台湾FYtv,三立台湾台
+纬来精采台,re:(?i)^\s*纬来精采.*$,纬来精采台,纬来精采台,纬来精采台,緯來精采台,纬来精采Petv,纬来精采频晴,纬来精采欣赏,纬来精采Mttv,纬来精采SXtv,纬来精采Hktv,纬来精采FYtv,纬来精采4Gtv
 
-三立综合,re:(?i)^\s*三立综合.*$,三立综合,三立综合,三立综合,三立綜合,三立综合Petv,三立综合频晴,三立综合欣赏,三立综合Mttv,三立综合SXtv,三立综合Hktv,三立综合FYtv,三立综合台,三立综合4Gtv
+纬来电影台,re:(?i)^\s*纬来电影.*$,纬来电影台,纬来电影台,纬来电影台,緯來電影台,纬来电影Petv,纬来电影频晴,纬来电影欣赏,纬来电影Mttv,纬来电影SXtv,纬来电影Hktv,纬来电影FYtv,纬来电影4Gtv
 
-三立都会,re:(?i)^\s*三立都会.*$,三立都会,三立都会,三立都会,三立都會,三立都会Petv,三立都会频晴,三立都会欣赏,三立都会Mttv,三立都会SXtv,三立都会Hktv,三立都会FYtv,三立都会台
+八大综合台,re:(?i)^\s*八大综合.*$,八大综合台,八大综合台,八大综合台,八大綜合台,八大综合Petv,八大综合频晴,八大综合欣赏,八大综合Mttv,八大综合SXtv,八大综合Hktv,八大综合FYtv,八大综合4Gtv
 
-三立戏剧,re:(?i)^\s*三立戏剧.*$,三立戏剧,三立戏剧,三立戏剧,三立戲劇,三立戏剧Petv,三立戏剧频晴,三立戏剧欣赏,三立戏剧Mttv,三立戏剧SXtv,三立戏剧Hktv,三立戏剧FYtv,三立戏剧台,三立戏剧4Gtv
+八大第一台,re:(?i)^\s*八大第一.*$,八大第一台,八大第一台,八大第一台,八大第一台,八大第一Petv,八大第一频晴,八大第一欣赏,八大第一Mttv,八大第一SXtv,八大第一Hktv,八大第一FYtv,八大第一4Gtv
+
+八大戏剧台,re:(?i)^\s*八大戏剧.*$,八大戏剧台,八大戏剧台,八大戏剧台,八大戲劇台,八大戏剧Petv,八大戏剧频晴,八大戏剧欣赏,八大戏剧Mttv,八大戏剧SXtv,八大戏剧Hktv,八大戏剧FYtv,八大戏剧4Gtv
+
+八大娱乐台,re:(?i)^\s*八大娱乐.*$,八大娱乐台,八大娱乐台,八大娱乐台,八大娛樂台,八大娱乐Petv,八大娱乐频晴,八大娱乐欣赏,八大娱乐Mttv,八大娱乐SXtv,八大娱乐Hktv,八大娱乐FYtv,八大娱乐4Gtv
+
+三立台湾台,re:(?i)^\s*三立台湾.*$,三立台湾台,三立台湾台,三立台湾台,三立臺灣台,三立台湾Petv,三立台湾频晴,三立台湾欣赏,三立台湾Mttv,三立台湾SXtv,三立台湾Hktv,三立台湾FYtv
+
+三立综合台,re:(?i)^\s*三立综合.*$,三立综合台,三立综合台,三立综合台,三立綜合台,三立综合Petv,三立综合频晴,三立综合欣赏,三立综合Mttv,三立综合SXtv,三立综合Hktv,三立综合FYtv,三立综合4Gtv
+
+三立都会台,re:(?i)^\s*三立都会.*$,三立都会台,三立都会台,三立都会台,三立都會台,三立都会Petv,三立都会频晴,三立都会欣赏,三立都会Mttv,三立都会SXtv,三立都会Hktv,三立都会FYtv
+
+三立戏剧台,re:(?i)^\s*三立戏剧.*$,三立戏剧台,三立戏剧台,三立戏剧台,三立戲劇台,三立戏剧Petv,三立戏剧频晴,三立戏剧欣赏,三立戏剧Mttv,三立戏剧SXtv,三立戏剧Hktv,三立戏剧FYtv,三立戏剧4Gtv
 
 三立闽南,re:(?i)^\s*三立闽南.*$,三立闽南,三立闽南,三立闽南,三立閩南,三立闽南Petv,三立闽南频晴,三立闽南欣赏,三立闽南Mttv,三立闽南SXtv,三立闽南Hktv,三立闽南FYtv
 
-TVBS欢乐,re:(?i)^\s*TVBS欢乐.*$,TVBS欢乐,TVBS欢乐,TVBS欢乐,TVBS歡樂,TVBS欢乐Petv,TVBS欢乐频晴,TVBS欢乐欣赏,TVBS欢乐Mttv,TVBS欢乐SXtv,TVBS欢乐Hktv,TVBS欢乐FYtv,TVBS欢乐台,TVBS欢乐4Gtv
+TVBS欢乐台,re:(?i)^\s*TVBS欢乐.*$,TVBS欢乐台,TVBS欢乐台,TVBS欢乐台,TVBS歡樂台,TVBS欢乐Petv,TVBS欢乐频晴,TVBS欢乐欣赏,TVBS欢乐Mttv,TVBS欢乐SXtv,TVBS欢乐Hktv,TVBS欢乐FYtv,TVBS欢乐4Gtv
 
-TVBS精彩,re:(?i)^\s*TVBS精彩.*$,TVBS精彩,TVBS精彩,TVBS精彩,TVBS精彩Petv,TVBS精彩频晴,TVBS精彩欣赏,TVBS精彩Mttv,TVBS精彩SXtv,TVBS精彩Hktv,TVBS精彩FYtv,TVBS精彩台,TVBS精采,TVBS精采4Gtv
+TVBS精彩台,re:(?i)^\s*TVBS精彩.*$,TVBS精彩台,TVBS精彩台,TVBS精彩台,TVBS精彩台,TVBS精彩Petv,TVBS精彩频晴,TVBS精彩欣赏,TVBS精彩Mttv,TVBS精彩SXtv,TVBS精彩Hktv,TVBS精彩FYtv,TVBS精采,TVBS精采4Gtv
 
-靖天综合,re:(?i)^\s*靖天综合.*$,靖天综合,靖天综合,靖天综合,靖天綜合,靖天综合Petv,靖天综合频晴,靖天综合欣赏,靖天综合Mttv,靖天综合SXtv,靖天综合Hktv,靖天综合FYtv,靖天综合台,靖天综合4Gtv
+靖天综合台,re:(?i)^\s*靖天综合.*$,靖天综合台,靖天综合台,靖天综合台,靖天綜合台,靖天综合Petv,靖天综合频晴,靖天综合欣赏,靖天综合Mttv,靖天综合SXtv,靖天综合Hktv,靖天综合FYtv,靖天综合4Gtv
 
-靖天娱乐,re:(?i)^\s*靖天娱乐.*$,靖天娱乐,靖天娱乐,靖天娱乐,靖天娛樂,靖天娱乐Petv,靖天娱乐频晴,靖天娱乐欣赏,靖天娱乐Mttv,靖天娱乐SXtv,靖天娱乐Hktv,靖天娱乐FYtv,靖天娱乐台
+靖天娱乐台,re:(?i)^\s*靖天娱乐.*$,靖天娱乐台,靖天娱乐台,靖天娱乐台,靖天娛樂台,靖天娱乐Petv,靖天娱乐频晴,靖天娱乐欣赏,靖天娱乐Mttv,靖天娱乐SXtv,靖天娱乐Hktv,靖天娱乐FYtv
 
-靖天欢乐,re:(?i)^\s*靖天欢乐.*$,靖天欢乐,靖天欢乐,靖天欢乐,靖天歡樂,靖天欢乐Petv,靖天欢乐频晴,靖天欢乐欣赏,靖天欢乐Mttv,靖天欢乐SXtv,靖天欢乐Hktv,靖天欢乐FYtv,靖天欢乐台,靖天欢乐4Gtv
+靖天欢乐台,re:(?i)^\s*靖天欢乐.*$,靖天欢乐台,靖天欢乐台,靖天欢乐台,靖天歡樂台,靖天欢乐Petv,靖天欢乐频晴,靖天欢乐欣赏,靖天欢乐Mttv,靖天欢乐SXtv,靖天欢乐Hktv,靖天欢乐FYtv,靖天欢乐4Gtv
 
-靖天戏剧,re:(?i)^\s*靖天戏剧.*$,靖天戏剧,靖天戏剧,靖天戏剧,靖天戲劇,靖天戏剧Petv,靖天戏剧频晴,靖天戏剧欣赏,靖天戏剧Mttv,靖天戏剧SXtv,靖天戏剧Hktv,靖天戏剧FYtv,靖天戏剧台,靖天戏剧4Gtv
+靖天戏剧台,re:(?i)^\s*靖天戏剧.*$,靖天戏剧台,靖天戏剧台,靖天戏剧台,靖天戲劇台,靖天戏剧Petv,靖天戏剧频晴,靖天戏剧欣赏,靖天戏剧Mttv,靖天戏剧SXtv,靖天戏剧Hktv,靖天戏剧FYtv,靖天戏剧4Gtv
 
-靖天国际,re:(?i)^\s*靖天国际.*$,靖天国际,靖天国际,靖天国际,靖天國際,靖天国际Petv,靖天国际频晴,靖天国际欣赏,靖天国际Mttv,靖天国际SXtv,靖天国际Hktv,靖天国际FYtv,靖天国际台,靖天国际4Gtv
+靖天国际台,re:(?i)^\s*靖天国际.*$,靖天国际台,靖天国际台,靖天国际台,靖天國際台,靖天国际Petv,靖天国际频晴,靖天国际欣赏,靖天国际Mttv,靖天国际SXtv,靖天国际Hktv,靖天国际FYtv,靖天国际4Gtv
 
-靖天卡通,re:(?i)^\s*靖天卡通.*$,靖天卡通,靖天卡通,靖天卡通,靖天卡通Petv,靖天卡通频晴,靖天卡通欣赏,靖天卡通Mttv,靖天卡通SXtv,靖天卡通Hktv,靖天卡通FYtv,靖天卡通台,靖天卡通4Gtv
+靖天卡通台,re:(?i)^\s*靖天卡通.*$,靖天卡通台,靖天卡通台,靖天卡通台,靖天卡通台,靖天卡通Petv,靖天卡通频晴,靖天卡通欣赏,靖天卡通Mttv,靖天卡通SXtv,靖天卡通Hktv,靖天卡通FYtv,靖天卡通4Gtv
 
-靖天资讯,re:(?i)^\s*靖天资讯.*$,靖天资讯,靖天资讯,靖天资讯,靖天資訊,靖天资讯Petv,靖天资讯频晴,靖天资讯欣赏,靖天资讯Mttv,靖天资讯SXtv,靖天资讯Hktv,靖天资讯FYtv,靖天资讯台,靖天资讯4Gtv
+靖天资讯台,re:(?i)^\s*靖天资讯.*$,靖天资讯台,靖天资讯台,靖天资讯台,靖天資訊台,靖天资讯Petv,靖天资讯频晴,靖天资讯欣赏,靖天资讯Mttv,靖天资讯SXtv,靖天资讯Hktv,靖天资讯FYtv,靖天资讯4Gtv
 
 靖洋戏剧,re:(?i)^\s*靖洋戏剧.*$,靖洋戏剧,靖洋戏剧,靖洋戏剧,靖洋戲劇,靖洋戏剧Petv,靖洋戏剧频晴,靖洋戏剧欣赏,靖洋戏剧Mttv,靖洋戏剧SXtv,靖洋戏剧Hktv,靖洋戏剧FYtv,靖洋戏剧4Gtv
 
-靖天日本,re:(?i)^\s*靖天日本.*$,靖天日本,靖天日本,靖天日本,靖天日本Petv,靖天日本频晴,靖天日本欣赏,靖天日本Mttv,靖天日本SXtv,靖天日本Hktv,靖天日本FYtv,靖天日本4Gtv
+靖天日本,re:(?i)^\s*靖天日本.*$,靖天日本,靖天日本,靖天日本,靖天日本,靖天日本Petv,靖天日本频晴,靖天日本欣赏,靖天日本Mttv,靖天日本SXtv,靖天日本Hktv,靖天日本FYtv,靖天日本4Gtv
 
-靖天映画,re:(?i)^\s*靖天映画.*$,靖天映画,靖天映画,靖天映画,靖天映画Petv,靖天映画频晴,靖天映画欣赏,靖天映画Mttv,靖天映画SXtv,靖天映画Hktv,靖天映画FYtv,靖天映画4Gtv
+靖天映画,re:(?i)^\s*靖天映画.*$,靖天映画,靖天映画,靖天映画,靖天映画,靖天映画Petv,靖天映画频晴,靖天映画欣赏,靖天映画Mttv,靖天映画SXtv,靖天映画Hktv,靖天映画FYtv,靖天映画4Gtv
 
-靖天电影,re:(?i)^\s*靖天电影.*$,靖天电影,靖天电影,靖天电影,靖天电影Petv,靖天电影频晴,靖天电影欣赏,靖天电影Mttv,靖天电影SXtv,靖天电影Hktv,靖天电影FYtv,靖天电影4Gtv
+靖天电影,re:(?i)^\s*靖天电影.*$,靖天电影,靖天电影,靖天电影,靖天电影,靖天电影Petv,靖天电影频晴,靖天电影欣赏,靖天电影Mttv,靖天电影SXtv,靖天电影Hktv,靖天电影FYtv,靖天电影4Gtv
 
-靖天育乐,re:(?i)^\s*靖天育乐.*$,靖天育乐,靖天育乐,靖天育乐,靖天育乐Petv,靖天育乐频晴,靖天育乐欣赏,靖天育乐Mttv,靖天育乐SXtv,靖天育乐Hktv,靖天育乐FYtv,靖天育乐4Gtv
+靖天育乐,re:(?i)^\s*靖天育乐.*$,靖天育乐,靖天育乐,靖天育乐,靖天育乐,靖天育乐Petv,靖天育乐频晴,靖天育乐欣赏,靖天育乐Mttv,靖天育乐SXtv,靖天育乐Hktv,靖天育乐FYtv,靖天育乐4Gtv
 
 东风卫视,re:(?i)^\s*东风卫视.*$,东风卫视,东风卫视,东风卫视,東風衛視,东风卫视Petv,东风卫视频晴,东风卫视欣赏,东风卫视Mttv,东风卫视SXtv,东风卫视Hktv,东风卫视FYtv
 
@@ -631,11 +643,11 @@ TVBS精彩,re:(?i)^\s*TVBS精彩.*$,TVBS精彩,TVBS精彩,TVBS精彩,TVBS精彩P
 
 MUCH TV,re:(?i)^\s*MUCH.*$,MUCH TV,MUCH TV,MUCH TV,MUCHTV,MUCH TVPetv,MUCH TV频晴,MUCH TV欣赏,MUCH TVMttv,MUCH TVSXtv,MUCH TVHktv,MUCH TVFYtv
 
-高点综合,re:(?i)^\s*高点综合.*$,高点综合,高点综合,高点综合,高點綜合,高点综合Petv,高点综合频晴,高点综合欣赏,高点综合Mttv,高点综合SXtv,高点综合Hktv,高点综合FYtv,高点综合台
+高点综合台,re:(?i)^\s*高点综合.*$,高点综合台,高点综合台,高点综合台,高點綜合台,高点综合Petv,高点综合频晴,高点综合欣赏,高点综合Mttv,高点综合SXtv,高点综合Hktv,高点综合FYtv
 
-JET综合,re:(?i)^\s*JET综合.*$,JET综合,JET综合,JET综合,JET綜合,JET综合Petv,JET综合频晴,JET综合欣赏,JET综合Mttv,JET综合SXtv,JET综合Hktv,JET综合FYtv,JET综合台
+JET综合台,re:(?i)^\s*JET综合.*$,JET综合台,JET综合台,JET综合台,JET綜合台,JET综合Petv,JET综合频晴,JET综合欣赏,JET综合Mttv,JET综合SXtv,JET综合Hktv,JET综合FYtv
 
-霹雳台湾,re:(?i)^\s*霹雳台湾.*$,霹雳台湾,霹雳台湾,霹雳台湾,霹靂臺灣,霹雳台湾Petv,霹雳台湾频晴,霹雳台湾欣赏,霹雳台湾Mttv,霹雳台湾SXtv,霹雳台湾Hktv,霹雳台湾FYtv,霹雳台湾台
+霹雳台湾台,re:(?i)^\s*霹雳台湾.*$,霹雳台湾台,霹雳台湾台,霹雳台湾台,霹靂臺灣台,霹雳台湾Petv,霹雳台湾频晴,霹雳台湾欣赏,霹雳台湾Mttv,霹雳台湾SXtv,霹雳台湾Hktv,霹雳台湾FYtv
 
 大爱一台,re:(?i)^\s*大爱一台.*$,大爱一台,大爱一台,大爱一台,大愛一台,大爱一台Petv,大爱一台频晴,大爱一台欣赏,大爱一台Mttv,大爱一台SXtv,大爱一台Hktv,大爱一台FYtv
 
@@ -652,37 +664,35 @@ TaiwanPlus,re:(?i)^\s*TaiwanPlus.*$,TaiwanPlus,TaiwanPlus,TaiwanPlus,TaiwanPlusP
 人间卫视,re:(?i)^\s*人间卫视.*$,人间卫视,人间卫视,人间卫视,人間衛視,人间卫视Petv,人间卫视频晴,人间卫视欣赏,人间卫视Mttv,人间卫视SXtv,人间卫视Hktv,人间卫视FYtv,人间卫视4Gtv
 
 
-# ==================== 台湾电影台 ====================
+# ==================== 🇹🇼 台湾电影台 ====================
 
-龙祥电影,re:(?i)^\s*龙祥电影.*$,龙祥电影,龙祥电影,龙祥电影,龍祥電影,龙祥电影Petv,龙祥电影频晴,龙祥电影欣赏,龙祥电影Mttv,龙祥电影SXtv,龙祥电影Hktv,龙祥电影FYtv,龙祥电影台
+龙祥电影台,re:(?i)^\s*龙祥电影.*$,龙祥电影台,龙祥电影台,龙祥电影台,龍祥電影台,龙祥电影Petv,龙祥电影频晴,龙祥电影欣赏,龙祥电影Mttv,龙祥电影SXtv,龙祥电影Hktv,龙祥电影FYtv
 
-LS TIME电影,re:(?i)^\s*LS.*TIME.*电影.*$,LS TIME电影,LS TIME电影,LS TIME电影,LS TIME電影,LS TIME电影Petv,LS TIME电影频晴,LS TIME电影欣赏,LS TIME电影Mttv,LS TIME电影SXtv,LS TIME电影Hktv,LS TIME电影FYtv,LS TIME电影台
+LS TIME电影台,re:(?i)^\s*LS.*TIME.*电影.*$,LS TIME电影台,LS TIME电影台,LS TIME电影台,LS TIME電影台,LS TIME电影Petv,LS TIME电影频晴,LS TIME电影欣赏,LS TIME电影Mttv,LS TIME电影SXtv,LS TIME电影Hktv,LS TIME电影FYtv
 
-龙华电影,re:(?i)^\s*龙华电影.*$,龙华电影,龙华电影,龙华电影,龍華電影,龙华电影Petv,龙华电影频晴,龙华电影欣赏,龙华电影Mttv,龙华电影SXtv,龙华电影Hktv,龙华电影FYtv,龙华电影台
+龙华电影台,re:(?i)^\s*龙华电影.*$,龙华电影台,龙华电影台,龙华电影台,龍華電影台,龙华电影Petv,龙华电影频晴,龙华电影欣赏,龙华电影Mttv,龙华电影SXtv,龙华电影Hktv,龙华电影FYtv
 
-龙华戏剧,re:(?i)^\s*龙华戏剧.*$,龙华戏剧,龙华戏剧,龙华戏剧,龍華戲劇,龙华戏剧Petv,龙华戏剧频晴,龙华戏剧欣赏,龙华戏剧Mttv,龙华戏剧SXtv,龙华戏剧Hktv,龙华戏剧FYtv,龙华戏剧台
+龙华戏剧台,re:(?i)^\s*龙华戏剧.*$,龙华戏剧台,龙华戏剧台,龙华戏剧台,龍華戲劇台,龙华戏剧Petv,龙华戏剧频晴,龙华戏剧欣赏,龙华戏剧Mttv,龙华戏剧SXtv,龙华戏剧Hktv,龙华戏剧FYtv
 
-龙华经典,re:(?i)^\s*龙华经典.*$,龙华经典,龙华经典,龙华经典,龍華經典,龙华经典Petv,龙华经典频晴,龙华经典欣赏,龙华经典Mttv,龙华经典SXtv,龙华经典Hktv,龙华经典FYtv,龙华经典台
+龙华经典台,re:(?i)^\s*龙华经典.*$,龙华经典台,龙华经典台,龙华经典台,龍華經典台,龙华经典Petv,龙华经典频晴,龙华经典欣赏,龙华经典Mttv,龙华经典SXtv,龙华经典Hktv,龙华经典FYtv
 
-龙华偶像,re:(?i)^\s*龙华偶像.*$,龙华偶像,龙华偶像,龙华偶像,龍華偶像,龙华偶像Petv,龙华偶像频晴,龙华偶像欣赏,龙华偶像Mttv,龙华偶像SXtv,龙华偶像Hktv,龙华偶像FYtv,龙华偶像台
+龙华偶像台,re:(?i)^\s*龙华偶像.*$,龙华偶像台,龙华偶像台,龙华偶像台,龍華偶像台,龙华偶像Petv,龙华偶像频晴,龙华偶像欣赏,龙华偶像Mttv,龙华偶像SXtv,龙华偶像Hktv,龙华偶像FYtv
 
-龙华日韩,re:(?i)^\s*龙华日韩.*$,龙华日韩,龙华日韩,龙华日韩,龍華日韓,龙华日韩Petv,龙华日韩频晴,龙华日韩欣赏,龙华日韩Mttv,龙华日韩SXtv,龙华日韩Hktv,龙华日韩FYtv,龙华日韩台
+龙华日韩台,re:(?i)^\s*龙华日韩.*$,龙华日韩台,龙华日韩台,龙华日韩台,龍華日韓台,龙华日韩Petv,龙华日韩频晴,龙华日韩欣赏,龙华日韩Mttv,龙华日韩SXtv,龙华日韩Hktv,龙华日韩FYtv
 
-龙华洋片,re:(?i)^\s*龙华洋片.*$,龙华洋片,龙华洋片,龙华洋片,龍華洋片,龙华洋片Petv,龙华洋片频晴,龙华洋片欣赏,龙华洋片Mttv,龙华洋片SXtv,龙华洋片Hktv,龙华洋片FYtv,龙华洋片台
+龙华洋片台,re:(?i)^\s*龙华洋片.*$,龙华洋片台,龙华洋片台,龙华洋片台,龍華洋片台,龙华洋片Petv,龙华洋片频晴,龙华洋片欣赏,龙华洋片Mttv,龙华洋片SXtv,龙华洋片Hktv,龙华洋片FYtv
 
-龙华卡通,re:(?i)^\s*龙华卡通.*$,龙华卡通,龙华卡通,龙华卡通,龍華卡通,龙华卡通Petv,龙华卡通频晴,龙华卡通欣赏,龙华卡通Mttv,龙华卡通SXtv,龙华卡通Hktv,龙华卡通FYtv,龙华卡通台
+东森电影台,re:(?i)^\s*东森电影.*$,东森电影台,东森电影台,东森电影台,東森電影台,东森电影Petv,东森电影频晴,东森电影欣赏,东森电影Mttv,东森电影SXtv,东森电影Hktv,东森电影FYtv
 
-东森电影,re:(?i)^\s*东森电影.*$,东森电影,东森电影,东森电影,東森電影,东森电影Petv,东森电影频晴,东森电影欣赏,东森电影Mttv,东森电影SXtv,东森电影Hktv,东森电影FYtv,东森电影台
-
-好莱坞电影,re:(?i)^\s*好莱坞电影.*$,好莱坞电影,好莱坞电影,好莱坞电影,好萊塢電影,好莱坞电影Petv,好莱坞电影频晴,好莱坞电影欣赏,好莱坞电影Mttv,好莱坞电影SXtv,好莱坞电影Hktv,好莱坞电影FYtv,好莱坞电影台
+好莱坞电影台,re:(?i)^\s*好莱坞电影.*$,好莱坞电影台,好莱坞电影台,好莱坞电影台,好萊塢電影台,好莱坞电影Petv,好莱坞电影频晴,好莱坞电影欣赏,好莱坞电影Mttv,好莱坞电影SXtv,好莱坞电影Hktv,好莱坞电影FYtv
 
 HBO,re:(?i)^\s*HBO(?!.*(?:家庭|强档|原创)).*$,HBO,HBO,HBO,HBOPetv,HBO频晴,HBO欣赏,HBOMttv,HBOSXtv,HBOHktv,HBOFYtv
 
-HBO家庭,re:(?i)^\s*HBO家庭.*$,HBO家庭,HBO家庭,HBO家庭,HBO家庭Petv,HBO家庭频晴,HBO家庭欣赏,HBO家庭Mttv,HBO家庭SXtv,HBO家庭Hktv,HBO家庭FYtv,HBO家庭台
+HBO家庭台,re:(?i)^\s*HBO家庭.*$,HBO家庭台,HBO家庭台,HBO家庭台,HBO家庭台Petv,HBO家庭台频晴,HBO家庭台欣赏,HBO家庭台Mttv,HBO家庭台SXtv,HBO家庭台Hktv,HBO家庭台FYtv
 
-HBO强档,re:(?i)^\s*HBO强档.*$,HBO强档,HBO强档,HBO强档,HBO強檔,HBO强档Petv,HBO强档频晴,HBO强档欣赏,HBO强档Mttv,HBO强档SXtv,HBO强档Hktv,HBO强档FYtv,HBO强档台
+HBO强档台,re:(?i)^\s*HBO强档.*$,HBO强档台,HBO强档台,HBO强档台,HBO強檔台,HBO强档Petv,HBO强档频晴,HBO强档欣赏,HBO强档Mttv,HBO强档SXtv,HBO强档Hktv,HBO强档FYtv
 
-HBO原创,re:(?i)^\s*HBO原创.*$,HBO原创,HBO原创,HBO原创,HBO原創,HBO原创Petv,HBO原创频晴,HBO原创欣赏,HBO原创Mttv,HBO原创SXtv,HBO原创Hktv,HBO原创FYtv,HBO原创台
+HBO原创台,re:(?i)^\s*HBO原创.*$,HBO原创台,HBO原创台,HBO原创台,HBO原創台,HBO原创Petv,HBO原创频晴,HBO原创欣赏,HBO原创Mttv,HBO原创SXtv,HBO原创Hktv,HBO原创FYtv
 
 AXN,re:(?i)^\s*AXN.*$,AXN,AXN,AXN,AXNPetv,AXN频晴,AXN欣赏,AXNMttv,AXNSXtv,AXNHktv,AXNFYtv
 
@@ -690,34 +700,36 @@ CINE MAX,re:(?i)^\s*CINE.*MAX.*$,CINE MAX,CINE MAX,CINE MAX,CINEMAX,CINE MAXPetv
 
 Star Movies,re:(?i)^\s*Star.*Movies.*$,Star Movies,Star Movies,Star Movies,StarMovies,Star MoviesPetv,Star Movies频晴,Star Movies欣赏,Star MoviesMttv,Star MoviesSXtv,Star MoviesHktv,Star MoviesFYtv
 
-华艺中文,re:(?i)^\s*华艺中文.*$,华艺中文,华艺中文,华艺中文,華藝中文,华艺中文Petv,华艺中文频晴,华艺中文欣赏,华艺中文Mttv,华艺中文SXtv,华艺中文Hktv,华艺中文FYtv,华艺中文台
+华艺中文台,re:(?i)^\s*华艺中文.*$,华艺中文台,华艺中文台,华艺中文台,華藝中文台,华艺中文Petv,华艺中文频晴,华艺中文欣赏,华艺中文Mttv,华艺中文SXtv,华艺中文Hktv,华艺中文FYtv
 
-爱尔达影剧,re:(?i)^\s*爱尔达影剧.*$,爱尔达影剧,爱尔达影剧,爱尔达影剧,愛爾達影劇,爱尔达影剧Petv,爱尔达影剧频晴,爱尔达影剧欣赏,爱尔达影剧Mttv,爱尔达影剧SXtv,爱尔达影剧Hktv,爱尔达影剧FYtv,爱尔达影剧台
+爱尔达影剧台,re:(?i)^\s*爱尔达影剧.*$,爱尔达影剧台,爱尔达影剧台,爱尔达影剧台,愛爾達影劇台,爱尔达影剧Petv,爱尔达影剧频晴,爱尔达影剧欣赏,爱尔达影剧Mttv,爱尔达影剧SXtv,爱尔达影剧Hktv,爱尔达影剧FYtv
 
-韩国娱乐,re:(?i)^\s*韩国娱乐.*$,韩国娱乐,韩国娱乐,韩国娱乐,韓國娛樂,韩国娱乐Petv,韩国娱乐频晴,韩国娱乐欣赏,韩国娱乐Mttv,韩国娱乐SXtv,韩国娱乐Hktv,韩国娱乐FYtv,韩国娱乐台
+韩国娱乐台,re:(?i)^\s*韩国娱乐.*$,韩国娱乐台,韩国娱乐台,韩国娱乐台,韓國娛樂台,韩国娱乐Petv,韩国娱乐频晴,韩国娱乐欣赏,韩国娱乐Mttv,韩国娱乐SXtv,韩国娱乐Hktv,韩国娱乐FYtv
 
 tvN,re:(?i)^\s*tvN.*$,tvN,tvN,tvN,tvNPetv,tvN频晴,tvN欣赏,tvNMttv,tvNSXtv,tvNHktv,tvNFYtv
 
 阿里郎电视台,re:(?i)^\s*阿里郎.*$,阿里郎电视台,阿里郎电视台,阿里郎电视台,阿里郎電視台,阿里郎Petv,阿里郎频晴,阿里郎欣赏,阿里郎Mttv,阿里郎SXtv,阿里郎Hktv,阿里郎FYtv,Arirang
 
-天映经典,re:(?i)^\s*天映经典.*$,天映经典,天映经典,天映经典,天映經典,天映经典Petv,天映经典频晴,天映经典欣赏,天映经典Mttv,天映经典SXtv,天映经典Hktv,天映经典FYtv,天映经典台
+天映经典台,re:(?i)^\s*天映经典.*$,天映经典台,天映经典台,天映经典台,天映經典台,天映经典Petv,天映经典频晴,天映经典欣赏,天映经典Mttv,天映经典SXtv,天映经典Hktv,天映经典FYtv
 
-天映卡通,re:(?i)^\s*天映卡通.*$,天映卡通,天映卡通,天映卡通,天映卡通Petv,天映卡通频晴,天映卡通欣赏,天映卡通Mttv,天映卡通SXtv,天映卡通Hktv,天映卡通FYtv,天映卡通台
+天映卡通台,re:(?i)^\s*天映卡通.*$,天映卡通台,天映卡通台,天映卡通台,天映卡通台,天映卡通Petv,天映卡通频晴,天映卡通欣赏,天映卡通Mttv,天映卡通SXtv,天映卡通Hktv,天映卡通FYtv
 
-天映频道,re:(?i)^\s*天映频道.*$,天映频道,天映频道,天映频道,天映频道Petv,天映频道频晴,天映频道欣赏,天映频道Mttv,天映频道SXtv,天映频道Hktv,天映频道FYtv
+天映频道,re:(?i)^\s*天映频道.*$,天映频道,天映频道,天映频道,天映频道,天映频道Petv,天映频道频晴,天映频道欣赏,天映频道Mttv,天映频道SXtv,天映频道Hktv,天映频道FYtv
+
+千禧经典台,re:(?i)^\s*千禧经典.*$,千禧经典台,千禧经典台,千禧经典台,千禧經典台,千禧经典Petv,千禧经典频晴,千禧经典欣赏,千禧经典Mttv,千禧经典SXtv,千禧经典Hktv,千禧经典FYtv
 
 
 # ==================== 🇹🇼 台湾体育台 ====================
 
-博斯运动,re:(?i)^\s*博斯运动.*$,博斯运动,博斯运动,博斯运动,博斯運動,博斯运动Petv,博斯运动频晴,博斯运动欣赏,博斯运动Mttv,博斯运动SXtv,博斯运动Hktv,博斯运动FYtv,博斯运动台
+博斯运动台,re:(?i)^\s*博斯运动.*$,博斯运动台,博斯运动台,博斯运动台,博斯運動台,博斯运动Petv,博斯运动频晴,博斯运动欣赏,博斯运动Mttv,博斯运动SXtv,博斯运动Hktv,博斯运动FYtv
 
-博斯网球,re:(?i)^\s*博斯网球.*$,博斯网球,博斯网球,博斯网球,博斯網球,博斯网球Petv,博斯网球频晴,博斯网球欣赏,博斯网球Mttv,博斯网球SXtv,博斯网球Hktv,博斯网球FYtv,博斯网球台
+博斯网球台,re:(?i)^\s*博斯网球.*$,博斯网球台,博斯网球台,博斯网球台,博斯網球台,博斯网球Petv,博斯网球频晴,博斯网球欣赏,博斯网球Mttv,博斯网球SXtv,博斯网球Hktv,博斯网球FYtv
 
-博斯高球,re:(?i)^\s*博斯高球.*$,博斯高球,博斯高球,博斯高球,博斯高球Petv,博斯高球频晴,博斯高球欣赏,博斯高球Mttv,博斯高球SXtv,博斯高球Hktv,博斯高球FYtv,博斯高球台
+博斯高球台,re:(?i)^\s*博斯高球.*$,博斯高球台,博斯高球台,博斯高球台,博斯高球台,博斯高球Petv,博斯高球频晴,博斯高球欣赏,博斯高球Mttv,博斯高球SXtv,博斯高球Hktv,博斯高球FYtv
 
-五星体育,re:(?i)^\s*五星体育.*$,五星体育,五星体育,五星体育,五星體育,五星体育Petv,五星体育频晴,五星体育欣赏,五星体育Mttv,五星体育SXtv,五星体育Hktv,五星体育FYtv,五星体育台
+五星体育台,re:(?i)^\s*五星体育.*$,五星体育台,五星体育台,五星体育台,五星體育台,五星体育Petv,五星体育频晴,五星体育欣赏,五星体育Mttv,五星体育SXtv,五星体育Hktv,五星体育FYtv
 
-爱尔达体育,re:(?i)^\s*爱尔达体育.*$,爱尔达体育,爱尔达体育,爱尔达体育,愛爾達體育,爱尔达体育Petv,爱尔达体育频晴,爱尔达体育欣赏,爱尔达体育Mttv,爱尔达体育SXtv,爱尔达体育Hktv,爱尔达体育FYtv,爱尔达体育台
+爱尔达体育台,re:(?i)^\s*爱尔达体育.*$,爱尔达体育台,爱尔达体育台,爱尔达体育台,愛爾達體育台,爱尔达体育Petv,爱尔达体育频晴,爱尔达体育欣赏,爱尔达体育Mttv,爱尔达体育SXtv,爱尔达体育Hktv,爱尔达体育FYtv
 
 astro-QJ,re:(?i)^\s*astro-QJ.*$,astro-QJ,astro-QJ,astro-QJ,astro-QJPetv,astro-QJ频晴,astro-QJ欣赏,astro-QJMttv,astro-QJSXtv,astro-QJHktv,astro-QJFYtv
 
@@ -729,46 +741,43 @@ astro欢喜,re:(?i)^\s*astro欢喜.*$,astro欢喜,astro欢喜,astro欢喜,astro�
 
 astro爱奇艺,re:(?i)^\s*astroiqiyi.*$,astro爱奇艺,astro爱奇艺,astro爱奇艺,astro愛奇藝,astroiqiyiPetv,astroiqiyi频晴,astroiqiyi欣赏,astroiqiyiMttv,astroiqiyiSXtv,astroiqiyiHktv,astroiqiyiFYtv,astroiqiyi单国
 
+
 # ==================== 🇹🇼 台湾少儿台 ====================
 
-MoMo亲子,re:(?i)^\s*MoMo亲子.*$,MoMo亲子,MoMo亲子,MoMo亲子,MoMo親子,MoMo亲子Petv,MoMo亲子频晴,MoMo亲子欣赏,MoMo亲子Mttv,MoMo亲子SXtv,MoMo亲子Hktv,MoMo亲子FYtv,MoMo亲子台
+MoMo亲子台,re:(?i)^\s*MoMo亲子.*$,MoMo亲子台,MoMo亲子台,MoMo亲子台,MoMo親子台,MoMo亲子Petv,MoMo亲子频晴,MoMo亲子欣赏,MoMo亲子Mttv,MoMo亲子SXtv,MoMo亲子Hktv,MoMo亲子FYtv
 
 卡通频道,re:(?i)^\s*卡通频道.*$,卡通频道,卡通频道,卡通频道,卡通頻道,卡通频道Petv,卡通频道频晴,卡通频道欣赏,卡通频道Mttv,卡通频道SXtv,卡通频道Hktv,卡通频道FYtv,CN卡通
 
-尼克卡通,re:(?i)^\s*尼克卡通.*$,尼克卡通,尼克卡通,尼克卡通,尼克卡通Petv,尼克卡通频晴,尼克卡通欣赏,尼克卡通Mttv,尼克卡通SXtv,尼克卡通Hktv,尼克卡通FYtv,尼克卡通台
+尼克卡通台,re:(?i)^\s*尼克卡通.*$,尼克卡通台,尼克卡通台,尼克卡通台,尼克卡通台,尼克卡通Petv,尼克卡通频晴,尼克卡通欣赏,尼克卡通Mttv,尼克卡通SXtv,尼克卡通Hktv,尼克卡通FYtv
+
+龙华卡通台,re:(?i)^\s*龙华卡通.*$,龙华卡通台,龙华卡通台,龙华卡通台,龍華卡通台,龙华卡通Petv,龙华卡通频晴,龙华卡通欣赏,龙华卡通Mttv,龙华卡通SXtv,龙华卡通Hktv,龙华卡通FYtv
 
 Animax,re:(?i)^\s*Animax.*$,Animax,Animax,Animax,AnimaxPetv,Animax频晴,Animax欣赏,AnimaxMttv,AnimaxSXtv,AnimaxHktv,AnimaxFYtv
 
-BBC地球,re:(?i)^\s*BBC地球.*$,BBC地球,BBC地球,BBC地球,BBC地球Petv,BBC地球频晴,BBC地球欣赏,BBC地球Mttv,BBC地球SXtv,BBC地球Hktv,BBC地球FYtv,BBC地球台
+BBC地球台,re:(?i)^\s*BBC地球.*$,BBC地球台,BBC地球台,BBC地球台,BBC地球台,BBC地球Petv,BBC地球频晴,BBC地球欣赏,BBC地球Mttv,BBC地球SXtv,BBC地球Hktv,BBC地球FYtv
 
-动物星球,re:(?i)^\s*动物星球.*$,动物星球,动物星球,动物星球,動物星球,动物星球Petv,动物星球频晴,动物星球欣赏,动物星球Mttv,动物星球SXtv,动物星球Hktv,动物星球FYtv,动物星球台
+动物星球台,re:(?i)^\s*动物星球.*$,动物星球台,动物星球台,动物星球台,動物星球台,动物星球Petv,动物星球频晴,动物星球欣赏,动物星球Mttv,动物星球SXtv,动物星球Hktv,动物星球FYtv
 
 
 # ==================== 🇹🇼 台湾其他 ====================
 
 美食星球,re:(?i)^\s*美食星球.*$,美食星球,美食星球,美食星球,美食星球Petv,美食星球频晴,美食星球欣赏,美食星球Mttv,美食星球SXtv,美食星球Hktv,美食星球FYtv
 
-亚洲旅游,re:(?i)^\s*亚洲旅游.*$,亚洲旅游,亚洲旅游,亚洲旅游,亞洲旅遊,亚洲旅游Petv,亚洲旅游频晴,亚洲旅游欣赏,亚洲旅游Mttv,亚洲旅游SXtv,亚洲旅游Hktv,亚洲旅游FYtv,亚洲旅游台
+亚洲旅游台,re:(?i)^\s*亚洲旅游.*$,亚洲旅游台,亚洲旅游台,亚洲旅游台,亞洲旅遊台,亚洲旅游Petv,亚洲旅游频晴,亚洲旅游欣赏,亚洲旅游Mttv,亚洲旅游SXtv,亚洲旅游Hktv,亚洲旅游FYtv
 
-EYE戏剧,re:(?i)^\s*EYE戏剧.*$,EYE戏剧,EYE戏剧,EYE戏剧,EYE戲劇,EYE戏剧Petv,EYE戏剧频晴,EYE戏剧欣赏,EYE戏剧Mttv,EYE戏剧SXtv,EYE戏剧Hktv,EYE戏剧FYtv,EYE戏剧台
+EYE戏剧台,re:(?i)^\s*EYE戏剧.*$,EYE戏剧台,EYE戏剧台,EYE戏剧台,EYE戲劇台,EYE戏剧Petv,EYE戏剧频晴,EYE戏剧欣赏,EYE戏剧Mttv,EYE戏剧SXtv,EYE戏剧Hktv,EYE戏剧FYtv
 
-EYE旅游,re:(?i)^\s*EYE旅游.*$,EYE旅游,EYE旅游,EYE旅游,EYE旅遊,EYE旅游Petv,EYE旅游频晴,EYE旅游欣赏,EYE旅游Mttv,EYE旅游SXtv,EYE旅游Hktv,EYE旅游FYtv,EYE旅游台
+EYE旅游台,re:(?i)^\s*EYE旅游.*$,EYE旅游台,EYE旅游台,EYE旅游台,EYE旅遊台,EYE旅游Petv,EYE旅游频晴,EYE旅游欣赏,EYE旅游Mttv,EYE旅游SXtv,EYE旅游Hktv,EYE旅游FYtv
 
-NHK世界,re:(?i)^\s*NHK世界.*$,NHK世界,NHK世界,NHK世界,NHK世界Petv,NHK世界频晴,NHK世界欣赏,NHK世界Mttv,NHK世界SXtv,NHK世界Hktv,NHK世界FYtv,NHK世界台
+Now英超体育台,re:(?i)^\s*Now英超体育台.*$,Now英超体育台,Now英超体育台,Now英超体育台,Now英超体育台Petv,Now英超体育台频晴,Now英超体育台欣赏,Now英超体育台Mttv,Now英超体育台SXtv,Now英超体育台Hktv,Now英超体育台FYtv
+
+华视教育台,re:(?i)^\s*华视教育.*$,华视教育台,华视教育台,华视教育台,華視教育台,华视教育Petv,华视教育频晴,华视教育欣赏,华视教育Mttv,华视教育SXtv,华视教育Hktv,华视教育FYtv,华视教育地波
+
+NHK世界台,re:(?i)^\s*NHK世界.*$,NHK世界台,NHK世界台,NHK世界台,NHK世界台,NHK世界Petv,NHK世界频晴,NHK世界欣赏,NHK世界Mttv,NHK世界SXtv,NHK世界Hktv,NHK世界FYtv
 
 法国TV5,re:(?i)^\s*法国TV5.*$,法国TV5,法国TV5,法国TV5,法國TV5,法国TV5Petv,法国TV5频晴,法国TV5欣赏,法国TV5Mttv,法国TV5SXtv,法国TV5Hktv,法国TV5FYtv,TV5MONDE
 
 德国之声,re:(?i)^\s*德国之声.*$,德国之声,德国之声,德国之声,德國之聲,德国之声Petv,德国之声频晴,德国之声欣赏,德国之声Mttv,德国之声SXtv,德国之声Hktv,德国之声FYtv,DW
-
-国家地理,re:(?i)^\s*国家地理.*$,国家地理,国家地理,国家地理,国家地理Petv,国家地理频晴,国家地理欣赏,国家地理Mttv,国家地理SXtv,国家地理Hktv,国家地理FYtv,国家地理4Gtv
-
-历史频道,re:(?i)^\s*历史频道.*$,历史频道,历史频道,历史频道,历史频道Petv,历史频道频晴,历史频道欣赏,历史频道Mttv,历史频道SXtv,历史频道Hktv,历史频道FYtv,历史频道4Gtv
-
-探索科学,re:(?i)^\s*探索科学.*$,探索科学,探索科学,探索科学,探索科学Petv,探索科学频晴,探索科学欣赏,探索科学Mttv,探索科学SXtv,探索科学Hktv,探索科学FYtv
-
-SMArt知识,re:(?i)^\s*SMArt.*$,SMArt知识,SMArt知识,SMArt知识,SMArt知识Petv,SMArt知识频晴,SMArt知识欣赏,SMArt知识Mttv,SMArt知识SXtv,SMArt知识Hktv,SMArt知识FYtv,SMArt台
-
-Now英超体育台,re:(?i)^\s*Now英超体育台.*$,Now英超体育台,Now英超体育台,Now英超体育台,Now英超体育台Petv,Now英超体育台频晴,Now英超体育台欣赏,Now英超体育台Mttv,Now英超体育台SXtv,Now英超体育台Hktv,Now英超体育台FYtv
 
 Now星影,re:(?i)^\s*Now星影.*$,Now星影,Now星影,Now星影,Now星影Petv,Now星影频晴,Now星影欣赏,Now星影Mttv,Now星影SXtv,Now星影Hktv,Now星影FYtv,Now星影国赏,Now星影粤赏
 
@@ -777,6 +786,30 @@ Now英超,re:(?i)^\s*Now英超(?!.*(?:体育|壹|贰)).*$,Now英超,Now英超,No
 Now英超体育壹,re:(?i)^\s*Now英超体育壹.*$,Now英超体育壹,Now英超体育壹,Now英超体育壹,Now英超体育壹Petv,Now英超体育壹频晴,Now英超体育壹欣赏,Now英超体育壹Mttv,Now英超体育壹SXtv,Now英超体育壹Hktv,Now英超体育壹FYtv
 
 Now英超体育贰,re:(?i)^\s*Now英超体育贰.*$,Now英超体育贰,Now英超体育贰,Now英超体育贰,Now英超体育贰Petv,Now英超体育贰频晴,Now英超体育贰欣赏,Now英超体育贰Mttv,Now英超体育贰SXtv,Now英超体育贰Hktv,Now英超体育贰FYtv
+
+SMArt知识,re:(?i)^\s*SMArt.*$,SMArt知识,SMArt知识,SMArt知识,SMArt知识Petv,SMArt知识频晴,SMArt知识欣赏,SMArt知识Mttv,SMArt知识SXtv,SMArt知识Hktv,SMArt知识FYtv,SMArt台
+
+Ftv城市,re:(?i)^\s*Ftv城市.*$,Ftv城市,Ftv城市,Ftv城市,Ftv城市Petv,Ftv城市频晴,Ftv城市欣赏,Ftv城市Mttv,Ftv城市SXtv,Ftv城市Hktv,Ftv城市FYtv
+
+Ftv1时代东,re:(?i)^\s*Ftv1时代东.*$,Ftv1时代东,Ftv1时代东,Ftv1时代东,Ftv1时代东Petv,Ftv1时代东频晴,Ftv1时代东欣赏,Ftv1时代东Mttv,Ftv1时代东SXtv,Ftv1时代东Hktv,Ftv1时代东FYtv
+
+Ftv1时代西,re:(?i)^\s*Ftv1时代西.*$,Ftv1时代西,Ftv1时代西,Ftv1时代西,Ftv1时代西Petv,Ftv1时代西频晴,Ftv1时代西欣赏,Ftv1时代西Mttv,Ftv1时代西SXtv,Ftv1时代西Hktv,Ftv1时代西FYtv
+
+Ftv2时代,re:(?i)^\s*Ftv2时代.*$,Ftv2时代,Ftv2时代,Ftv2时代,Ftv2时代Petv,Ftv2时代频晴,Ftv2时代欣赏,Ftv2时代Mttv,Ftv2时代SXtv,Ftv2时代Hktv,Ftv2时代FYtv
+
+壹电影,re:(?i)^\s*壹电影.*$,壹电影,壹电影,壹电影,壹电影Petv,壹电影频晴,壹电影欣赏,壹电影Mttv,壹电影SXtv,壹电影Hktv,壹电影FYtv
+
+壹综合,re:(?i)^\s*壹综合.*$,壹综合,壹综合,壹综合,壹综合Petv,壹综合频晴,壹综合欣赏,壹综合Mttv,壹综合SXtv,壹综合Hktv,壹综合FYtv
+
+ELta综合,re:(?i)^\s*ELta综合.*$,ELta综合,ELta综合,ELta综合,ELta综合Petv,ELta综合频晴,ELta综合欣赏,ELta综合Mttv,ELta综合SXtv,ELta综合Hktv,ELta综合FYtv
+
+ELta影剧,re:(?i)^\s*ELta影剧.*$,ELta影剧,ELta影剧,ELta影剧,ELta影剧Petv,ELta影剧频晴,ELta影剧欣赏,ELta影剧Mttv,ELta影剧SXtv,ELta影剧Hktv,ELta影剧FYtv
+
+智林体育,re:(?i)^\s*智林体育.*$,智林体育,智林体育,智林体育,智林体育Petv,智林体育频晴,智林体育欣赏,智林体育Mttv,智林体育SXtv,智林体育Hktv,智林体育FYtv
+
+国会频壹,re:(?i)^\s*国会频壹.*$,国会频壹,国会频壹,国会频壹,国会频壹Petv,国会频壹频晴,国会频壹欣赏,国会频壹Mttv,国会频壹SXtv,国会频壹Hktv,国会频壹FYtv
+
+国会频贰,re:(?i)^\s*国会频贰.*$,国会频贰,国会频贰,国会频贰,国会频贰Petv,国会频贰频晴,国会频贰欣赏,国会频贰Mttv,国会频贰SXtv,国会频贰Hktv,国会频贰FYtv
 
 # ==================== 广东广州频道（前后模糊匹配） ====================
 
