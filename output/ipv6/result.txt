@@ -135,17 +135,32 @@ CCTV-5+,https://live.chinacert.cftest5.cn/cnmg/live/641886773
 香港频道,#genre#
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 凤凰卫视,http://221.7.175.154:8445/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰香港,http://r.jdshipin.com/yDoTN
-凤凰香港,http://cdn6.163189.xyz/163189/fhhk
-凤凰香港,https://cdn6.163189.xyz/163189/fhhk
-凤凰中文,http://r.jdshipin.com/cCCzW
-凤凰中文,http://cdn6.163189.xyz/163189/fhzw
-凤凰中文,https://cdn6.163189.xyz/163189/fhzw
-凤凰中文,http://cdn6.163189.xyz/163189/fhzw#http://75.127.89.169:35441/endday20260630.php?id=160#http://75.127.89.169:35441/endday20260630.php?id=163
-凤凰资讯,http://r.jdshipin.com/0Rp07
-凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
-凤凰资讯,https://cdn6.163189.xyz/163189/fhzx
-凤凰资讯,http://cdn6.163189.xyz/163189/fhzx#http://75.127.89.169:35441/endday20260630.php?id=158
+凤凰卫视中文台,http://r.jdshipin.com/cCCzW
+凤凰卫视中文台,http://cdn6.163189.xyz/163189/fhzw
+凤凰卫视中文台,https://cdn6.163189.xyz/163189/fhzw
+凤凰卫视中文台,http://cdn6.163189.xyz/163189/fhzw#http://75.127.89.169:35441/endday20260630.php?id=160#http://75.127.89.169:35441/endday20260630.php?id=163
+凤凰卫视资讯台,http://r.jdshipin.com/0Rp07
+凤凰卫视资讯台,http://cdn6.163189.xyz/163189/fhzx
+凤凰卫视资讯台,https://cdn6.163189.xyz/163189/fhzx
+凤凰卫视资讯台,http://cdn6.163189.xyz/163189/fhzx#http://75.127.89.169:35441/endday20260630.php?id=158
+凤凰卫视香港台,http://r.jdshipin.com/yDoTN
+凤凰卫视香港台,http://cdn6.163189.xyz/163189/fhhk
+凤凰卫视香港台,https://cdn6.163189.xyz/163189/fhhk
+无线新闻,http://r.jdshipin.com/CkuBd
+无线新闻,https://cdn6.163189.xyz/163189/wxxw
+无线新闻,http://cdn6.163189.xyz/163189/wxxw#http://75.127.89.169:35441/endday20260630.php?id=134#http://75.127.89.169:35441/endday20260630.php?id=135#http://75.127.89.169:35441/endday20260630.php?id=137
+无线翡翠,https://cdn6.163189.xyz/163189/fct
+无线翡翠,https://cdn6.163189.xyz/163189/fct4k
+无线翡翠,https://mytv.cdn.loc.cc/o12.php?id=fct
+无线翡翠,https://o11.163189.xyz/stream/tvb/fct4k/
+无线明珠,https://mytv.cdn.loc.cc/o12.php?id=mzt
+无线明珠,https://cdn6.163189.xyz/163189/mzt
+无线华丽,https://cdn6.163189.xyz/163189/hlfct
+无线华丽,https://o11.163189.xyz/stream/live/hlt/
+无线星河,https://cdn6.163189.xyz/163189/tvbxh
+无线星河,https://o11.163189.xyz/stream/live/tvbxh/
+无线千禧,https://o11.163189.xyz/stream/live/tvbc/
+无线功夫,https://cdn6.163189.xyz/163189/yzwx
 翡翠台,http://r.jdshipin.com/qrfbg
 翡翠台,http://cdn6.163189.xyz/163189/fct4k
 翡翠台,http://o11.163189.xyz/stream/tvb/fct/
@@ -163,48 +178,41 @@ TVB Plus,https://hls.163189.xyz/163189/a2beac471af96802
 TVB Plus,https://smt.1678520.xyz/163189/de659ed6e3ab1e55
 TVBS,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 TVBS,https://4g.158.qzz.io/163189/1bcf344d4a0ea28c
-华丽翡翠台,http://r.jdshipin.com/thuYX
-华丽翡翠台,https://o11.163189.xyz/stream/live/hlt/
-华丽翡翠台,https://o11.163189.xyz/stream/live/jade/
-华丽翡翠台,http://o11.163189.xyz/stream/live/hlt/
-无线新闻台,http://r.jdshipin.com/CkuBd
-无线新闻台,https://cdn6.163189.xyz/163189/wxxw
-无线新闻台,http://cdn6.163189.xyz/163189/wxxw#http://75.127.89.169:35441/endday20260630.php?id=134#http://75.127.89.169:35441/endday20260630.php?id=135#http://75.127.89.169:35441/endday20260630.php?id=137
-无线高清翡翠台,https://cdn6.163189.xyz/163189/fct
-无线高清翡翠台,https://cdn6.163189.xyz/163189/fct4k
-无线华丽台,https://cdn6.163189.xyz/163189/hlfct
-无线功夫台,https://cdn6.163189.xyz/163189/yzwx
-无线星河台,https://cdn6.163189.xyz/163189/tvbxh
-娱乐新闻台,https://cdn6.163189.xyz/163189/ylxw
-黄金华剧台,https://hls.163189.xyz/163189/71fb62ece10887e8
-星河台,https://o11.163189.xyz/stream/live/tvbxh/
-翡翠剧集台,https://6.cdn.loc.cc/163189.php?id=tvbd
+翡翠剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
 翡翠一台,http://cdn6.163189.xyz/163189/tvb1
+黄金华剧,https://hls.163189.xyz/163189/71fb62ece10887e8
 有线新闻,https://cdn.163189.xyz/163189/hoy78
+有线综合,https://cdn6.163189.xyz/163189/hoy
+有线亚剧,https://cdn2.163189.xyz/163189/hoyjj
 Now新闻,https://cdn.163189.xyz/163189/now
 Now新闻,http://cdn.163189.xyz/163189/now
-HOY 77,http://cdn.163189.xyz/163189/hoy
-HOY 77,http://r.jdshipin.com/sFw4S
-HOY 77,https://cdn6.163189.xyz/163189/hoy
-HOY 77,http://cdn6.163189.xyz/163189/hoy#http://cdn.163189.xyz/163189/hoy#http://75.127.89.169:35441/endday20260630.php?id=277#http://75.127.89.169:35441/endday20260630.php?id=279
-HOY 78,https://cdn.163189.xyz/163189/hoy78
-HOY 78,http://cdn.163189.xyz/163189/hoy78#http://75.127.89.169:35441/endday20260630.php?id=280#http://75.127.89.169:35441/endday20260630.php?id=281#http://75.127.89.169:35441/endday20260630.php?id=282
-HOY资讯台,https://cdn.163189.xyz/163189/hoy78
+Now体育,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382843&extension=ts&play_token=KANAeecxcz
+Now体育,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382841&extension=ts&play_token=5uiKCGTNCF
+Now体育,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382840&extension=ts&play_token=eoeYdjrkUg
+Now体育,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382839&extension=ts&play_token=lu0NOftGgg
+Now体育,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382837&extension=ts&play_token=rRmhe1TsX7
+HOY TV,http://cdn.163189.xyz/163189/hoy
+HOY TV,http://r.jdshipin.com/sFw4S
+HOY TV,https://cdn6.163189.xyz/163189/hoy
+HOY TV,http://cdn6.163189.xyz/163189/hoy#http://cdn.163189.xyz/163189/hoy#http://75.127.89.169:35441/endday20260630.php?id=277#http://75.127.89.169:35441/endday20260630.php?id=279
+HOY TV,https://cdn.163189.xyz/163189/hoy78
 ViuTV,https://cdn.163189.xyz/163189/viu
 港台电视31,https://cdn.163189.xyz/163189/rthk31
 港台电视31,http://cdn.163189.xyz/163189/rthk31
 港台电视32,https://cdn.163189.xyz/163189/rthk32
 港台电视32,http://cdn.163189.xyz/163189/rthk32
 港台电视33,http://cdn6.163189.xyz/163189/cctv1
-纬来电影台,https://smt.1678520.xyz/163189/602e9465658d4f8c
-纬来电影台,https://cdn.19891230.eu.org/api/VL-Movies/index.m3u8
-纬来戏剧台,https://smt.1678520.xyz/163189/ab657380c65c1fd1
-纬来戏剧台,https://cdn.19891230.eu.org/api/VL-Drama/index.m3u8
-纬来体育台,https://smt.1678520.xyz/163189/b10b2645c6d9de2b
-纬来体育台,https://cdn.19891230.eu.org/api/VL-Sports/index.m3u8
-纬来日本台,https://cdn.19891230.eu.org/api/VL-Japan/index.m3u8
-千禧经典台,http://o11.163189.xyz/stream/live/tvbc/
-千禧经典台,https://o11.163189.xyz/stream/live/tvbc/
+娱乐新闻台,https://cdn6.163189.xyz/163189/ylxw
+纬来体育,https://smt.1678520.xyz/163189/b10b2645c6d9de2b
+纬来体育,https://cdn.19891230.eu.org/api/VL-Sports/index.m3u8
+纬来日本,https://cdn.19891230.eu.org/api/VL-Japan/index.m3u8
+纬来电影,https://smt.1678520.xyz/163189/602e9465658d4f8c
+纬来电影,https://cdn.19891230.eu.org/api/VL-Movies/index.m3u8
+纬来戏剧,https://smt.1678520.xyz/163189/ab657380c65c1fd1
+纬来戏剧,https://cdn.19891230.eu.org/api/VL-Drama/index.m3u8
+重温经典,https://cdn6.163189.xyz/163189/cwjd
+重温经典,https://cdn13.178.indevs.in/163189/21d79187db6e9793
+重温经典,http://cdn3.132.us.kg/live/cwjd/stream.m3u8
 
 澳门频道,#genre#
 澳视澳门,https://cdn6.163189.xyz/163189/asam
@@ -222,6 +230,7 @@ ViuTV,https://cdn.163189.xyz/163189/viu
 澳门莲花,http://cdn6.163189.xyz/163189/amlh
 
 台湾频道,#genre#
+公视,https://cdn12.178.indevs.in/163189/2973b910e7719c08
 中视新闻,https://4gtv.158.qzz.io/163189/1a62f7fd-8d11-4540-a6c7-ae34d9f059ee/
 中天新闻,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv009/index.m3u8
 年代新闻,https://cdn.19891230.eu.org/api/Era-News/index.m3u8
@@ -242,6 +251,9 @@ ViuTV,https://cdn.163189.xyz/163189/viu
 纬来电影台,https://smt.1678520.xyz/163189/602e9465658d4f8c
 纬来电影台,https://cdn.19891230.eu.org/api/VL-Movies/index.m3u8
 靖天戏剧台,https://cdn12.178.indevs.in/163189/177d541552f78003
+靖洋戏剧,https://cdn12.178.indevs.in/163189/25084ef5a2662aad
+靖天映画,https://cdn12.178.indevs.in/163189/bd4752bd7828b2bf
+靖天电影,https://cdn12.178.indevs.in/163189/ed33509e03e78c7a
 龙华电影台,https://cdn8.163189.xyz/163189/lhdy
 龙华电影台,http://cdn8.163189.xyz/163189/lhdy
 龙华戏剧台,https://cdn8.163189.xyz/163189/lhxj
@@ -258,6 +270,8 @@ ViuTV,https://cdn.163189.xyz/163189/viu
 好莱坞电影台,https://cdn.19891230.eu.org/api/Hollywood-Movie/index.m3u8
 天映经典台,https://o11.163189.xyz/stream/live/ccm/
 天映经典台,http://o11.163189.xyz/stream/live/ccm/
+天映频道,https://o11.163189.xyz/stream/live/typd/
+天映频道,http://o11.163189.xyz/stream/live/typd/
 千禧经典台,http://o11.163189.xyz/stream/live/tvbc/
 千禧经典台,https://o11.163189.xyz/stream/live/tvbc/
 五星体育台,https://cdn15.163189.xyz/163189/9c893bb003e1c7de
@@ -269,6 +283,7 @@ astroAod,http://o11.163189.xyz/stream/live/aod/
 astro欢喜,https://o11.163189.xyz/stream/live/hxt/
 astro欢喜,http://o11.163189.xyz/stream/live/hxt/
 astro爱奇艺,http://o11.163189.xyz/stream/live/iqiyi/
+astro爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
 
 综艺频道,#genre#
 欢乐集结号,https://live.ottiptv.cc/yy/1354931582
@@ -396,6 +411,7 @@ astro爱奇艺,http://o11.163189.xyz/stream/live/iqiyi/
 无锡生活,https://stream.thmz.com/wxtv4/playlist.m3u8
 无锡生活,http://stream.thmz.com/wxtv4/sd/live.m3u8?_upt=978cd8731706199708
 无锡生活,http://stream.thmz.com/wxtv4/playlist.m3u8?_upt=8c51357c1707362770
+无锡生活,http://stream.thmz.com/wxtv4/sd/live.m3u8
 无锡娱乐,https://stream.thmz.com/wxtv2/playlist.m3u8
 无锡娱乐,http://stream.thmz.com/wxtv2/sd/live.m3u8?_upt=acffe97a1704940314
 无锡娱乐,http://stream.thmz.com/wxtv2/playlist.m3u8?_upt=5ff4061f1706166872
@@ -658,4 +674,4 @@ S H E《4EVER世界巡回演唱会 完整版》珍藏版,https://vd3.bdstatic.co
 广*场*舞,#genre#
 
 🕘️更新时间,#genre#
-2026-06-19 23:42:47,https://live.chinacert.cftest5.cn/cnmg/live/608807420
+2026-06-20 02:41:02,https://live.chinacert.cftest5.cn/cnmg/live/608807420
