@@ -768,7 +768,15 @@ NHK世界,re:(?i)^\s*NHK世界.*$,NHK世界,NHK世界,NHK世界,NHK世界Petv,NH
 
 SMArt知识,re:(?i)^\s*SMArt.*$,SMArt知识,SMArt知识,SMArt知识,SMArt知识Petv,SMArt知识频晴,SMArt知识欣赏,SMArt知识Mttv,SMArt知识SXtv,SMArt知识Hktv,SMArt知识FYtv,SMArt台
 
+Now英超体育台,re:(?i)^\s*Now英超体育台.*$,Now英超体育台,Now英超体育台,Now英超体育台,Now英超体育台Petv,Now英超体育台频晴,Now英超体育台欣赏,Now英超体育台Mttv,Now英超体育台SXtv,Now英超体育台Hktv,Now英超体育台FYtv
 
+Now星影,re:(?i)^\s*Now星影.*$,Now星影,Now星影,Now星影,Now星影Petv,Now星影频晴,Now星影欣赏,Now星影Mttv,Now星影SXtv,Now星影Hktv,Now星影FYtv,Now星影国赏,Now星影粤赏
+
+Now英超,re:(?i)^\s*Now英超(?!.*(?:体育|壹|贰)).*$,Now英超,Now英超,Now英超,Now英超Petv,Now英超频晴,Now英超欣赏,Now英超Mttv,Now英超SXtv,Now英超Hktv,Now英超FYtv,Now英超壹赏,Now英超贰赏
+
+Now英超体育壹,re:(?i)^\s*Now英超体育壹.*$,Now英超体育壹,Now英超体育壹,Now英超体育壹,Now英超体育壹Petv,Now英超体育壹频晴,Now英超体育壹欣赏,Now英超体育壹Mttv,Now英超体育壹SXtv,Now英超体育壹Hktv,Now英超体育壹FYtv
+
+Now英超体育贰,re:(?i)^\s*Now英超体育贰.*$,Now英超体育贰,Now英超体育贰,Now英超体育贰,Now英超体育贰Petv,Now英超体育贰频晴,Now英超体育贰欣赏,Now英超体育贰Mttv,Now英超体育贰SXtv,Now英超体育贰Hktv,Now英超体育贰FYtv
 
 # ==================== 广东广州频道（前后模糊匹配） ====================
 
