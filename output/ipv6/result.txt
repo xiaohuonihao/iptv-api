@@ -22,6 +22,7 @@ cctv4欧洲,https://live.chinacert.cftest5.cn/cnmg/live/608807419
 cctv4美洲,https://live.chinacert.cftest5.cn/cnmg/live/608807416
 
 卫视频道,#genre#
+浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8#https://play-qukan.cztv.com/live/1746687519046362.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8#http://120.76.248.139/live/bfgd/4200000483.m3u8
 广西卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221226351/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 河北卫视,https://event.pull.hebtv.com:443/live/live101.m3u8
@@ -96,6 +97,8 @@ astro欢喜,https://o11.163189.xyz/stream/live/hxt/
 湖南,#genre#
 
 浙江,#genre#
+浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8#https://play-qukan.cztv.com/live/1746687519046362.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+浙江经视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8#https://play-qukan.cztv.com/live/1746687519046362.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 
 江苏,#genre#
 
@@ -173,4 +176,4 @@ astro欢喜,https://o11.163189.xyz/stream/live/hxt/
 广*场*舞,#genre#
 
 🕘️更新时间,#genre#
-2026-06-19 02:50:23,https://live.chinacert.cftest5.cn/cnmg/live/608807420
+2026-06-19 14:23:11,https://live.chinacert.cftest5.cn/cnmg/live/608807420
