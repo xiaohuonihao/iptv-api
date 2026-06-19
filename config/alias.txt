@@ -896,7 +896,7 @@ ELta影剧,re:(?i)^\s*ELta影剧.*$,ELta影剧,ELta影剧,ELta影剧,ELta影剧P
 
 重温经典,re:(?i)^\s*重温经典.*$,重温经典,重温经典,重温经典,重温经典Petv,重温经典频晴,重温经典欣赏,重温经典Mttv,重温经典SXtv,重温经典Hktv,重温经典FYtv,重温经典频道
 
-pₒₚc电影,re:(?i)^\s*pₒₚc电影.*$,pₒₚc电影,pₒₚc电影,pₒₚc电影,pₒₚc电影Petv,pₒₚc电影频晴,pₒₚc电影欣赏,pₒₚc电影Mttv,pₒₚc电影SXtv,pₒₚc电影Hktv,pₒₚc电影FYtv
+
 
 cm电影,re:(?i)^\s*cm电影.*$,cm电影,cm电影,cm电影,cm电影Petv,cm电影频晴,cm电影欣赏,cm电影Mttv,cm电影SXtv,cm电影Hktv,cm电影FYtv
 
