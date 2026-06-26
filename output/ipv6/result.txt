@@ -1,25 +1,44 @@
 央视频道,#genre#
 CCTV-1,https://live.chinacert.cftest5.cn/cnmg/live/608807420
+CCTV-1,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv01zh
 CCTV-2,https://live.chinacert.cftest5.cn/cnmg/live/631780532
+CCTV-2,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv02jj
 CCTV-3,https://live.chinacert.cftest5.cn/cnmg/live/624878271
+CCTV-3,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv03zy
 CCTV-4,https://live.chinacert.cftest5.cn/cnmg/live/631780421
+CCTV-4,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv04zw
 CCTV-5,https://live.chinacert.cftest5.cn/cnmg/live/641886683
+CCTV-5,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv05ty
 CCTV-5+,https://live.chinacert.cftest5.cn/cnmg/live/641886773
+CCTV-5+,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv05pl
 CCTV-6,https://live.chinacert.cftest5.cn/cnmg/live/624878396
 CCTV-6,https://www.9kds.com/d/1905.php?t=1&id=LIVE8J4LTCXPI7QJ5_261&kl=www.9kds.com
 CCTV-6,https://www.9kds.com/d/1905.php?t=1&id=LIVEOYY31H24H48NE&kl=www.9kds.com
+CCTV-6,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv06dy
 CCTV-7,https://live.chinacert.cftest5.cn/cnmg/live/673168121
+CCTV-7,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv07js
 CCTV-8,https://live.chinacert.cftest5.cn/cnmg/live/624878356
+CCTV-8,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv08dsj
 CCTV-9,https://live.chinacert.cftest5.cn/cnmg/live/673168140
+CCTV-9,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv09jl
 CCTV-10,https://live.chinacert.cftest5.cn/cnmg/live/624878405
+CCTV-10,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv10jy
 CCTV-11,https://live.chinacert.cftest5.cn/cnmg/live/667987558
+CCTV-11,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv11xq
 CCTV-12,https://live.chinacert.cftest5.cn/cnmg/live/673168185
+CCTV-12,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv12sf
 CCTV-13,https://live.chinacert.cftest5.cn/cnmg/live/608807423
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8#http://tvbox6.icu/tv/migu.php?id=cctv13
+CCTV-13,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv13xw
 CCTV-14,https://live.chinacert.cftest5.cn/cnmg/live/624878440
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#http://tvbox6.icu/tv/migu.php?id=cctv14
+CCTV-14,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv14se
 CCTV-15,https://live.chinacert.cftest5.cn/cnmg/live/673168223
+CCTV-15,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv15yy
+CCTV-16,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv16ay
 CCTV-17,https://live.chinacert.cftest5.cn/cnmg/live/673168256
+CCTV-17,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv17ny
+CCTV16 4K,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv16ay
 cctv4欧洲,https://live.chinacert.cftest5.cn/cnmg/live/608807419
 cctv4美洲,https://live.chinacert.cftest5.cn/cnmg/live/608807416
 CGTN俄语,https://live.chinacert.cftest5.cn/cnmg/live/609006446
@@ -35,10 +54,12 @@ CCTV中学生,https://live.chinacert.cftest5.cn/cnmg/live/708869532
 卫视频道,#genre#
 山东卫视,https://live.chinacert.cftest5.cn/zgst/live/shandong
 山东卫视,https://live.douyin.com/235694078803
+山东卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsshandong
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8#https://play-qukan.cztv.com/live/1746687519046362.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,https://live.chinacert.cftest5.cn/zgst/live/zhejiang
 湖南卫视,https://live.chinacert.cftest5.cn/zgst/live/hunan
 湖南卫视,https://live.douyin.com/27594494041
+湖南卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wshunan
 北京卫视,https://live.chinacert.cftest5.cn/zgst/live/beijing
 北京卫视,https://live.douyin.com/497532580914
 北京卫视,https://live.douyin.com/87324405858
@@ -46,32 +67,45 @@ CCTV中学生,https://live.chinacert.cftest5.cn/cnmg/live/708869532
 北京卫视,https://live.ottiptv.cc/yy/1382744423
 湖北卫视,https://live.chinacert.cftest5.cn/zgst/live/hubei
 湖北卫视,https://live.douyin.com/596554118511
+湖北卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wshubei
 安徽卫视,https://live.chinacert.cftest5.cn/zgst/live/anhui
+安徽卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsanhui
 天津卫视,https://live.chinacert.cftest5.cn/zgst/live/tianjin
+天津卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wstianjing
 重庆卫视,https://live.chinacert.cftest5.cn/zgst/live/zhongqing
+重庆卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC
 东方卫视,https://live.chinacert.cftest5.cn/zgst/live/dongfang
 东方卫视,http://cdn.jdshipin.com/kkxw.php?id=1
 东方卫视,http://jsmov2.a.yximgs.com/bs3/video-hls/5222205346628851891_hlsb.m3u8
 东方卫视,http://jsmov2.a.yximgs.com/bs3/video-hls/5218546164654879826_hlsb.m3u8
+东方卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsdongfang
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8#http://120.76.248.139/live/bfgd/4200000483.m3u8
 东南卫视,https://live.chinacert.cftest5.cn/zgst/live/dongnan
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 甘肃卫视,https://live.chinacert.cftest5.cn/zgst/live/gansu
+甘肃卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsgansu
 广西卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221226351/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 广西卫视,https://live.chinacert.cftest5.cn/zgst/live/guangxi
+广西卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsguangxi
 贵州卫视,https://live.chinacert.cftest5.cn/zgst/live/guizhou
+贵州卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsguizhou
 海南卫视,https://live.chinacert.cftest5.cn/zgst/live/hainan
 海南卫视,https://live.douyin.com/33068222133
 海南卫视,https://live.douyin.com/402523360291
 河北卫视,https://event.pull.hebtv.com:443/live/live101.m3u8
 河北卫视,https://live.chinacert.cftest5.cn/zgst/live/hebei
+河北卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wshebei
 河南卫视,https://live.chinacert.cftest5.cn/zgst/live/henan
 吉林卫视,https://live.chinacert.cftest5.cn/zgst/live/jilin
+吉林卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsjilin
 江苏卫视,https://live.chinacert.cftest5.cn/zgst/live/jiangsu
+江苏卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsjiangsu
 江西卫视,https://live.chinacert.cftest5.cn/zgst/live/jiangxi
+江西卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsjiangxi
 辽宁卫视,https://live.chinacert.cftest5.cn/zgst/live/liaoning
 辽宁卫视,https://live.douyin.com/838385022891
 辽宁卫视,https://live.douyin.com/728163755446
+辽宁卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsliaoning
 广东卫视,https://www.gdtv.cn/tvChannelDetail/110
 广东卫视,https://www.gdtv.cn/tvChannelDetail/16
 广东卫视,https://www.gdtv.cn/tvChannelDetail/43
@@ -79,13 +113,19 @@ CCTV中学生,https://live.chinacert.cftest5.cn/cnmg/live/708869532
 广东卫视,https://www.gdtv.cn/tvChannelDetail/45
 黑龙江卫视,https://live.chinacert.cftest5.cn/zgst/live/heilongjiang
 黑龙江卫视,https://idclive.hljtv.com:4430/live/hljws_own.m3u8
+黑龙江卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsheilongjiang
 内蒙古卫视,https://live.chinacert.cftest5.cn/zgst/live/neimenggu
+内蒙古卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsneimenggu
 宁夏卫视,https://live.chinacert.cftest5.cn/zgst/live/ningxia
 青海卫视,https://live.chinacert.cftest5.cn/zgst/live/qinghai
+青海卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsqinghai
 山西卫视,https://live.chinacert.cftest5.cn/zgst/live/shanxi
+山西卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsshanxi1
 陕西卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/shan3xiws/57/20220809/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
 陕西卫视,https://live.chinacert.cftest5.cn/zgst/live/shanxi1
+陕西卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsshanxi
 四川卫视,https://live.chinacert.cftest5.cn/zgst/live/sichuan
+四川卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wssichuan
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 深圳卫视,https://www.sztv.com.cn/pindao/index.html?id=24725
 深圳卫视,https://www.sztv.com.cn/pindao/index.html?id=7867
@@ -96,6 +136,7 @@ CCTV中学生,https://live.chinacert.cftest5.cn/cnmg/live/708869532
 云南卫视,https://live.chinacert.cftest5.cn/zgst/live/yunnan
 新疆卫视,https://live.chinacert.cftest5.cn/zgst/live/xinjiang
 新疆卫视,http://gctxyc.liveplay.myqcloud.com/gc/xjtcdhsz_1/index.m3u8
+新疆卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsxinjiang
 西藏卫视,https://live.chinacert.cftest5.cn/zgst/live/xizang
 三沙卫视,https://live.chinacert.cftest5.cn/zgst/live/sansha
 海峡卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/haixiaws/57/20230724/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=#http://8.138.7.223/tv/hxws.m3u8
@@ -116,7 +157,9 @@ CCTV中学生,https://live.chinacert.cftest5.cn/cnmg/live/708869532
 
 体育频道,#genre#
 CCTV-5,https://live.chinacert.cftest5.cn/cnmg/live/641886683
+CCTV-5,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv05ty
 CCTV-5+,https://live.chinacert.cftest5.cn/cnmg/live/641886773
+CCTV-5+,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv05pl
 广东体育,http://r.jdshipin.com/LiYdg
 广东体育,https://cdn2.163189.xyz/163189/gdty
 纬来体育,https://smt.1678520.xyz/163189/b10b2645c6d9de2b
@@ -130,7 +173,9 @@ CCTV-5+,https://live.chinacert.cftest5.cn/cnmg/live/641886773
 辽宁体育,https://live.chinacert.cftest5.cn/zgst/live/liaoning
 辽宁体育,https://live.douyin.com/838385022891
 辽宁体育,https://live.douyin.com/728163755446
+辽宁体育,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsliaoning
 吉林篮球,https://live.chinacert.cftest5.cn/zgst/live/jilin
+吉林篮球,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsjilin
 
 香港频道,#genre#
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
@@ -153,6 +198,7 @@ CCTV-5+,https://live.chinacert.cftest5.cn/cnmg/live/641886773
 无线翡翠,https://cdn6.163189.xyz/163189/fct4k
 无线翡翠,https://mytv.cdn.loc.cc/o12.php?id=fct
 无线翡翠,https://o11.163189.xyz/stream/tvb/fct4k/
+无线翡翠,http://o11.163189.xyz/stream/tvb/fct/
 无线明珠,https://mytv.cdn.loc.cc/o12.php?id=mzt
 无线明珠,https://cdn6.163189.xyz/163189/mzt
 无线华丽,https://cdn6.163189.xyz/163189/hlfct
@@ -160,6 +206,7 @@ CCTV-5+,https://live.chinacert.cftest5.cn/cnmg/live/641886773
 无线星河,https://cdn6.163189.xyz/163189/tvbxh
 无线星河,https://o11.163189.xyz/stream/live/tvbxh/
 无线千禧,https://o11.163189.xyz/stream/live/tvbc/
+无线娱乐,https://cdn6.163189.xyz/163189/ylxw
 无线功夫,https://cdn6.163189.xyz/163189/yzwx
 翡翠台,http://r.jdshipin.com/qrfbg
 翡翠台,http://cdn6.163189.xyz/163189/fct4k
@@ -183,6 +230,7 @@ TVBS,https://4g.158.qzz.io/163189/1bcf344d4a0ea28c
 黄金华剧,https://hls.163189.xyz/163189/71fb62ece10887e8
 有线新闻,https://cdn.163189.xyz/163189/hoy78
 有线综合,https://cdn6.163189.xyz/163189/hoy
+有线综合,https://cdn.163189.xyz/163189/hoy
 有线亚剧,https://cdn2.163189.xyz/163189/hoyjj
 Now新闻,https://cdn.163189.xyz/163189/now
 Now新闻,http://cdn.163189.xyz/163189/now
@@ -197,6 +245,7 @@ HOY TV,https://cdn6.163189.xyz/163189/hoy
 HOY TV,http://cdn6.163189.xyz/163189/hoy#http://cdn.163189.xyz/163189/hoy#http://75.127.89.169:35441/endday20260630.php?id=277#http://75.127.89.169:35441/endday20260630.php?id=279
 HOY TV,https://cdn.163189.xyz/163189/hoy78
 ViuTV,https://cdn.163189.xyz/163189/viu
+ViuTV,https://cdn.19891230.eu.org/hk/ViuTV/index.m3u8
 港台电视31,https://cdn.163189.xyz/163189/rthk31
 港台电视31,http://cdn.163189.xyz/163189/rthk31
 港台电视32,https://cdn.163189.xyz/163189/rthk32
@@ -301,6 +350,7 @@ astro爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
 山东,#genre#
 山东卫视,https://live.chinacert.cftest5.cn/zgst/live/shandong
 山东卫视,https://live.douyin.com/235694078803
+山东卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsshandong
 
 北京,#genre#
 北京卫视,https://live.chinacert.cftest5.cn/zgst/live/beijing
@@ -339,22 +389,27 @@ astro爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
 东方卫视,http://cdn.jdshipin.com/kkxw.php?id=1
 东方卫视,http://jsmov2.a.yximgs.com/bs3/video-hls/5222205346628851891_hlsb.m3u8
 东方卫视,http://jsmov2.a.yximgs.com/bs3/video-hls/5218546164654879826_hlsb.m3u8
+东方卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsdongfang
 上海点掌财经,https://live.chinacert.cftest5.cn/zgst/live/dongfang
 上海点掌财经,http://cdn.jdshipin.com/kkxw.php?id=1
 上海点掌财经,http://jsmov2.a.yximgs.com/bs3/video-hls/5222205346628851891_hlsb.m3u8
 上海点掌财经,http://jsmov2.a.yximgs.com/bs3/video-hls/5218546164654879826_hlsb.m3u8
+上海点掌财经,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsdongfang
 上海金山电视台,https://live.chinacert.cftest5.cn/zgst/live/dongfang
 上海金山电视台,http://cdn.jdshipin.com/kkxw.php?id=1
 上海金山电视台,http://jsmov2.a.yximgs.com/bs3/video-hls/5222205346628851891_hlsb.m3u8
 上海金山电视台,http://jsmov2.a.yximgs.com/bs3/video-hls/5218546164654879826_hlsb.m3u8
+上海金山电视台,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsdongfang
 东方影视,https://live.chinacert.cftest5.cn/zgst/live/dongfang
 东方影视,http://cdn.jdshipin.com/kkxw.php?id=1
 东方影视,http://jsmov2.a.yximgs.com/bs3/video-hls/5222205346628851891_hlsb.m3u8
 东方影视,http://jsmov2.a.yximgs.com/bs3/video-hls/5218546164654879826_hlsb.m3u8
+东方影视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsdongfang
 东方财经,https://live.chinacert.cftest5.cn/zgst/live/dongfang
 东方财经,http://cdn.jdshipin.com/kkxw.php?id=1
 东方财经,http://jsmov2.a.yximgs.com/bs3/video-hls/5222205346628851891_hlsb.m3u8
 东方财经,http://jsmov2.a.yximgs.com/bs3/video-hls/5218546164654879826_hlsb.m3u8
+东方财经,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsdongfang
 
 广东,#genre#
 广东卫视,https://www.gdtv.cn/tvChannelDetail/110
@@ -385,6 +440,7 @@ astro爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
 湖南,#genre#
 湖南卫视,https://live.chinacert.cftest5.cn/zgst/live/hunan
 湖南卫视,https://live.douyin.com/27594494041
+湖南卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wshunan
 
 浙江,#genre#
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8#https://play-qukan.cztv.com/live/1746687519046362.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
@@ -397,6 +453,7 @@ astro爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
 
 江苏,#genre#
 江苏卫视,https://live.chinacert.cftest5.cn/zgst/live/jiangsu
+江苏卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsjiangsu
 南京新闻,http://nklive.nbs.cn/hls/d511bc9d-a694-4453-b3a2-4fc842cc97a1/index.m3u8
 南京教科,http://nklive.nbs.cn/hls/75b3c462-b831-4de7-a34b-5d3221db2069/index.m3u8
 南京少儿,http://nklive.nbs.cn/hls/e0981f3f-1a20-4a59-b8d1-17feb83a4610/index.m3u8
@@ -445,6 +502,7 @@ astro爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
 湖北,#genre#
 湖北卫视,https://live.chinacert.cftest5.cn/zgst/live/hubei
 湖北卫视,https://live.douyin.com/596554118511
+湖北卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wshubei
 荆门新闻,http://stream.jmtv.com.cn/ngpd/sd/live.m3u8
 荆门新闻,http://stream.jmtv.com.cn/ggsh/sd/live.m3u8
 荆门新闻,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
@@ -456,16 +514,24 @@ astro爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
 
 天津,#genre#
 天津卫视,https://live.chinacert.cftest5.cn/zgst/live/tianjin
+天津卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wstianjing
 天津交通,https://live.chinacert.cftest5.cn/zgst/live/tianjin
+天津交通,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wstianjing
 天津生活,https://live.chinacert.cftest5.cn/zgst/live/tianjin
+天津生活,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wstianjing
 天津公共,https://live.chinacert.cftest5.cn/zgst/live/tianjin
+天津公共,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wstianjing
 天津移动,https://live.chinacert.cftest5.cn/zgst/live/tianjin
+天津移动,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wstianjing
 河北综合,https://event.pull.hebtv.com:443/live/live101.m3u8
 河北综合,https://live.chinacert.cftest5.cn/zgst/live/hebei
+河北综合,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wshebei
 
 安徽,#genre#
 安徽卫视,https://live.chinacert.cftest5.cn/zgst/live/anhui
+安徽卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsanhui
 安徽导视,https://live.chinacert.cftest5.cn/zgst/live/anhui
+安徽导视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsanhui
 黄山新闻,http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8
 黄山新闻,http://hslive.hsnewsnet.com/lsdream/iY92ady/1000/live.m3u8?zanhd
 黄山新闻,http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8?zanhd
@@ -486,6 +552,7 @@ astro爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
 
 江西,#genre#
 江西卫视,https://live.chinacert.cftest5.cn/zgst/live/jiangxi
+江西卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsjiangxi
 
 河南,#genre#
 河南卫视,https://live.chinacert.cftest5.cn/zgst/live/henan
@@ -495,6 +562,7 @@ astro爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
 河北,#genre#
 河北卫视,https://event.pull.hebtv.com:443/live/live101.m3u8
 河北卫视,https://live.chinacert.cftest5.cn/zgst/live/hebei
+河北卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wshebei
 河北农民,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8?zhebd
 邯郸新闻,https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
 邯郸新闻,https://jwcdnqx.hebyun.com.cn/live/hdxwzh/1500k/tzwj_video.m3u8
@@ -519,11 +587,15 @@ astro爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
 
 重庆,#genre#
 重庆卫视,https://live.chinacert.cftest5.cn/zgst/live/zhongqing
+重庆卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC
 重庆汽摩,https://live.chinacert.cftest5.cn/zgst/live/zhongqing
+重庆汽摩,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC
 重庆精彩导视,https://live.chinacert.cftest5.cn/zgst/live/zhongqing
+重庆精彩导视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC
 
 四川,#genre#
 四川卫视,https://live.chinacert.cftest5.cn/zgst/live/sichuan
+四川卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wssichuan
 泸州新闻,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel102221/playlist.m3u8
 泸州新闻,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8
 泸州科教生活,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel102221/playlist.m3u8
@@ -542,26 +614,33 @@ astro爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
 陕西,#genre#
 陕西卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/shan3xiws/57/20220809/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
 陕西卫视,https://live.chinacert.cftest5.cn/zgst/live/shanxi1
+陕西卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsshanxi
 陕西西部电影,http://hlsbkmgsplive.miguvideo.com/migu/kailu/shan3xiws/57/20220809/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
 陕西西部电影,https://live.chinacert.cftest5.cn/zgst/live/shanxi1
+陕西西部电影,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsshanxi
 陕西移动电视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/shan3xiws/57/20220809/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
 陕西移动电视,https://live.chinacert.cftest5.cn/zgst/live/shanxi1
+陕西移动电视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsshanxi
 
 广西,#genre#
 广西卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221226351/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 广西卫视,https://live.chinacert.cftest5.cn/zgst/live/guangxi
+广西卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsguangxi
 广西国际,https://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8
 南宁都市生活,http://615bbf179ba53515dccad7b1da5d1ad9.livehwc3.cn/hls.nntv.cn/nnlive/WLSH_24.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=2598844eaee8a4265e706fc14b3fc11d
 
 山西,#genre#
 山西卫视,https://live.chinacert.cftest5.cn/zgst/live/shanxi
+山西卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsshanxi1
 
 吉林,#genre#
 吉林卫视,https://live.chinacert.cftest5.cn/zgst/live/jilin
+吉林卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsjilin
 
 黑龙江,#genre#
 黑龙江卫视,https://live.chinacert.cftest5.cn/zgst/live/heilongjiang
 黑龙江卫视,https://idclive.hljtv.com:4430/live/hljws_own.m3u8
+黑龙江卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsheilongjiang
 黑龙江都市,https://idclive.hljtv.com:4430/live/dushi_hd.m3u8
 黑龙江文体,https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8
 黑龙江少儿,https://idclive.hljtv.com:4430/live/hljse_hd.m3u8
@@ -570,9 +649,11 @@ astro爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
 辽宁卫视,https://live.chinacert.cftest5.cn/zgst/live/liaoning
 辽宁卫视,https://live.douyin.com/838385022891
 辽宁卫视,https://live.douyin.com/728163755446
+辽宁卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsliaoning
 
 青海,#genre#
 青海卫视,https://live.chinacert.cftest5.cn/zgst/live/qinghai
+青海卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsqinghai
 安多卫视,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd#https://liveout.xntv.tv/a65jur/96iln2.m3u8#https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqing
 安多卫视,https://liveout.xntv.tv/a65jur/96iln2.m3u8
 西宁新闻综合,https://liveout.xntv.tv/a65jur/96iln2.m3u8
@@ -581,6 +662,7 @@ astro爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
 
 甘肃,#genre#
 甘肃卫视,https://live.chinacert.cftest5.cn/zgst/live/gansu
+甘肃卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsgansu
 
 云南,#genre#
 云南卫视,https://live.chinacert.cftest5.cn/zgst/live/yunnan
@@ -600,9 +682,11 @@ astro爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
 
 内蒙古,#genre#
 内蒙古卫视,https://live.chinacert.cftest5.cn/zgst/live/neimenggu
+内蒙古卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsneimenggu
 
 贵州,#genre#
 贵州卫视,https://live.chinacert.cftest5.cn/zgst/live/guizhou
+贵州卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsguizhou
 
 宁夏,#genre#
 宁夏卫视,https://live.chinacert.cftest5.cn/zgst/live/ningxia
@@ -610,6 +694,7 @@ astro爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
 新疆,#genre#
 新疆卫视,https://live.chinacert.cftest5.cn/zgst/live/xinjiang
 新疆卫视,http://gctxyc.liveplay.myqcloud.com/gc/xjtcdhsz_1/index.m3u8
+新疆卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsxinjiang
 
 兵团,#genre#
 兵团卫视,https://live.chinacert.cftest5.cn/zgst/live/bingtuan
@@ -676,4 +761,4 @@ S H E《4EVER世界巡回演唱会 完整版》珍藏版,https://vd3.bdstatic.co
 广*场*舞,#genre#
 
 🕘️更新时间,#genre#
-2026-06-25 14:21:33,https://live.chinacert.cftest5.cn/cnmg/live/608807420
+2026-06-26 14:15:25,https://live.chinacert.cftest5.cn/cnmg/live/608807420
