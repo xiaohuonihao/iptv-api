@@ -793,6 +793,8 @@ CCTV15,http://221.226.51.220:50081/newlive/live/hls/15/live.m3u8
 世界杯赛事,#genre#
 直播中库拉索V科特迪瓦,https://www.rtmpcdn.com/live/xiaohongshu2.m3u8
 直播中厄瓜多尔V德国,https://www.rtmpcdn.com/live/migu1.m3u8
+体育直播,https://hlsz.yjjcfw.com/live/elta10.m3u8?expire=1782534022&sign=1b3c87148fe25c62e9cdf37a1f951ae3
+中央5台球赛,https://www.rtmpcdn.com/live/cctv5p.m3u8
 
 移动源,#genre#
 CCTV1,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv01zh
