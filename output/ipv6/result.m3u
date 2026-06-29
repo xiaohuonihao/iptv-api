@@ -3,6 +3,8 @@
 https://live.chinacert.cftest5.cn/cnmg/live/608807420
 #EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="央视频道",CCTV-1
 http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv01zh
+#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="央视频道",CCTV-1
+http://cdn6.163189.xyz/163189/cctv1
 #EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV-2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-2.png" group-title="央视频道",CCTV-2
 https://live.chinacert.cftest5.cn/cnmg/live/631780532
 #EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV-2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-2.png" group-title="央视频道",CCTV-2
@@ -309,12 +311,18 @@ http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5re
 http://r.jdshipin.com/LiYdg
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东体育.png" group-title="体育频道",广东体育
 https://cdn2.163189.xyz/163189/gdty
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东体育.png" group-title="体育频道",广东体育
+http://cdn2.163189.xyz/163189/gdty
 #EXTINF:-1 tvg-id="纬来体育台" tvg-name="纬来体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/纬来体育.png" group-title="体育频道",纬来体育
 https://smt.1678520.xyz/163189/b10b2645c6d9de2b
 #EXTINF:-1 tvg-id="纬来体育台" tvg-name="纬来体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/纬来体育.png" group-title="体育频道",纬来体育
 https://cdn.19891230.eu.org/api/VL-Sports/index.m3u8
+#EXTINF:-1 tvg-id="纬来体育台" tvg-name="纬来体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/纬来体育.png" group-title="体育频道",纬来体育
+https://smt.1678520.xyz/163189/wlty
 #EXTINF:-1 tvg-id="五星体育台" tvg-name="五星体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/五星体育.png" group-title="体育频道",五星体育
 https://cdn15.163189.xyz/163189/9c893bb003e1c7de
+#EXTINF:-1 tvg-id="五星体育台" tvg-name="五星体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/五星体育.png" group-title="体育频道",五星体育
+https://cdn15.163189.xyz/163189/wxty
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/深圳体育.png" group-title="体育频道",深圳体育
 https://www.sztv.com.cn/pindao/index.html?id=24725
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/深圳体育.png" group-title="体育频道",深圳体育
@@ -337,6 +345,8 @@ http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5re
 https://live.chinacert.cftest5.cn/zgst/live/jilin
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林篮球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/吉林篮球.png" group-title="体育频道",吉林篮球
 http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsjilin
+#EXTINF:-1 tvg-id="博斯网球台" tvg-name="博斯网球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/博斯网球.png" group-title="体育频道",博斯网球
+https://cdn.19891230.eu.org/4gtv/litv-xinchuang09/index.m3u8
 #EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/香港卫视.png" group-title="香港频道",香港卫视
 http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-id="凤凰卫视" tvg-name="凤凰卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰卫视.png" group-title="香港频道",凤凰卫视
@@ -369,6 +379,8 @@ http://r.jdshipin.com/CkuBd
 https://cdn6.163189.xyz/163189/wxxw
 #EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/无线新闻.png" group-title="香港频道",无线新闻
 http://cdn6.163189.xyz/163189/wxxw#http://75.127.89.169:35441/endday20260630.php?id=134#http://75.127.89.169:35441/endday20260630.php?id=135#http://75.127.89.169:35441/endday20260630.php?id=137
+#EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/无线新闻.png" group-title="香港频道",无线新闻
+http://cdn6.163189.xyz/163189/wxxw
 #EXTINF:-1 tvg-id="无线翡翠" tvg-name="无线翡翠" tvg-logo="https://www.xn--rgv465a.top/tvlogo/无线翡翠.png" group-title="香港频道",无线翡翠
 https://cdn6.163189.xyz/163189/fct
 #EXTINF:-1 tvg-id="无线翡翠" tvg-name="无线翡翠" tvg-logo="https://www.xn--rgv465a.top/tvlogo/无线翡翠.png" group-title="香港频道",无线翡翠
@@ -473,6 +485,10 @@ https://cdn.163189.xyz/163189/hoy78
 https://cdn.163189.xyz/163189/viu
 #EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/ViuTV.png" group-title="香港频道",ViuTV
 https://cdn.19891230.eu.org/hk/ViuTV/index.m3u8
+#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/ViuTV.png" group-title="香港频道",ViuTV
+http://r.jdshipin.com/vSJvl
+#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/ViuTV.png" group-title="香港频道",ViuTV
+http://r.jdshipin.com/TcKr2
 #EXTINF:-1 tvg-id="港台电视31" tvg-name="港台电视31" tvg-logo="https://www.xn--rgv465a.top/tvlogo/港台电视31.png" group-title="香港频道",港台电视31
 https://cdn.163189.xyz/163189/rthk31
 #EXTINF:-1 tvg-id="港台电视31" tvg-name="港台电视31" tvg-logo="https://www.xn--rgv465a.top/tvlogo/港台电视31.png" group-title="香港频道",港台电视31
@@ -485,26 +501,36 @@ http://cdn.163189.xyz/163189/rthk32
 http://cdn6.163189.xyz/163189/cctv1
 #EXTINF:-1 tvg-id="娱乐新闻台" tvg-name="娱乐新闻台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/娱乐新闻台.png" group-title="香港频道",娱乐新闻台
 https://cdn6.163189.xyz/163189/ylxw
+#EXTINF:-1 tvg-id="娱乐新闻台" tvg-name="娱乐新闻台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/娱乐新闻台.png" group-title="香港频道",娱乐新闻台
+http://cdn6.163189.xyz/163189/ylxw
 #EXTINF:-1 tvg-id="纬来体育台" tvg-name="纬来体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/纬来体育.png" group-title="香港频道",纬来体育
 https://smt.1678520.xyz/163189/b10b2645c6d9de2b
 #EXTINF:-1 tvg-id="纬来体育台" tvg-name="纬来体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/纬来体育.png" group-title="香港频道",纬来体育
 https://cdn.19891230.eu.org/api/VL-Sports/index.m3u8
+#EXTINF:-1 tvg-id="纬来体育台" tvg-name="纬来体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/纬来体育.png" group-title="香港频道",纬来体育
+https://smt.1678520.xyz/163189/wlty
 #EXTINF:-1 tvg-id="纬来日本台" tvg-name="纬来日本" tvg-logo="https://www.xn--rgv465a.top/tvlogo/纬来日本.png" group-title="香港频道",纬来日本
 https://cdn.19891230.eu.org/api/VL-Japan/index.m3u8
 #EXTINF:-1 tvg-id="纬来电影台" tvg-name="纬来电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/纬来电影.png" group-title="香港频道",纬来电影
 https://smt.1678520.xyz/163189/602e9465658d4f8c
 #EXTINF:-1 tvg-id="纬来电影台" tvg-name="纬来电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/纬来电影.png" group-title="香港频道",纬来电影
 https://cdn.19891230.eu.org/api/VL-Movies/index.m3u8
+#EXTINF:-1 tvg-id="纬来电影台" tvg-name="纬来电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/纬来电影.png" group-title="香港频道",纬来电影
+https://smt.1678520.xyz/163189/wldy
 #EXTINF:-1 tvg-id="纬来戏剧台" tvg-name="纬来戏剧" tvg-logo="https://www.xn--rgv465a.top/tvlogo/纬来戏剧.png" group-title="香港频道",纬来戏剧
 https://smt.1678520.xyz/163189/ab657380c65c1fd1
 #EXTINF:-1 tvg-id="纬来戏剧台" tvg-name="纬来戏剧" tvg-logo="https://www.xn--rgv465a.top/tvlogo/纬来戏剧.png" group-title="香港频道",纬来戏剧
 https://cdn.19891230.eu.org/api/VL-Drama/index.m3u8
+#EXTINF:-1 tvg-id="纬来戏剧台" tvg-name="纬来戏剧" tvg-logo="https://www.xn--rgv465a.top/tvlogo/纬来戏剧.png" group-title="香港频道",纬来戏剧
+https://smt.1678520.xyz/163189/wlxj
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://www.xn--rgv465a.top/tvlogo/重温经典.png" group-title="香港频道",重温经典
 https://cdn6.163189.xyz/163189/cwjd
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://www.xn--rgv465a.top/tvlogo/重温经典.png" group-title="香港频道",重温经典
 https://cdn13.178.indevs.in/163189/21d79187db6e9793
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://www.xn--rgv465a.top/tvlogo/重温经典.png" group-title="香港频道",重温经典
 http://cdn3.132.us.kg/live/cwjd/stream.m3u8
+#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://www.xn--rgv465a.top/tvlogo/重温经典.png" group-title="香港频道",重温经典
+http://cdn6.163189.xyz/163189/cwjd
 #EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://www.xn--rgv465a.top/tvlogo/澳视澳门.png" group-title="澳门频道",澳视澳门
 https://cdn6.163189.xyz/163189/asam
 #EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://www.xn--rgv465a.top/tvlogo/澳视澳门.png" group-title="澳门频道",澳视澳门
@@ -537,6 +563,8 @@ https://cdn12.178.indevs.in/163189/2973b910e7719c08
 https://4gtv.158.qzz.io/163189/1a62f7fd-8d11-4540-a6c7-ae34d9f059ee/
 #EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中天新闻.png" group-title="台湾频道",中天新闻
 https://cdn.19891230.eu.org/4gtv/4gtv-4gtv009/index.m3u8
+#EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/寰宇新闻.png" group-title="台湾频道",寰宇新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 #EXTINF:-1 tvg-id="年代新闻" tvg-name="年代新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/年代新闻.png" group-title="台湾频道",年代新闻
 https://cdn.19891230.eu.org/api/Era-News/index.m3u8
 #EXTINF:-1 tvg-id="中天综合台" tvg-name="中天综合台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中天综合台.png" group-title="台湾频道",中天综合台
@@ -553,24 +581,34 @@ https://cdn.19891230.eu.org/api/ET-Variety-Channel/index.m3u8
 https://smt.1678520.xyz/163189/f60cd3f14b06dabc
 #EXTINF:-1 tvg-id="东森戏剧台" tvg-name="东森戏剧台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东森戏剧台.png" group-title="台湾频道",东森戏剧台
 https://cdn.19891230.eu.org/api/ET-Drama-Channel/index.m3u8
+#EXTINF:-1 tvg-id="东森戏剧台" tvg-name="东森戏剧台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东森戏剧台.png" group-title="台湾频道",东森戏剧台
+https://smt.1678520.xyz/163189/dsxj
 #EXTINF:-1 tvg-id="东森洋片台" tvg-name="东森洋片台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东森洋片台.png" group-title="台湾频道",东森洋片台
 https://smt.1678520.xyz/163189/cd69d6ff4e8217c7
 #EXTINF:-1 tvg-id="东森洋片台" tvg-name="东森洋片台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东森洋片台.png" group-title="台湾频道",东森洋片台
 https://cdn.19891230.eu.org/api/ET-Foreign-Movie-Channel/index.m3u8
+#EXTINF:-1 tvg-id="东森洋片台" tvg-name="东森洋片台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东森洋片台.png" group-title="台湾频道",东森洋片台
+https://smt.1678520.xyz/163189/dsyp
 #EXTINF:-1 tvg-id="纬来戏剧台" tvg-name="纬来戏剧台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/纬来戏剧台.png" group-title="台湾频道",纬来戏剧台
 https://smt.1678520.xyz/163189/ab657380c65c1fd1
 #EXTINF:-1 tvg-id="纬来戏剧台" tvg-name="纬来戏剧台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/纬来戏剧台.png" group-title="台湾频道",纬来戏剧台
 https://cdn.19891230.eu.org/api/VL-Drama/index.m3u8
+#EXTINF:-1 tvg-id="纬来戏剧台" tvg-name="纬来戏剧台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/纬来戏剧台.png" group-title="台湾频道",纬来戏剧台
+https://smt.1678520.xyz/163189/wlxj
 #EXTINF:-1 tvg-id="纬来日本台" tvg-name="纬来日本台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/纬来日本台.png" group-title="台湾频道",纬来日本台
 https://cdn.19891230.eu.org/api/VL-Japan/index.m3u8
 #EXTINF:-1 tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/纬来体育台.png" group-title="台湾频道",纬来体育台
 https://smt.1678520.xyz/163189/b10b2645c6d9de2b
 #EXTINF:-1 tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/纬来体育台.png" group-title="台湾频道",纬来体育台
 https://cdn.19891230.eu.org/api/VL-Sports/index.m3u8
+#EXTINF:-1 tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/纬来体育台.png" group-title="台湾频道",纬来体育台
+https://smt.1678520.xyz/163189/wlty
 #EXTINF:-1 tvg-id="纬来电影台" tvg-name="纬来电影台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/纬来电影台.png" group-title="台湾频道",纬来电影台
 https://smt.1678520.xyz/163189/602e9465658d4f8c
 #EXTINF:-1 tvg-id="纬来电影台" tvg-name="纬来电影台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/纬来电影台.png" group-title="台湾频道",纬来电影台
 https://cdn.19891230.eu.org/api/VL-Movies/index.m3u8
+#EXTINF:-1 tvg-id="纬来电影台" tvg-name="纬来电影台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/纬来电影台.png" group-title="台湾频道",纬来电影台
+https://smt.1678520.xyz/163189/wldy
 #EXTINF:-1 tvg-id="靖天戏剧台" tvg-name="靖天戏剧台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/靖天戏剧台.png" group-title="台湾频道",靖天戏剧台
 https://cdn12.178.indevs.in/163189/177d541552f78003
 #EXTINF:-1 tvg-id="靖洋戏剧" tvg-name="靖洋戏剧" tvg-logo="https://www.xn--rgv465a.top/tvlogo/靖洋戏剧.png" group-title="台湾频道",靖洋戏剧
@@ -605,6 +643,8 @@ https://cdn8.163189.xyz/163189/lhyp
 https://smt.1678520.xyz/163189/a2c09ea65fb10aa2
 #EXTINF:-1 tvg-id="东森电影台" tvg-name="东森电影台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东森电影台.png" group-title="台湾频道",东森电影台
 https://cdn.19891230.eu.org/api/ET-Movie/index.m3u8
+#EXTINF:-1 tvg-id="东森电影台" tvg-name="东森电影台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东森电影台.png" group-title="台湾频道",东森电影台
+https://smt.1678520.xyz/163189/dsdy
 #EXTINF:-1 tvg-id="好莱坞电影台" tvg-name="好莱坞电影台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/好莱坞电影台.png" group-title="台湾频道",好莱坞电影台
 https://cdn.19891230.eu.org/api/Hollywood-Movie/index.m3u8
 #EXTINF:-1 tvg-id="天映经典台" tvg-name="天映经典台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天映经典台.png" group-title="台湾频道",天映经典台
@@ -619,8 +659,12 @@ http://o11.163189.xyz/stream/live/typd/
 http://o11.163189.xyz/stream/live/tvbc/
 #EXTINF:-1 tvg-id="千禧经典台" tvg-name="千禧经典台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/千禧经典台.png" group-title="台湾频道",千禧经典台
 https://o11.163189.xyz/stream/live/tvbc/
+#EXTINF:-1 tvg-id="博斯网球台" tvg-name="博斯网球台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/博斯网球台.png" group-title="台湾频道",博斯网球台
+https://cdn.19891230.eu.org/4gtv/litv-xinchuang09/index.m3u8
 #EXTINF:-1 tvg-id="五星体育台" tvg-name="五星体育台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/五星体育台.png" group-title="台湾频道",五星体育台
 https://cdn15.163189.xyz/163189/9c893bb003e1c7de
+#EXTINF:-1 tvg-id="五星体育台" tvg-name="五星体育台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/五星体育台.png" group-title="台湾频道",五星体育台
+https://cdn15.163189.xyz/163189/wxty
 #EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Animax.png" group-title="台湾频道",Animax
 https://stream1.freetv.fun/animax-1.m3u8
 #EXTINF:-1 tvg-id="astroAec" tvg-name="astroAec" tvg-logo="https://www.xn--rgv465a.top/tvlogo/astroAec.png" group-title="台湾频道",astroAec
@@ -783,10 +827,14 @@ https://www.gdtv.cn/tvChannelDetail/45
 http://r.jdshipin.com/sE5vO
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东珠江.png" group-title="广东",广东珠江
 https://cdn2.163189.xyz/163189/gdzj
+#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东珠江.png" group-title="广东",广东珠江
+http://cdn2.163189.xyz/163189/gdzj
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东体育.png" group-title="广东",广东体育
 http://r.jdshipin.com/LiYdg
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东体育.png" group-title="广东",广东体育
 https://cdn2.163189.xyz/163189/gdty
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东体育.png" group-title="广东",广东体育
+http://cdn2.163189.xyz/163189/gdty
 #EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/大湾区卫视.png" group-title="广东",大湾区卫视
 https://www.gdtv.cn/tvChannelDetail/42
 #EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/大湾区卫视.png" group-title="广东",大湾区卫视
@@ -1239,6 +1287,10 @@ https://jmp2.uk/stvp-GBBD8000016N
 https://jmp2.uk/stvp-ATBD800001VA
 #EXTINF:-1 tvg-id="美·红牛运动" tvg-name="美·红牛运动" tvg-logo="https://www.xn--rgv465a.top/tvlogo/美·红牛运动.png" group-title="国际频道",美·红牛运动
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 tvg-id="泰·THAIPBS" tvg-name="泰·THAIPBS" tvg-logo="https://www.xn--rgv465a.top/tvlogo/泰·THAIPBS.png" group-title="国际频道",泰·THAIPBS
+http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
+#EXTINF:-1 tvg-id="泰·公共三台" tvg-name="泰·公共三台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/泰·公共三台.png" group-title="国际频道",泰·公共三台
+http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTINF:-1 tvg-id="新加坡中文台" tvg-name="新加坡中文台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/新加坡中文台.png" group-title="国际频道",新加坡中文台
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 #EXTINF:-1 tvg-id="新加坡国际" tvg-name="新加坡国际" tvg-logo="https://www.xn--rgv465a.top/tvlogo/新加坡国际.png" group-title="国际频道",新加坡国际
@@ -1248,6 +1300,8 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 #EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNA.png" group-title="国际频道",CNA
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 #EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNA.png" group-title="国际频道",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-id="CNA新闻" tvg-name="CNA新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNA新闻.png" group-title="国际频道",CNA新闻
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="刘德华《2011年中国巡回演唱会 上海站 完整版》" tvg-name="刘德华《2011年中国巡回演唱会 上海站 完整版》" tvg-logo="https://www.xn--rgv465a.top/tvlogo/刘德华《2011年中国巡回演唱会 上海站 完整版》.png" group-title="演*唱*会",刘德华《2011年中国巡回演唱会 上海站 完整版》
 https://vd4.bdstatic.com/mda-pa4a49uy4h0r7wn4/576p/h264/1672903079005864993/mda-pa4a49uy4h0r7wn4.mp4
@@ -1327,5 +1381,5 @@ https://vd3.bdstatic.com/mda-pac5q1he7r5wjykx/576p/h264/1673583274906869271/mda-
 https://vd3.bdstatic.com/mda-nmkefmyd0arci215/576p/h264/1671618057578437373/mda-nmkefmyd0arci215.mp4
 #EXTINF:-1 tvg-id="宝丽金《成立20周年 1990群星演唱会完整版》" tvg-name="宝丽金《成立20周年 1990群星演唱会完整版》" tvg-logo="https://www.xn--rgv465a.top/tvlogo/宝丽金《成立20周年 1990群星演唱会完整版》.png" group-title="演*唱*会",宝丽金《成立20周年 1990群星演唱会完整版》
 https://vd3.bdstatic.com/mda-pbp4sapcn5kmpxhg/hd/cae_h264/1677214872094217006/mda-pbp4sapcn5kmpxhg.mp4
-#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-06-28 14:30:09
+#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-06-29 14:37:38
 https://live.chinacert.cftest5.cn/cnmg/live/608807420
