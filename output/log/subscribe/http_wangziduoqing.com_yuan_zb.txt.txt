@@ -911,44 +911,91 @@ CCTV-卫生健康,http://107.150.60.122/live/wsjk.m3u8
 江西新闻频道,http://107.150.60.122/live/jxtv7.m3u8C
 
 咪咕频道,#genre#
-CCTV-01咪咕, http://rihou.cc:555/tv/[mg]CCTV-01
-CCTV-02咪咕, http://rihou.cc:555/tv/[mg]CCTV-02
-CCTV-03咪咕, http://rihou.cc:555/tv/[mg]CCTV-03
-CCTV-04咪咕, http://rihou.cc:555/tv/[mg]CCTV-04
-CCTV-05咪咕, http://rihou.cc:555/tv/[mg]CCTV-05
-CCTV-5+咪咕, http://rihou.cc:555/tv/[mg]CCTV-5p
-CCTV-06咪咕, http://rihou.cc:555/tv/[mg]CCTV-06
-CCTV-07咪咕, http://rihou.cc:555/tv/[mg]CCTV-07
-CCTV-08咪咕, http://rihou.cc:555/tv/[mg]CCTV-08
-CCTV-09咪咕, http://rihou.cc:555/tv/[mg]CCTV-09
-CCTV-10咪咕, http://rihou.cc:555/tv/[mg]CCTV-10
-CCTV-11咪咕, http://rihou.cc:555/tv/[mg]CCTV-11
-CCTV-12咪咕, http://rihou.cc:555/tv/[mg]CCTV-12
-CCTV-13咪咕, http://rihou.cc:555/tv/[mg]CCTV-13
-CCTV-14咪咕, http://rihou.cc:555/tv/[mg]CCTV-14
-CCTV-15咪咕, http://rihou.cc:555/tv/[mg]CCTV-15
-CCTV-16咪咕, http://rihou.cc:555/tv/[mg]CCTV-16
-CCTV-17咪咕, http://rihou.cc:555/tv/[mg]CCTV-17
-cct4欧洲咪咕, http://rihou.cc:555/tv/[mg]cct4%E6%AC%A7%E6%B4%B2
-cct4美洲咪咕, http://rihou.cc:555/tv/[mg]cct4%E7%BE%8E%E6%B4%B2
-CGTN-西咪咕, http://rihou.cc:555/tv/[mg]CGTN-%E8%A5%BF
-CGTN-阿咪咕, http://rihou.cc:555/tv/[mg]CGTN-%E9%98%BF
-CGTN-法咪咕, http://rihou.cc:555/tv/[mg]CGTN-%E6%B3%95
-北京卫视咪咕, http://rihou.cc:555/tv/[mg]%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86
-东方卫视咪咕, http://rihou.cc:555/tv/[mg]%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86
-浙江卫视咪咕, http://rihou.cc:555/tv/[mg]%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86
-江苏卫视咪咕, http://rihou.cc:555/tv/[mg]%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86
-湖南卫视咪咕, http://rihou.cc:555/tv/[mg]%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86
-广东卫视咪咕, http://rihou.cc:555/tv/[mg]%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86
-深圳卫视咪咕, http://rihou.cc:555/tv/[mg]%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86
-山东卫视咪咕, http://rihou.cc:555/tv/[mg]%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86
-河南卫视咪咕, http://rihou.cc:555/tv/[mg]%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86
-江西卫视咪咕, http://rihou.cc:555/tv/[mg]%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86
-湖北卫视咪咕, http://rihou.cc:555/tv/[mg]%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86
-海南卫视咪咕, http://rihou.cc:555/tv/[mg]%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86
-陕西卫视咪咕, http://rihou.cc:555/tv/[mg]%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86
-兵团卫视咪咕, http://rihou.cc:555/tv/[mg]%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86
-黑龙江视咪咕, http://rihou.cc:555/tv/[mg]%E9%BB%91%E9%BE%99%E6%B1%9F%E8%A7%86
+CTV1综合,http://wfenf.x3322.net:7788/608807420
+CCTV2财经,http://wfenf.x3322.net:7788/631780532
+CCTV3综艺,http://wfenf.x3322.net:7788/624878271
+CCTV4中文国际,http://wfenf.x3322.net:7788/631780421
+CCTV5体育,http://wfenf.x3322.net:7788/641886683
+CCTV5+体育赛事,http://wfenf.x3322.net:7788/641886773
+CCTV6电影,http://wfenf.x3322.net:7788/624878396
+CCTV7国防军事,http://wfenf.x3322.net:7788/673168121
+CCTV8电视剧,http://wfenf.x3322.net:7788/624878356
+CCTV9纪录,http://wfenf.x3322.net:7788/673168140
+CCTV10科教,http://wfenf.x3322.net:7788/624878405
+CCTV11戏曲,http://wfenf.x3322.net:7788/667987558
+CCTV12社会与法,http://wfenf.x3322.net:7788/673168185
+CCTV13新闻,http://wfenf.x3322.net:7788/608807423
+CCTV14少儿,http://wfenf.x3322.net:7788/624878440
+CCTV15音乐,http://wfenf.x3322.net:7788/673168223
+CCTV17农业农村,http://wfenf.x3322.net:7788/673168256
+CCTV4欧洲,http://wfenf.x3322.net:7788/608807419
+CCTV4美洲,http://wfenf.x3322.net:7788/608807416
+CGTN外语纪录,http://wfenf.x3322.net:7788/609006487
+CGTN阿拉伯语,http://wfenf.x3322.net:7788/609154345
+CGTN西班牙语,http://wfenf.x3322.net:7788/609006450
+CGTN法语,http://wfenf.x3322.net:7788/609006476
+CGTN俄语,http://wfenf.x3322.net:7788/609006446
+老故事,http://wfenf.x3322.net:7788/884121956
+发现之旅,http://wfenf.x3322.net:7788/624878970
+中学生,http://wfenf.x3322.net:7788/708869532
+CGTN,http://wfenf.x3322.net:7788/609017205
+卫视,#genre#
+东方卫视,http://wfenf.x3322.net:7788/651632648
+江苏卫视,http://wfenf.x3322.net:7788/623899368
+广东卫视,http://wfenf.x3322.net:7788/608831231
+北京卫视,http://wfenf.x3322.net:7788/630287636
+辽宁卫视,http://wfenf.x3322.net:7788/630291707
+河北卫视,http://wfenf.x3322.net:7788/962042070
+江西卫视,http://wfenf.x3322.net:7788/783847495
+河南卫视,http://wfenf.x3322.net:7788/790187291
+陕西卫视,http://wfenf.x3322.net:7788/738910838
+大湾区卫视,http://wfenf.x3322.net:7788/608917627
+湖北卫视,http://wfenf.x3322.net:7788/947472496
+吉林卫视,http://wfenf.x3322.net:7788/947472500
+青海卫视,http://wfenf.x3322.net:7788/947472506
+东南卫视,http://wfenf.x3322.net:7788/849116810
+海南卫视,http://wfenf.x3322.net:7788/947472502
+海峡卫视,http://wfenf.x3322.net:7788/849119120
+中国农林卫视,http://wfenf.x3322.net:7788/956904896
+兵团卫视,http://wfenf.x3322.net:7788/956923145
+宁夏卫视,http://wfenf.x3322.net:7788/738910535
+重庆卫视,http://wfenf.x3322.net:7788/738910914
+三沙卫视,http://wfenf.x3322.net:7788/961023778
+上海新闻综合,http://wfenf.x3322.net:7788/651632657
+上视东方影视,http://wfenf.x3322.net:7788/617290047
+上海第一财经,http://wfenf.x3322.net:7788/608780988
+南京新闻综合频道,http://wfenf.x3322.net:7788/838109047
+南京教科频道,http://wfenf.x3322.net:7788/838153729
+南京十八频道,http://wfenf.x3322.net:7788/838151753
+体育休闲频道,http://wfenf.x3322.net:7788/626064707
+江苏城市频道,http://wfenf.x3322.net:7788/626064714
+江苏国际,http://wfenf.x3322.net:7788/626064674
+江苏教育,http://wfenf.x3322.net:7788/628008321
+江苏影视频道,http://wfenf.x3322.net:7788/626064697
+江苏综艺频道,http://wfenf.x3322.net:7788/626065193
+公共新闻频道,http://wfenf.x3322.net:7788/626064693
+盐城新闻综合,http://wfenf.x3322.net:7788/639731825
+淮安新闻综合,http://wfenf.x3322.net:7788/639731826
+泰州新闻综合,http://wfenf.x3322.net:7788/639731818
+连云港新闻综合,http://wfenf.x3322.net:7788/639731715
+宿迁新闻综合,http://wfenf.x3322.net:7788/639731832
+徐州新闻综合,http://wfenf.x3322.net:7788/639731747
+优漫卡通频道,http://wfenf.x3322.net:7788/626064703
+江阴新闻综合,http://wfenf.x3322.net:7788/955227979
+南通新闻综合,http://wfenf.x3322.net:7788/955227985
+宜兴新闻综合,http://wfenf.x3322.net:7788/955227996
+溧水新闻综合,http://wfenf.x3322.net:7788/639737327
+陕西银龄频道,http://wfenf.x3322.net:7788/956909362
+陕西都市青春频道,http://wfenf.x3322.net:7788/956909358
+陕西秦腔频道,http://wfenf.x3322.net:7788/956909303
+陕西新闻资讯频道,http://wfenf.x3322.net:7788/956909289
+财富天下,http://wfenf.x3322.net:7788/956923159
+镇江新闻综合,http://wfenf.x3322.net:7788/639731783
+海南广播电视总台新闻频道,http://wfenf.x3322.net:7788/962067517
+海南广播电视总台自贸频道,http://wfenf.x3322.net:7788/962045226
+海南广播电视总台社会与法频道,http://wfenf.x3322.net:7788/962045223
+海南广播电视总台文旅频道,http://wfenf.x3322.net:7788/962067526
+海南广播电视总台少儿频道,http://wfenf.x3322.net:7788/962067523
 
 组播频道,#genre#
 CCTV1,http://go.bkpcp.top/mg/cctv1 
