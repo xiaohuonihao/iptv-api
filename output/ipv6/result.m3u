@@ -883,6 +883,8 @@ https://www.sztv.com.cn/pindao/index.html?id=7880
 https://www.sztv.com.cn/pindao/index.html?id=7871
 #EXTINF:-1 tvg-id="中山综合" tvg-name="中山综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中山综合.png" group-title="广东",中山综合
 http://v.zsbtv.com.cn/lsdream/qTl38me/1000/live.m3u8
+#EXTINF:-1 tvg-id="肇庆综合" tvg-name="肇庆综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/肇庆综合.png" group-title="广东",肇庆综合
+https://zqh5.xjrb.com/h5/nfzmy-television-and-radio/#/?channelId=33
 #EXTINF:-1 tvg-id="韶关综合" tvg-name="韶关综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/韶关综合.png" group-title="广东",韶关综合
 https://www.sgmsw.cn/v/tv?spm=0.0.0.0.nRYAvk&id=SB05RIYZOU8JR418AUQOF62CAJQ08D0E
 #EXTINF:-1 tvg-id="韶关综合" tvg-name="韶关综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/韶关综合.png" group-title="广东",韶关综合
@@ -1409,5 +1411,5 @@ https://vd3.bdstatic.com/mda-pac5q1he7r5wjykx/576p/h264/1673583274906869271/mda-
 https://vd3.bdstatic.com/mda-nmkefmyd0arci215/576p/h264/1671618057578437373/mda-nmkefmyd0arci215.mp4
 #EXTINF:-1 tvg-id="宝丽金《成立20周年 1990群星演唱会完整版》" tvg-name="宝丽金《成立20周年 1990群星演唱会完整版》" tvg-logo="https://www.xn--rgv465a.top/tvlogo/宝丽金《成立20周年 1990群星演唱会完整版》.png" group-title="演*唱*会",宝丽金《成立20周年 1990群星演唱会完整版》
 https://vd3.bdstatic.com/mda-pbp4sapcn5kmpxhg/hd/cae_h264/1677214872094217006/mda-pbp4sapcn5kmpxhg.mp4
-#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-07-07 13:53:44
+#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-07-08 13:34:34
 https://live.chinacert.cftest5.cn/cnmg/live/608807420
