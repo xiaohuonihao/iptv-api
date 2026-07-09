@@ -854,9 +854,9 @@ CHC家庭影院,http://wfenf.x3322.net:7788/644368373
 和美乡途轮播台,http://wfenf.x3322.net:7788/713591450
 
 世界杯赛事,#genre#
-猛哥足球,https://pull.jxxgz.top/live/8882492_lud.flv?auth_info=ysJPqMX0zw19qcuXxFBDh0ogDlkN%2BCcB84z5fVpm%2Fu64GB%2F%2BWxgViNdddNEtoubs.547566476557616a6a494e7251304457
-直播中厄瓜多尔V德国,https://www.rtmpcdn.com/live/migu1.m3u8
-小肥足球,https://pull.jxxgz.top/live/8882490_lud.flv?auth_info=LA%2BXYuQxfj%2BSiwQlcRKbpg6PiPS%2B2cx3jzYAYiOXdo2rsfmN7I13%2F%2BFp96Utwr2O.6a50596d78786877616b514334354a5a
+猛哥足球,https://spqncdnct.inter.71edge.com/tslive/l1/c75_ssports_20260605_cmydoqin_720p_chst1_ts_t4/Yota2ZHuL6utkyFmQ0MLs6Uz2dVHPj1PwTMlw_vasB3uUmjrsSd0-qbHsM0eKfj62ePwfhe0N4U6S7Q86cZZQkTMCGr0W6Wm8WvwDE_NceSn3sCXGprMD30s-Bye7BRBgTD8kjVDSzyrW8WcQD4TXaUgF7poIxd1nYP87ojIFcFjfD-exBUHd5BCOrlN0HY_Oen8iHUQ0Jxn4dRydfvfEnM4a_MXPObxX3TBHogB6vng4LTKEG89FJc6tSBWzC866h0l_3UC2Kaa7LhPTenSbQ/10162553491b87fc67bc977490cfe00fd/c75_ssports_20260605_cmydoqin_720p_chst1_ts_t4.m3u8?key=0726813db4fa6267de819672edeeb84cc
+直播中,https://www.rtmpcdn.com/live/cctv5.m3u8
+世界杯瑞士Vs哥伦比亚,https://hlsz.yjjcfw.com/live/elta10.m3u8?expire=1783468468&sign=55738fdf37077b3415a8fd92bfad6475
 中央5台球赛,https://www.rtmpcdn.com/live/cctv5p.m3u8
 
 移动源,#genre#
