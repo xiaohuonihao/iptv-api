@@ -1170,132 +1170,39 @@ CCTV6环球经典,https://www.9kds.com/d/1905.php?t=1&id=LIVE8J4LTCXPI7QJ5_261&k
 CCTV6流金岁月,https://www.9kds.com/d/1905.php?t=1&id=LIVEOYY31H24H48NE&kl=www.9kds.com
 
 港澳台,#genre#
-凤凰中文,http://49.232.143.177:80/pyxg/export.php?id=1&key=%2A%2A%2A%2A
-凤凰资讯,http://49.232.143.177:80/pyxg/export.php?id=2&key=%2A%2A%2A%2A
-凤凰香港,http://49.232.143.177:80/pyxg/export.php?id=3&key=%2A%2A%2A%2A
-翡翠台,http://49.232.143.177:80/pyxg/export.php?id=4&key=%2A%2A%2A%2A
-TVBPlus,http://49.232.143.177:80/pyxg/export.php?id=5&key=%2A%2A%2A%2A
-无线新闻,http://49.232.143.177:80/pyxg/export.php?id=6&key=%2A%2A%2A%2A
-明珠台,http://49.232.143.177:80/pyxg/export.php?id=7&key=%2A%2A%2A%2A
-ViUTV,http://49.232.143.177:80/pyxg/export.php?id=8&key=%2A%2A%2A%2A
-ViUTVSix,http://49.232.143.177:80/pyxg/export.php?id=9&key=%2A%2A%2A%2A
-HOYTV,http://49.232.143.177:80/pyxg/export.php?id=10&key=%2A%2A%2A%2A
-HOY 资讯台,http://49.232.143.177:80/pyxg/export.php?id=11&key=%2A%2A%2A%2A
-HOY 财经台,http://49.232.143.177:80/pyxg/export.php?id=12&key=%2A%2A%2A%2A
-18 台,http://49.232.143.177:80/pyxg/export.php?id=13&key=%2A%2A%2A%2A
-Now 新闻台,http://49.232.143.177:80/pyxg/export.php?id=14&key=%2A%2A%2A%2A
-Now 财经台,http://49.232.143.177:80/pyxg/export.php?id=15&key=%2A%2A%2A%2A
-TVB 星河,http://49.232.143.177:80/pyxg/export.php?id=16&key=%2A%2A%2A%2A
-功夫台,http://49.232.143.177:80/pyxg/export.php?id=17&key=%2A%2A%2A%2A
-天映经典,http://49.232.143.177:80/pyxg/export.php?id=18&key=%2A%2A%2A%2A
-美亚电影台,http://49.232.143.177:80/pyxg/export.php?id=19&key=%2A%2A%2A%2A
-POPC,http://49.232.143.177:80/pyxg/export.php?id=20&key=%2A%2A%2A%2A
-中国电影,http://49.232.143.177:80/pyxg/export.php?id=21&key=%2A%2A%2A%2A
-中视,http://49.232.143.177:80/pyxg/export.php?id=22&key=%2A%2A%2A%2A
-华视,http://49.232.143.177:80/pyxg/export.php?id=23&key=%2A%2A%2A%2A
-民视,http://49.232.143.177:80/pyxg/export.php?id=24&key=%2A%2A%2A%2A
-民视台湾,http://49.232.143.177:80/pyxg/export.php?id=25&key=%2A%2A%2A%2A
-民视第一,http://49.232.143.177:80/pyxg/export.php?id=26&key=%2A%2A%2A%2A
-台视,http://49.232.143.177:80/pyxg/export.php?id=27&key=%2A%2A%2A%2A
-台视综合,http://49.232.143.177:80/pyxg/export.php?id=28&key=%2A%2A%2A%2A
-公视,http://49.232.143.177:80/pyxg/export.php?id=29&key=%2A%2A%2A%2A
-中天综合,http://49.232.143.177:80/pyxg/export.php?id=30&key=%2A%2A%2A%2A
-八大综合,http://49.232.143.177:80/pyxg/export.php?id=31&key=%2A%2A%2A%2A
-八大第一,http://49.232.143.177:80/pyxg/export.php?id=32&key=%2A%2A%2A%2A
-东森综合,http://49.232.143.177:80/pyxg/export.php?id=33&key=%2A%2A%2A%2A
-东森电影,http://49.232.143.177:80/pyxg/export.php?id=34&key=%2A%2A%2A%2A
-纬來电影,http://49.232.143.177:80/pyxg/export.php?id=35&key=%2A%2A%2A%2A
-三立都会,http://49.232.143.177:80/pyxg/export.php?id=36&key=%2A%2A%2A%2A
-三立台湾,http://49.232.143.177:80/pyxg/export.php?id=37&key=%2A%2A%2A%2A
-龙华偶像,http://49.232.143.177:80/pyxg/export.php?id=38&key=%2A%2A%2A%2A
-龙华电影,http://49.232.143.177:80/pyxg/export.php?id=39&key=%2A%2A%2A%2A
-龙华经典,http://49.232.143.177:80/pyxg/export.php?id=40&key=%2A%2A%2A%2A
-好萊塢电影,http://49.232.143.177:80/pyxg/export.php?id=41&key=%2A%2A%2A%2A
-TVBS,http://49.232.143.177:80/pyxg/export.php?id=42&key=%2A%2A%2A%2A
-中天新闻,http://49.232.143.177:80/pyxg/export.php?id=43&key=%2A%2A%2A%2A
-东森新闻,http://49.232.143.177:80/pyxg/export.php?id=44&key=%2A%2A%2A%2A
-华视新闻,http://49.232.143.177:80/pyxg/export.php?id=45&key=%2A%2A%2A%2A
-中视新闻,http://49.232.143.177:80/pyxg/export.php?id=46&key=%2A%2A%2A%2A
-台视新闻,http://49.232.143.177:80/pyxg/export.php?id=47&key=%2A%2A%2A%2A
-民视新闻,http://49.232.143.177:80/pyxg/export.php?id=48&key=%2A%2A%2A%2A
-TVBS新闻,http://49.232.143.177:80/pyxg/export.php?id=49&key=%2A%2A%2A%2A
-三立新闻,http://49.232.143.177:80/pyxg/export.php?id=50&key=%2A%2A%2A%2A
-年代新闻,http://49.232.143.177:80/pyxg/export.php?id=51&key=%2A%2A%2A%2A
-壹新闻,http://49.232.143.177:80/pyxg/export.php?id=52&key=%2A%2A%2A%2A
-非凡新闻,http://49.232.143.177:80/pyxg/export.php?id=53&key=%2A%2A%2A%2A
-镜新闻,http://49.232.143.177:80/pyxg/export.php?id=54&key=%2A%2A%2A%2A
-环宇台湾,http://49.232.143.177:80/pyxg/export.php?id=55&key=%2A%2A%2A%2A
-纬来体育,http://49.232.143.177:80/pyxg/export.php?id=56&key=%2A%2A%2A%2A
-live体育,http://49.232.143.177:80/pyxg/export.php?id=57&key=%2A%2A%2A%2A
-CCTV5,http://49.232.143.177:80/pyxg/export.php?id=58&key=%2A%2A%2A%2A
-广东体育,http://49.232.143.177:80/pyxg/export.php?id=59&key=%2A%2A%2A%2A
-ELTA体育1,http://49.232.143.177:80/pyxg/export.php?id=60&key=%2A%2A%2A%2A
-ELTA体育2,http://49.232.143.177:80/pyxg/export.php?id=61&key=%2A%2A%2A%2A
-TSN1,http://49.232.143.177:80/pyxg/export.php?id=62&key=%2A%2A%2A%2A
-TSN2,http://49.232.143.177:80/pyxg/export.php?id=63&key=%2A%2A%2A%2A
-TSN3,http://49.232.143.177:80/pyxg/export.php?id=64&key=%2A%2A%2A%2A
-TSN4,http://49.232.143.177:80/pyxg/export.php?id=65&key=%2A%2A%2A%2A
+凤凰中文,http://46.196.228.jiaheyy.top/ftx.php?id=fhzw#http://iptv.cqshushu.com/migu.php?pid=fhzw&token=7271f7cff0c44df20722236fef3bac8a#http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
+凤凰资讯,http://46.196.228.jiaheyy.top/ftx.php?id=fhzx#http://iptv.cqshushu.com/migu.php?pid=fhzx&token=7271f7cff0c44df20722236fef3bac8a#http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
+TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+Red Bull TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+生命电视,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
+唯心电视,https://5ddce30eb4b55.streamlock.net/wxtv/wxtvnow.stream/playlist.m3u8
 
 备用极速港澳台1,#genre#
-鳳凰中文,http://49.232.143.177:80/pyxg/export.php?id=1&key=****
-鳳凰資訊,http://49.232.143.177:80/pyxg/export.php?id=2&key=****
-鳳凰香港,http://49.232.143.177:80/pyxg/export.php?id=3&key=****
-翡翠台,http://49.232.143.177:80/pyxg/export.php?id=4&key=****
-TVBPlus,http://49.232.143.177:80/pyxg/export.php?id=5&key=****
-無綫新聞,http://49.232.143.177:80/pyxg/export.php?id=6&key=****
-明珠台,http://49.232.143.177:80/pyxg/export.php?id=7&key=****
-ViUTV,http://49.232.143.177:80/pyxg/export.php?id=8&key=****
-ViUTVSix,http://49.232.143.177:80/pyxg/export.php?id=9&key=****
-HOYTV,http://49.232.143.177:80/pyxg/export.php?id=10&key=****
-HOY 資訊台,http://49.232.143.177:80/pyxg/export.php?id=11&key=****
-HOY 財經台,http://49.232.143.177:80/pyxg/export.php?id=12&key=****
-18 台,http://49.232.143.177:80/pyxg/export.php?id=13&key=****
-Now 新聞台,http://49.232.143.177:80/pyxg/export.php?id=14&key=****
-Now 財經台,http://49.232.143.177:80/pyxg/export.php?id=15&key=****
-TVB 星河,http://49.232.143.177:80/pyxg/export.php?id=16&key=****
-功夫台,http://49.232.143.177:80/pyxg/export.php?id=17&key=****
-天映經典,http://49.232.143.177:80/pyxg/export.php?id=18&key=****
-美亚电影台,http://49.232.143.177:80/pyxg/export.php?id=19&key=****
-POPC,http://49.232.143.177:80/pyxg/export.php?id=20&key=****
-中國電影,http://49.232.143.177:80/pyxg/export.php?id=21&key=****
-中視,http://49.232.143.177:80/pyxg/export.php?id=22&key=****
-華視,http://49.232.143.177:80/pyxg/export.php?id=23&key=****
-民視,http://49.232.143.177:80/pyxg/export.php?id=24&key=****
-民視台灣,http://49.232.143.177:80/pyxg/export.php?id=25&key=****
-民視第一,http://49.232.143.177:80/pyxg/export.php?id=26&key=****
-台視,http://49.232.143.177:80/pyxg/export.php?id=27&key=****
-台視綜合,http://49.232.143.177:80/pyxg/export.php?id=28&key=****
-公視,http://49.232.143.177:80/pyxg/export.php?id=29&key=****
-中天綜合,http://49.232.143.177:80/pyxg/export.php?id=30&key=****
-八大綜合,http://49.232.143.177:80/pyxg/export.php?id=31&key=****
-八大第一,http://49.232.143.177:80/pyxg/export.php?id=32&key=****
-東森綜合,http://49.232.143.177:80/pyxg/export.php?id=33&key=****
-东森電影,http://49.232.143.177:80/pyxg/export.php?id=34&key=****
-緯來電影,http://49.232.143.177:80/pyxg/export.php?id=35&key=****
-三立都會,http://49.232.143.177:80/pyxg/export.php?id=36&key=****
-三立台灣,http://49.232.143.177:80/pyxg/export.php?id=37&key=****
-龍華偶像,http://49.232.143.177:80/pyxg/export.php?id=38&key=****
-龍華電影,http://49.232.143.177:80/pyxg/export.php?id=39&key=****
-龍華經典,http://49.232.143.177:80/pyxg/export.php?id=40&key=****
-龍翔時代,http://49.232.143.177:80/pyxg/export.php?id=41&key=****
-好萊塢電影,http://49.232.143.177:80/pyxg/export.php?id=42&key=****
-TvbS,http://49.232.143.177:80/pyxg/export.php?id=43&key=****
-中天新聞,http://49.232.143.177:80/pyxg/export.php?id=44&key=****
-東森新聞,http://49.232.143.177:80/pyxg/export.php?id=45&key=****
-環宇新聞,http://49.232.143.177:80/pyxg/export.php?id=46&key=****
-華視新聞,http://49.232.143.177:80/pyxg/export.php?id=47&key=****
-中視新聞,http://49.232.143.177:80/pyxg/export.php?id=48&key=****
-台視新聞,http://49.232.143.177:80/pyxg/export.php?id=49&key=****
-民視新聞,http://49.232.143.177:80/pyxg/export.php?id=50&key=****
-TVBS 新聞,http://49.232.143.177:80/pyxg/export.php?id=51&key=****
-三立新聞,http://49.232.143.177:80/pyxg/export.php?id=52&key=****
-年代新聞,http://49.232.143.177:80/pyxg/export.php?id=53&key=****
-壹新聞,http://49.232.143.177:80/pyxg/export.php?id=54&key=****
-非凡新聞,http://49.232.143.177:80/pyxg/export.php?id=55&key=****
-鏡新聞,http://49.232.143.177:80/pyxg/export.php?id=56&key=****
-環宇台灣,http://49.232.143.177:80/pyxg/export.php?id=57&key=****
-緯來體育,http://49.232.143.177:80/pyxg/export.php?id=58&key=****
-NBATV,http://49.232.143.177:80/pyxg/export.php?id=59&key=****
+凤凰中文,http://cdn6.163189.xyz/163189/fhzw$6163189
+凤凰资讯,http://cdn6.163189.xyz/163189/fhzx$6163189
+凤凰香港,http://cdn6.163189.xyz/163189/fhhk$6163189
+TVB无线新闻台,http://cdn6.163189.xyz/163189/wxxw$6163189
+TVB翡翠台,http://cdn6.163189.xyz/163189/fct$6163189
+TVB明珠台,http://cdn6.163189.xyz/163189/mzt$6163189
+凤凰中文,http://A/ku9/js/fhshow.js?id=fhzw$凤凰秀
+凤凰资讯,http://A/ku9/js/fhshow.js?id=fhzx$凤凰秀
+凤凰香港,http://A/ku9/js/fhshow.js?id=fhhk$凤凰秀
+环球电视台,http://utv1.hqtvzb.com:9999/hls/world.m3u8
+中视,http://220.135.241.47:8301/0.ts
+华视,http://220.135.241.47:8318/0.ts
+华视,http://220.135.241.47:8317/0.ts
+台视,http://211.72.174.95:8112/0.ts
+民视,http://211.72.174.95:8115/0.ts
+公视,http://220.135.241.47:8305/0.ts
+公视,http://211.72.174.95:8116/0.ts
+民视新闻台,http://211.72.174.95:8117/0.ts
+台视新闻,http://220.135.241.47:8314/0.ts
+台视财经,http://220.135.241.47:8315/0.ts
+有线18台,http://124.244.129.167:9004/0.ts
+有线18台,http://qingyi.7766.org:9004/0.ts
+凤凰中文,https://gxyd.484947.xyz/PLTV/77777777/224/3221226331/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
+凤凰资讯,https://gxyd.484947.xyz/PLTV/77777777/224/3221226324/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
+凤凰香港,https://gxyd.484947.xyz/PLTV/77777777/224/3221226321/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
 
 备用港澳台2,#genre#
 中視,http://75.127.89.169:35441/endday20260630.php?id=426http://75.127.89.169:35441/endday20260630.php?id=427#http://220.135.241.47:8301/0.ts

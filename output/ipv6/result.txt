@@ -190,13 +190,16 @@ CCTV-5+,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051
 凤凰卫视中文台,http://cdn6.163189.xyz/163189/fhzw
 凤凰卫视中文台,https://cdn6.163189.xyz/163189/fhzw
 凤凰卫视中文台,http://cdn6.163189.xyz/163189/fhzw#http://75.127.89.169:35441/endday20260630.php?id=160#http://75.127.89.169:35441/endday20260630.php?id=163
+凤凰卫视中文台,https://gxyd.484947.xyz/PLTV/77777777/224/3221226331/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
 凤凰卫视资讯台,http://r.jdshipin.com/0Rp07
 凤凰卫视资讯台,http://cdn6.163189.xyz/163189/fhzx
 凤凰卫视资讯台,https://cdn6.163189.xyz/163189/fhzx
 凤凰卫视资讯台,http://cdn6.163189.xyz/163189/fhzx#http://75.127.89.169:35441/endday20260630.php?id=158
+凤凰卫视资讯台,https://gxyd.484947.xyz/PLTV/77777777/224/3221226324/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
 凤凰卫视香港台,http://r.jdshipin.com/yDoTN
 凤凰卫视香港台,http://cdn6.163189.xyz/163189/fhhk
 凤凰卫视香港台,https://cdn6.163189.xyz/163189/fhhk
+凤凰卫视香港台,https://gxyd.484947.xyz/PLTV/77777777/224/3221226321/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
 无线新闻,http://r.jdshipin.com/CkuBd
 无线新闻,https://cdn6.163189.xyz/163189/wxxw
 无线新闻,http://cdn6.163189.xyz/163189/wxxw#http://75.127.89.169:35441/endday20260630.php?id=134#http://75.127.89.169:35441/endday20260630.php?id=135#http://75.127.89.169:35441/endday20260630.php?id=137
@@ -803,4 +806,4 @@ S H E《4EVER世界巡回演唱会 完整版》珍藏版,https://vd3.bdstatic.co
 广*场*舞,#genre#
 
 🕘️更新时间,#genre#
-2026-07-09 14:15:42,https://live.chinacert.cftest5.cn/cnmg/live/608807420
+2026-07-10 14:03:48,https://live.chinacert.cftest5.cn/cnmg/live/608807420
