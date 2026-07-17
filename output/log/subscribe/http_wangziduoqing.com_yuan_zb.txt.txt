@@ -853,12 +853,6 @@ CHC动作电影,http://wfenf.x3322.net:7788/644368714
 CHC家庭影院,http://wfenf.x3322.net:7788/644368373
 和美乡途轮播台,http://wfenf.x3322.net:7788/713591450
 
-世界杯赛事,#genre#
-猛哥足球,https://spqncdnct.inter.71edge.com/tslive/l1/c75_ssports_20260605_cmydoqin_720p_chst1_ts_t4/Yota2ZHuL6utkyFmQ0MLs6Uz2dVHPj1PwTMlw_vasB3uUmjrsSd0-qbHsM0eKfj62ePwfhe0N4U6S7Q86cZZQkTMCGr0W6Wm8WvwDE_NceSn3sCXGprMD30s-Bye7BRBgTD8kjVDSzyrW8WcQD4TXaUgF7poIxd1nYP87ojIFcFjfD-exBUHd5BCOrlN0HY_Oen8iHUQ0Jxn4dRydfvfEnM4a_MXPObxX3TBHogB6vng4LTKEG89FJc6tSBWzC866h0l_3UC2Kaa7LhPTenSbQ/10162553491b87fc67bc977490cfe00fd/c75_ssports_20260605_cmydoqin_720p_chst1_ts_t4.m3u8?key=0726813db4fa6267de819672edeeb84cc
-直播中,https://www.rtmpcdn.com/live/cctv5.m3u8
-世界杯瑞士Vs哥伦比亚,https://hlsz.yjjcfw.com/live/elta10.m3u8?expire=1783468468&sign=55738fdf37077b3415a8fd92bfad6475
-中央5台球赛,https://www.rtmpcdn.com/live/cctv5p.m3u8
-
 移动源,#genre#
 CCTV1,http://47.104.178.59:3566/608807420
 CCTV2,http://47.104.178.59:3566/631780532
@@ -1125,6 +1119,21 @@ CCTV16奥利匹克,http://74.91.26.218:82/live/cctv16hd.m3u8
 CCTV17农业农村,http://74.91.26.218:82/live/cctv17hd.m3u8
 CCTV5+体育赛事,http://74.91.26.218:82/live/cctv5p.m3u8
 CCTV16奥林匹克,http://74.91.26.218:82/live/cctv16hd.m3u8
+
+动画片💝,#genre#
+加菲猫,https://live.ottiptv.cc/huya/29837259
+超经典动画电影,https://live.ottiptv.cc/huya/30080256
+愤怒的小鸟,https://live.ottiptv.cc/huya/22487821
+加油，狐桃桃,https://live.ottiptv.cc/huya/27175393
+动画 传递快乐,https://live.ottiptv.cc/huya/26355818
+樱桃小丸子,https://live.ottiptv.cc/huya/11342394
+瑞克与莫蒂1-6 ,https://live.ottiptv.cc/huya/29982655
+大头儿子小头爸爸,https://live.ottiptv.cc/huya/20969114
+刘关张三活宝，Q版世界大爆笑,https://live.ottiptv.cc/huya/29465871
+小猪佩奇,https://live.ottiptv.cc/huya/25243980
+喜羊羊,https://live.ottiptv.cc/huya/31263346
+喜羊羊与灰太狼,https://live.ottiptv.cc/huya/23865080
+熊出没,https://live.ottiptv.cc/huya/25054344
 
 限时华数台☘️☘️💝,#genre#
 华数星影,http://192.144.185.155:6000/rtp/225.1.8.254:4120$北京市电信
