@@ -1168,6 +1168,7 @@ CCTV6流金岁月,https://www.9kds.com/d/1905.php?t=1&id=LIVEOYY31H24H48NE&kl=ww
 凤凰中文,http://46.196.228.jiaheyy.top/ftx.php?id=fhzw#http://iptv.cqshushu.com/migu.php?pid=fhzw&token=7271f7cff0c44df20722236fef3bac8a#http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
 凤凰资讯,http://46.196.228.jiaheyy.top/ftx.php?id=fhzx#http://iptv.cqshushu.com/migu.php?pid=fhzx&token=7271f7cff0c44df20722236fef3bac8a#http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+新唐人亚太台,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
 Red Bull TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 生命电视,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
 唯心电视,https://5ddce30eb4b55.streamlock.net/wxtv/wxtvnow.stream/playlist.m3u8
