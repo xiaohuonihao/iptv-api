@@ -748,10 +748,10 @@ w_400,https://live.ottiptv.cc/yy/1354693629
 少寒回归啦-真,https://live.ottiptv.cc/yy/13739310
 你的声音女友,https://live.ottiptv.cc/yy/1460008724
 4K测试,#genre#
+湖南4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 苏州4k,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 河北4k,https://event.pull.hebtv.com:443/live/live101.m3u8
 南国都市4K,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de$LR•IPV4
-东方卫视,4khttps://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 
 央视移动源,#genre#
 CCTV1综合,http://wfenf.x3322.net:7788/608807420
