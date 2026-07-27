@@ -244,6 +244,7 @@ TVBS,https://stream1.freetv.fun/tvbs-news-1.m3u8
 TVBS,https://stream1.freetv.fun/tvbsya-zhou-11.m3u8
 翡翠剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
 翡翠一台,http://cdn6.163189.xyz/163189/tvb1
+翡翠一台,https://cdn.qd.je/163189.php?id=tvb1
 黄金华剧,https://hls.163189.xyz/163189/71fb62ece10887e8
 有线新闻,https://cdn.163189.xyz/163189/hoy78
 有线综合,https://cdn6.163189.xyz/163189/hoy
@@ -276,6 +277,7 @@ ViuTV,https://cdn.qd.je/163189.php?id=viu
 港台电视33,http://cdn6.163189.xyz/163189/cctv1
 娱乐新闻台,https://cdn6.163189.xyz/163189/ylxw
 娱乐新闻台,http://cdn6.163189.xyz/163189/ylxw
+娱乐新闻台,https://cdn.qd.je/163189.php?id=ylxw
 纬来体育,https://smt.1678520.xyz/163189/b10b2645c6d9de2b
 纬来体育,https://cdn.19891230.eu.org/api/VL-Sports/index.m3u8
 纬来体育,https://smt.1678520.xyz/163189/wlty
@@ -825,4 +827,4 @@ S H E《4EVER世界巡回演唱会 完整版》珍藏版,https://vd3.bdstatic.co
 广*场*舞,#genre#
 
 🕘️更新时间,#genre#
-2026-07-26 13:42:18,https://live.chinacert.cftest5.cn/cnmg/live/608807420
+2026-07-27 13:54:17,https://live.chinacert.cftest5.cn/cnmg/live/608807420
