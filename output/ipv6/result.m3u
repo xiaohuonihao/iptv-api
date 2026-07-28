@@ -599,12 +599,26 @@ http://cdn6.163189.xyz/163189/amlh
 https://cdn12.178.indevs.in/163189/2973b910e7719c08
 #EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中视新闻.png" group-title="台湾频道",中视新闻
 https://4gtv.158.qzz.io/163189/1a62f7fd-8d11-4540-a6c7-ae34d9f059ee/
+#EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中视新闻.png" group-title="台湾频道",中视新闻
+http://4gtv.cnlive.club/channel/7e6461d6/index.m3u8?q=1782639885837
+#EXTINF:-1 tvg-id="华视新闻" tvg-name="华视新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/华视新闻.png" group-title="台湾频道",华视新闻
+http://4gtv.cnlive.club/channel/n692bc32c/index.m3u8?q=1782639885837
+#EXTINF:-1 tvg-id="民视新闻" tvg-name="民视新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/民视新闻.png" group-title="台湾频道",民视新闻
+http://4gtv.cnlive.club/channel/nca14742/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVBS新闻.png" group-title="台湾频道",TVBS新闻
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv072
+#EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVBS新闻.png" group-title="台湾频道",TVBS新闻
+http://4gtv.cnlive.club/channel/n1ea96b20/index.m3u8?q=1782639885837
+#EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东森新闻.png" group-title="台湾频道",东森新闻
+http://4gtv.cnlive.club/channel/n5ca63a3a/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中天新闻.png" group-title="台湾频道",中天新闻
 https://cdn.19891230.eu.org/4gtv/4gtv-4gtv009/index.m3u8
+#EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中天新闻.png" group-title="台湾频道",中天新闻
+http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/寰宇新闻.png" group-title="台湾频道",寰宇新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+#EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/寰宇新闻.png" group-title="台湾频道",寰宇新闻
+http://4gtv.cnlive.club/channel/n4da4274/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="年代新闻" tvg-name="年代新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/年代新闻.png" group-title="台湾频道",年代新闻
 https://cdn.19891230.eu.org/api/Era-News/index.m3u8
 #EXTINF:-1 tvg-id="中天综合台" tvg-name="中天综合台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中天综合台.png" group-title="台湾频道",中天综合台
@@ -613,8 +627,14 @@ https://cdn.19891230.eu.org/api/Cti-K/index.m3u8
 https://cdn.19891230.eu.org/api/Cti-E/index.m3u8
 #EXTINF:-1 tvg-id="中天亚洲台" tvg-name="中天亚洲台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中天亚洲台.png" group-title="台湾频道",中天亚洲台
 https://cdn.19891230.eu.org/api/Cti-I/index.m3u8
+#EXTINF:-1 tvg-id="民视台湾台" tvg-name="民视台湾台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/民视台湾台.png" group-title="台湾频道",民视台湾台
+http://4gtv.cnlive.club/channel/nce5d867/index.m3u8?q=1782639885837
+#EXTINF:-1 tvg-id="民视第一台" tvg-name="民视第一台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/民视第一台.png" group-title="台湾频道",民视第一台
+http://4gtv.cnlive.club/channel/nc56ba28/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="民视影剧台" tvg-name="民视影剧台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/民视影剧台.png" group-title="台湾频道",民视影剧台
 https://cdn12.178.indevs.in/163189/73d93f1c22fa91d7
+#EXTINF:-1 tvg-id="民视综艺台" tvg-name="民视综艺台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/民视综艺台.png" group-title="台湾频道",民视综艺台
+http://4gtv.cnlive.club/channel/nc46cff5/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="东森综合台" tvg-name="东森综合台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东森综合台.png" group-title="台湾频道",东森综合台
 https://cdn.19891230.eu.org/api/ET-Variety-Channel/index.m3u8
 #EXTINF:-1 tvg-id="东森综合台" tvg-name="东森综合台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东森综合台.png" group-title="台湾频道",东森综合台
@@ -635,6 +655,8 @@ https://cdn.19891230.eu.org/api/ET-Foreign-Movie-Channel/index.m3u8
 https://smt.1678520.xyz/163189/dsyp
 #EXTINF:-1 tvg-id="东森洋片台" tvg-name="东森洋片台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东森洋片台.png" group-title="台湾频道",东森洋片台
 https://cdn.qd.je/163189.php?id=dsyp
+#EXTINF:-1 tvg-id="东森财经新闻台" tvg-name="东森财经新闻台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东森财经新闻台.png" group-title="台湾频道",东森财经新闻台
+http://4gtv.cnlive.club/channel/57ce2e74/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="纬来戏剧台" tvg-name="纬来戏剧台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/纬来戏剧台.png" group-title="台湾频道",纬来戏剧台
 https://smt.1678520.xyz/163189/ab657380c65c1fd1
 #EXTINF:-1 tvg-id="纬来戏剧台" tvg-name="纬来戏剧台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/纬来戏剧台.png" group-title="台湾频道",纬来戏剧台
@@ -655,16 +677,48 @@ https://smt.1678520.xyz/163189/602e9465658d4f8c
 https://cdn.19891230.eu.org/api/VL-Movies/index.m3u8
 #EXTINF:-1 tvg-id="纬来电影台" tvg-name="纬来电影台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/纬来电影台.png" group-title="台湾频道",纬来电影台
 https://smt.1678520.xyz/163189/wldy
+#EXTINF:-1 tvg-id="三立综合台" tvg-name="三立综合台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/三立综合台.png" group-title="台湾频道",三立综合台
+http://4gtv.cnlive.club/channel/45c7d3e3/index.m3u8?q=1782639885837
+#EXTINF:-1 tvg-id="TVBS欢乐台" tvg-name="TVBS欢乐台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVBS欢乐台.png" group-title="台湾频道",TVBS欢乐台
+http://4gtv.cnlive.club/channel/498f035d/index.m3u8?q=1782639885837
+#EXTINF:-1 tvg-id="靖天综合台" tvg-name="靖天综合台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/靖天综合台.png" group-title="台湾频道",靖天综合台
+http://4gtv.cnlive.club/channel/3f6ecb92/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="靖天戏剧台" tvg-name="靖天戏剧台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/靖天戏剧台.png" group-title="台湾频道",靖天戏剧台
 https://cdn12.178.indevs.in/163189/177d541552f78003
+#EXTINF:-1 tvg-id="靖天戏剧台" tvg-name="靖天戏剧台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/靖天戏剧台.png" group-title="台湾频道",靖天戏剧台
+http://4gtv.cnlive.club/channel/3f07b409/index.m3u8?q=1782639885837
+#EXTINF:-1 tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/靖天卡通台.png" group-title="台湾频道",靖天卡通台
+http://4gtv.cnlive.club/channel/3ed78a45/index.m3u8?q=1782639885837
+#EXTINF:-1 tvg-id="靖天资讯台" tvg-name="靖天资讯台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/靖天资讯台.png" group-title="台湾频道",靖天资讯台
+http://4gtv.cnlive.club/channel/3fae463b/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="靖洋戏剧" tvg-name="靖洋戏剧" tvg-logo="https://www.xn--rgv465a.top/tvlogo/靖洋戏剧.png" group-title="台湾频道",靖洋戏剧
 https://cdn12.178.indevs.in/163189/25084ef5a2662aad
+#EXTINF:-1 tvg-id="靖洋戏剧" tvg-name="靖洋戏剧" tvg-logo="https://www.xn--rgv465a.top/tvlogo/靖洋戏剧.png" group-title="台湾频道",靖洋戏剧
+http://4gtv.cnlive.club/channel/48117ce7/index.m3u8?q=1782639885837
+#EXTINF:-1 tvg-id="靖天日本" tvg-name="靖天日本" tvg-logo="https://www.xn--rgv465a.top/tvlogo/靖天日本.png" group-title="台湾频道",靖天日本
+http://4gtv.cnlive.club/channel/3f1816f7/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="靖天映画" tvg-name="靖天映画" tvg-logo="https://www.xn--rgv465a.top/tvlogo/靖天映画.png" group-title="台湾频道",靖天映画
 https://cdn12.178.indevs.in/163189/bd4752bd7828b2bf
+#EXTINF:-1 tvg-id="靖天映画" tvg-name="靖天映画" tvg-logo="https://www.xn--rgv465a.top/tvlogo/靖天映画.png" group-title="台湾频道",靖天映画
+http://4gtv.cnlive.club/channel/n610faa83/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="靖天电影" tvg-name="靖天电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/靖天电影.png" group-title="台湾频道",靖天电影
 https://cdn12.178.indevs.in/163189/ed33509e03e78c7a
 #EXTINF:-1 tvg-id="靖天电影" tvg-name="靖天电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/靖天电影.png" group-title="台湾频道",靖天电影
 https://cdn12.178.indevs.in/163189/jtdy
+#EXTINF:-1 tvg-id="靖天电影" tvg-name="靖天电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/靖天电影.png" group-title="台湾频道",靖天电影
+http://4gtv.cnlive.club/channel/3fcf6ae8/index.m3u8?q=1782639885837
+#EXTINF:-1 tvg-id="靖天育乐" tvg-name="靖天育乐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/靖天育乐.png" group-title="台湾频道",靖天育乐
+http://4gtv.cnlive.club/channel/3f7d0a6e/index.m3u8?q=1782639885837
+#EXTINF:-1 tvg-id="大爱二台" tvg-name="大爱二台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/大爱二台.png" group-title="台湾频道",大爱二台
+http://4gtv.cnlive.club/channel/n7d3932e9/index.m3u8?q=1782639885837
+#EXTINF:-1 tvg-id="原住民族电视台" tvg-name="原住民族电视台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/原住民族电视台.png" group-title="台湾频道",原住民族电视台
+http://4gtv.cnlive.club/channel/4f20dc68/index.m3u8?q=1782639885837
+#EXTINF:-1 tvg-id="客家电视台" tvg-name="客家电视台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/客家电视台.png" group-title="台湾频道",客家电视台
+http://4gtv.cnlive.club/channel/n855e5fe/index.m3u8?q=1782639885837
+#EXTINF:-1 tvg-id="客家电视台" tvg-name="客家电视台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/客家电视台.png" group-title="台湾频道",客家电视台
+http://4gtv.cnlive.club/channel/n1f7f47/index.m3u8?q=1782639885837
+#EXTINF:-1 tvg-id="人间卫视" tvg-name="人间卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/人间卫视.png" group-title="台湾频道",人间卫视
+http://4gtv.cnlive.club/channel/7ed5b6d3/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="龙华电影台" tvg-name="龙华电影台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/龙华电影台.png" group-title="台湾频道",龙华电影台
 https://cdn8.163189.xyz/163189/lhdy
 #EXTINF:-1 tvg-id="龙华电影台" tvg-name="龙华电影台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/龙华电影台.png" group-title="台湾频道",龙华电影台
@@ -935,6 +989,10 @@ https://www.sgmsw.cn/v/tv?spm=0.0.0.0.nRYAvk&id=SB05RIYZOU8JR418AUQOF62CAJQ08D0E
 https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
 #EXTINF:-1 tvg-id="河源综合" tvg-name="河源综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河源综合.png" group-title="广东",河源综合
 https://www.hyrtv.cn/itv/zhds/
+#EXTINF:-1 tvg-id="客家电视台" tvg-name="客家生活" tvg-logo="https://www.xn--rgv465a.top/tvlogo/客家生活.png" group-title="广东",客家生活
+http://4gtv.cnlive.club/channel/n855e5fe/index.m3u8?q=1782639885837
+#EXTINF:-1 tvg-id="客家电视台" tvg-name="客家生活" tvg-logo="https://www.xn--rgv465a.top/tvlogo/客家生活.png" group-title="广东",客家生活
+http://4gtv.cnlive.club/channel/n1f7f47/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/湖南卫视.png" group-title="湖南",湖南卫视
 https://live.chinacert.cftest5.cn/zgst/live/hunan
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/湖南卫视.png" group-title="湖南",湖南卫视
@@ -1459,5 +1517,5 @@ https://vd3.bdstatic.com/mda-pac5q1he7r5wjykx/576p/h264/1673583274906869271/mda-
 https://vd3.bdstatic.com/mda-nmkefmyd0arci215/576p/h264/1671618057578437373/mda-nmkefmyd0arci215.mp4
 #EXTINF:-1 tvg-id="宝丽金《成立20周年 1990群星演唱会完整版》" tvg-name="宝丽金《成立20周年 1990群星演唱会完整版》" tvg-logo="https://www.xn--rgv465a.top/tvlogo/宝丽金《成立20周年 1990群星演唱会完整版》.png" group-title="演*唱*会",宝丽金《成立20周年 1990群星演唱会完整版》
 https://vd3.bdstatic.com/mda-pbp4sapcn5kmpxhg/hd/cae_h264/1677214872094217006/mda-pbp4sapcn5kmpxhg.mp4
-#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-07-27 13:54:17
+#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-07-28 13:30:18
 https://live.chinacert.cftest5.cn/cnmg/live/608807420

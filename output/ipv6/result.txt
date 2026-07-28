@@ -313,14 +313,24 @@ ViuTV,https://cdn.qd.je/163189.php?id=viu
 台湾频道,#genre#
 公视,https://cdn12.178.indevs.in/163189/2973b910e7719c08
 中视新闻,https://4gtv.158.qzz.io/163189/1a62f7fd-8d11-4540-a6c7-ae34d9f059ee/
+中视新闻,http://4gtv.cnlive.club/channel/7e6461d6/index.m3u8?q=1782639885837
+华视新闻,http://4gtv.cnlive.club/channel/n692bc32c/index.m3u8?q=1782639885837
+民视新闻,http://4gtv.cnlive.club/channel/nca14742/index.m3u8?q=1782639885837
 TVBS新闻,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv072
+TVBS新闻,http://4gtv.cnlive.club/channel/n1ea96b20/index.m3u8?q=1782639885837
+东森新闻,http://4gtv.cnlive.club/channel/n5ca63a3a/index.m3u8?q=1782639885837
 中天新闻,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv009/index.m3u8
+中天新闻,http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1782639885837
 寰宇新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+寰宇新闻,http://4gtv.cnlive.club/channel/n4da4274/index.m3u8?q=1782639885837
 年代新闻,https://cdn.19891230.eu.org/api/Era-News/index.m3u8
 中天综合台,https://cdn.19891230.eu.org/api/Cti-K/index.m3u8
 中天娱乐台,https://cdn.19891230.eu.org/api/Cti-E/index.m3u8
 中天亚洲台,https://cdn.19891230.eu.org/api/Cti-I/index.m3u8
+民视台湾台,http://4gtv.cnlive.club/channel/nce5d867/index.m3u8?q=1782639885837
+民视第一台,http://4gtv.cnlive.club/channel/nc56ba28/index.m3u8?q=1782639885837
 民视影剧台,https://cdn12.178.indevs.in/163189/73d93f1c22fa91d7
+民视综艺台,http://4gtv.cnlive.club/channel/nc46cff5/index.m3u8?q=1782639885837
 东森综合台,https://cdn.19891230.eu.org/api/ET-Variety-Channel/index.m3u8
 东森综合台,https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 东森戏剧台,https://smt.1678520.xyz/163189/f60cd3f14b06dabc
@@ -331,6 +341,7 @@ TVBS新闻,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&i
 东森洋片台,https://cdn.19891230.eu.org/api/ET-Foreign-Movie-Channel/index.m3u8
 东森洋片台,https://smt.1678520.xyz/163189/dsyp
 东森洋片台,https://cdn.qd.je/163189.php?id=dsyp
+东森财经新闻台,http://4gtv.cnlive.club/channel/57ce2e74/index.m3u8?q=1782639885837
 纬来戏剧台,https://smt.1678520.xyz/163189/ab657380c65c1fd1
 纬来戏剧台,https://cdn.19891230.eu.org/api/VL-Drama/index.m3u8
 纬来戏剧台,https://smt.1678520.xyz/163189/wlxj
@@ -341,11 +352,27 @@ TVBS新闻,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&i
 纬来电影台,https://smt.1678520.xyz/163189/602e9465658d4f8c
 纬来电影台,https://cdn.19891230.eu.org/api/VL-Movies/index.m3u8
 纬来电影台,https://smt.1678520.xyz/163189/wldy
+三立综合台,http://4gtv.cnlive.club/channel/45c7d3e3/index.m3u8?q=1782639885837
+TVBS欢乐台,http://4gtv.cnlive.club/channel/498f035d/index.m3u8?q=1782639885837
+靖天综合台,http://4gtv.cnlive.club/channel/3f6ecb92/index.m3u8?q=1782639885837
 靖天戏剧台,https://cdn12.178.indevs.in/163189/177d541552f78003
+靖天戏剧台,http://4gtv.cnlive.club/channel/3f07b409/index.m3u8?q=1782639885837
+靖天卡通台,http://4gtv.cnlive.club/channel/3ed78a45/index.m3u8?q=1782639885837
+靖天资讯台,http://4gtv.cnlive.club/channel/3fae463b/index.m3u8?q=1782639885837
 靖洋戏剧,https://cdn12.178.indevs.in/163189/25084ef5a2662aad
+靖洋戏剧,http://4gtv.cnlive.club/channel/48117ce7/index.m3u8?q=1782639885837
+靖天日本,http://4gtv.cnlive.club/channel/3f1816f7/index.m3u8?q=1782639885837
 靖天映画,https://cdn12.178.indevs.in/163189/bd4752bd7828b2bf
+靖天映画,http://4gtv.cnlive.club/channel/n610faa83/index.m3u8?q=1782639885837
 靖天电影,https://cdn12.178.indevs.in/163189/ed33509e03e78c7a
 靖天电影,https://cdn12.178.indevs.in/163189/jtdy
+靖天电影,http://4gtv.cnlive.club/channel/3fcf6ae8/index.m3u8?q=1782639885837
+靖天育乐,http://4gtv.cnlive.club/channel/3f7d0a6e/index.m3u8?q=1782639885837
+大爱二台,http://4gtv.cnlive.club/channel/n7d3932e9/index.m3u8?q=1782639885837
+原住民族电视台,http://4gtv.cnlive.club/channel/4f20dc68/index.m3u8?q=1782639885837
+客家电视台,http://4gtv.cnlive.club/channel/n855e5fe/index.m3u8?q=1782639885837
+客家电视台,http://4gtv.cnlive.club/channel/n1f7f47/index.m3u8?q=1782639885837
+人间卫视,http://4gtv.cnlive.club/channel/7ed5b6d3/index.m3u8?q=1782639885837
 龙华电影台,https://cdn8.163189.xyz/163189/lhdy
 龙华电影台,http://cdn8.163189.xyz/163189/lhdy
 龙华电影台,http://cdn.qd.je/163189.php?id=lhdy
@@ -495,6 +522,8 @@ astro爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
 韶关综合,https://www.sgmsw.cn/v/tv?spm=0.0.0.0.nRYAvk&id=SB05RIYZOU8JR418AUQOF62CAJQ08D0E
 韶关综合,https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
 河源综合,https://www.hyrtv.cn/itv/zhds/
+客家生活,http://4gtv.cnlive.club/channel/n855e5fe/index.m3u8?q=1782639885837
+客家生活,http://4gtv.cnlive.club/channel/n1f7f47/index.m3u8?q=1782639885837
 
 湖南,#genre#
 湖南卫视,https://live.chinacert.cftest5.cn/zgst/live/hunan
@@ -827,4 +856,4 @@ S H E《4EVER世界巡回演唱会 完整版》珍藏版,https://vd3.bdstatic.co
 广*场*舞,#genre#
 
 🕘️更新时间,#genre#
-2026-07-27 13:54:17,https://live.chinacert.cftest5.cn/cnmg/live/608807420
+2026-07-28 13:30:18,https://live.chinacert.cftest5.cn/cnmg/live/608807420
