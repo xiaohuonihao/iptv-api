@@ -28,7 +28,7 @@
  https://ghfast.top/https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/zubo_all.txt
  https://123.tv1288.xyz/sm2.txt
  https://0419.xn--jfx065ba424q.top
-
+http://zb.1217188.xyz:2233/playlist.txt
  # http://wangziduoqing.com/yuan/zb.txt
 
 [WHITELIST]
