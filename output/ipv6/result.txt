@@ -565,6 +565,7 @@ AXN,http://hls127.freeott.top:8080/BG_AXN_Black/video.m3u8
 AXN,http://hls127.freeott.top:8080/BG_AXN_White/video.m3u8
 Star Movies,https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
 Star Movies,https://jmp2.uk/plu-6400c281dff38e00083f59da.m3u8
+Star Movies,https://jmp2.uk/plu-6400c2a6cb41a40008dbe5bc.m3u8
 tvN,https://tvb.go-iptv.ggff.net/stream/tvb/tvn/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
 tvN,https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
 阿里郎电视台,https://dash3.antik.sk/live/test_arirang/playlist.m3u8
@@ -1182,8 +1183,12 @@ astro爱奇艺,https://cdn3.indevs.in/stream/live/iqiyi/
 张家口公共,http://yaching.xmtcenter.com:9999/rtp/239.254.200.36:6000
 承德新闻,http://yaching.xmtcenter.com:9999/rtp/239.254.200.32:6000
 承德新闻,http://yaching.xmtcenter.com:9999/rtp/239.254.200.33:6000
+承德新闻,https://jwcdnqx.hebyun.com.cn/live/cdsxwzhtv/1500k/tzwj_video.m3u8
+承德新闻,https://jwcdnqx.hebyun.com.cn/live/cdsggshtv/1500k/tzwj_video.m3u8
 承德公共,http://yaching.xmtcenter.com:9999/rtp/239.254.200.32:6000
 承德公共,http://yaching.xmtcenter.com:9999/rtp/239.254.200.33:6000
+承德公共,https://jwcdnqx.hebyun.com.cn/live/cdsxwzhtv/1500k/tzwj_video.m3u8
+承德公共,https://jwcdnqx.hebyun.com.cn/live/cdsggshtv/1500k/tzwj_video.m3u8
 沧州新闻,https://www.czgd.tv/Article/des?infoid=32768&modelid=3
 沧州新闻,https://www.czgd.tv/Article/des?infoid=32769&modelid=3
 沧州新闻,https://www.czgd.tv/Article/des?infoid=32770&modelid=3
@@ -1502,4 +1507,4 @@ S H E《4EVER世界巡回演唱会 完整版》珍藏版,https://vd3.bdstatic.co
 广*场*舞,#genre#
 
 🕘️更新时间,#genre#
-2026-09-11 04:16:32,https://live.chinacert.cftest5.cn/cnmg/live/608807420
+2026-09-11 15:07:17,https://live.chinacert.cftest5.cn/cnmg/live/608807420
