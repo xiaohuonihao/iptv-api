@@ -3,6 +3,17 @@
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
  # http://wangziduoqing.com/yuan/zb.txt
+# 整套大马perfect TV：
+# 720画质要马来节点:
+# 同第一条的1080画质要马来节点：
+# 同上面条1080画质要马来节点：
+# 【西方极乐世界，美国梯】：
+# 【4gtv怡淳酒店,台湾家宽看全部,ok壳专用,json放点播,txt放直播】：
+# 世界杯咖啡体育
+# 世界杯OK体育
+ # https://gh-proxy.org/https://raw.githubusercontent.com/xiaolong-nihao/IPTV-api/refs/heads/master/output/zblove.txt
+ # https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
+ # https://18592.kstore.space/TVBox/gangaotai.txt
  https://18592.kstore.space/%E6%B5%8B%E8%AF%95/01.json
  https://gh-proxy.org/https://raw.githubusercontent.com/xiaolong-nihao/iptvzb/refs/heads/main/zubo.txt
  https://gh-proxy.org/https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/webview-X5.m3u
@@ -11,7 +22,6 @@
  https://cnb.cool/fgvss/zbds/-/git/raw/main/zbtvupan.txt
  http://rihou.cc:555/gggg.nzk
  http://rihou.cc:567/gggg.nzk
- https://sub.ottiptv.cc/yylunbo.m3u
  https://gh-proxy.org/https://raw.githubusercontent.com/cs3306/IPTV-Sources/refs/heads/main/data/output/iptv_collection.m3u
  https://raw.githubusercontent.com/tianze889/vbd/refs/heads/main/zbdsj0515.txt
  https://gh-proxy.org/https://raw.githubusercontent.com/qingtingjjjjjjj/iptv-auto-update/refs/heads/main/my.txt
@@ -27,36 +37,20 @@
  https://123.tv1288.xyz/sm2.txt
  https://0419.xn--jfx065ba424q.top
 http://zb.1217188.xyz:2233/playlist.txt
-https://4tv.0186.ccwu.cc
-
-# 整套大马perfect TV：
-# 720画质要马来节点:
 http://xtvantsc.xyz/MALAYSIA.m3u
-
-# 同第一条的1080画质要马来节点：
 http://xtvantsc.xyz/1080.m3u
-
-# 同上面条1080画质要马来节点：
-https://raw.githubusercontent.com/penulisradio/1234-asdf-zxcv/refs/heads/main/editor.m3u   
 https://perfecttv.net/PerfecttvFree.m3u
 https://get.perfecttv.net/PerfecttvFree3.m3u
-# 【西方极乐世界，美国梯】：
-https://garyshare.sharewithyou.dpdns.org/mylist.m3u
-
-# 【4gtv怡淳酒店,台湾家宽看全部,ok壳专用,json放点播,txt放直播】：
-http://xtvantsc.xyz/4gtv.json
 http://xtvantsc.xyz/4gtv.txt
-# 世界杯咖啡体育
-https://jsnzkpg.us.ci/live.m3u
-https://iptv.catvod.com/kf/catvod.m3u
-# 世界杯OK体育
-https://sports.jsnzkpg.ccwu.cc/live.m3u
 
-
-
- # https://gh-proxy.org/https://raw.githubusercontent.com/xiaolong-nihao/IPTV-api/refs/heads/master/output/zblove.txt
- # https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
- # https://18592.kstore.space/TVBox/gangaotai.txt
+ # https://sub.ottiptv.cc/yylunbo.m3u
+# https://4tv.0186.ccwu.cc
+# https://raw.githubusercontent.com/penulisradio/1234-asdf-zxcv/refs/heads/main/editor.m3u
+# https://garyshare.sharewithyou.dpdns.org/mylist.m3u
+# http://xtvantsc.xyz/4gtv.json
+# https://jsnzkpg.us.ci/live.m3u
+# https://iptv.catvod.com/kf/catvod.m3u
+# https://sports.jsnzkpg.ccwu.cc/live.m3u
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。

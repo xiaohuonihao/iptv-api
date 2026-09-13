@@ -15,8 +15,12 @@ CCTV-4,https://live.chinacert.cftest5.cn/cnmg/live/608807416
 CCTV-5,https://live.chinacert.cftest5.cn/cnmg/live/641886683
 CCTV-5,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv05ty
 CCTV-5,https://live.chinacert.cftest5.cn/cnmg/live/641886773
+CCTV-5,https://cdn.qd.je/163189.php?id=cctv5
+CCTV-5,https://cdn.qd.je/163189.php?id=cctv5-2
 CCTV-5+,https://live.chinacert.cftest5.cn/cnmg/live/641886773
 CCTV-5+,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv05pl
+CCTV-5+,https://cdn.qd.je/163189.php?id=cctv5p
+CCTV-5+,https://cdn.qd.je/163189.php?id=cctv5p-2
 CCTV-6,https://live.chinacert.cftest5.cn/cnmg/live/624878396
 CCTV-6,https://www.9kds.com/d/1905.php?t=1&id=LIVE8J4LTCXPI7QJ5_261&kl=www.9kds.com
 CCTV-6,https://www.9kds.com/d/1905.php?t=1&id=LIVEOYY31H24H48NE&kl=www.9kds.com
@@ -44,9 +48,13 @@ CCTV-14,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051
 CCTV-15,https://live.chinacert.cftest5.cn/cnmg/live/673168223
 CCTV-15,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv15yy
 CCTV-16,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv16ay
+CCTV-16,https://cdn.qd.je/163189.php?id=cctv16
+CCTV-16,https://cdn.qd.je/163189.php?id=cctv16-2
 CCTV-17,https://live.chinacert.cftest5.cn/cnmg/live/673168256
 CCTV-17,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv17ny
 CCTV16 4K,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv16ay
+CCTV16 4K,https://cdn.qd.je/163189.php?id=cctv16
+CCTV16 4K,https://cdn.qd.je/163189.php?id=cctv16-2
 CETV1,https://tv.gxtv.cn/channel/channelivePlay_ffa6b6e1b32b4a16a73eb3ef66f8bfc7.html
 CETV1,https://live.chinacert.cftest5.cn/cnmg/live/923287154
 CETV2,https://tv.gxtv.cn/channel/channelivePlay_80d0ffb42c114eaf9663708629ff0a3e.html
@@ -248,8 +256,12 @@ CCTV中学生,https://live.chinacert.cftest5.cn/cnmg/live/708869532
 CCTV-5,https://live.chinacert.cftest5.cn/cnmg/live/641886683
 CCTV-5,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv05ty
 CCTV-5,https://live.chinacert.cftest5.cn/cnmg/live/641886773
+CCTV-5,https://cdn.qd.je/163189.php?id=cctv5
+CCTV-5,https://cdn.qd.je/163189.php?id=cctv5-2
 CCTV-5+,https://live.chinacert.cftest5.cn/cnmg/live/641886773
 CCTV-5+,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv05pl
+CCTV-5+,https://cdn.qd.je/163189.php?id=cctv5p
+CCTV-5+,https://cdn.qd.je/163189.php?id=cctv5p-2
 广东体育,http://r.jdshipin.com/LiYdg
 广东体育,https://cdn2.163189.xyz/163189/gdty
 广东体育,http://cdn2.163189.xyz/163189/gdty
@@ -276,7 +288,10 @@ CCTV-5+,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051
 吉林篮球,https://live.chinacert.cftest5.cn/zgst/live/jilin
 吉林篮球,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsjilin
 吉林篮球,https://live.chinacert.cftest5.cn/cnmg/live/947472500
+博斯高球,https://hb.msbot.dpdns.org/?id=sportcast-golf
 博斯网球,https://cdn.19891230.eu.org/4gtv/litv-xinchuang09/index.m3u8
+博斯网球,https://hb.msbot.dpdns.org/?id=sportcast-tennis
+智林体育,https://hb.msbot.dpdns.org/?id=oursport
 快乐垂钓,https://live.chinacert.cftest5.cn/cnmg/live/961930263
 
 香港频道,#genre#
@@ -344,6 +359,7 @@ TVBS,https://stream1.freetv.fun/tvbsya-zhou-11.m3u8
 翡翠剧集,https://cdn.qd.je/163189/tvbd
 翡翠剧集,http://cdn6.cc.cd/163189/tvbd
 翡翠剧集,https://cdn6.cc.cd/163189/tvbd
+翡翠剧集,https://cdn.qd.je/163189.php?id=tvbd
 翡翠娱乐,https://tv.media4u.top:443/live/media4u/media4u/402157
 翡翠一台,http://cdn6.163189.xyz/163189/tvb1
 翡翠一台,https://cdn.qd.je/163189.php?id=tvb1
@@ -385,10 +401,12 @@ ViuTV,https://cdn.qd.je/163189.php?id=viu
 港台电视31,http://cdn.163189.xyz/163189/rthk31
 港台电视31,https://cdn.qd.je/163189/rthk31
 港台电视31,https://fast.hidns.vip/163189/rthk31
+港台电视31,https://cdn.qd.je/163189.php?id=rthk31
 港台电视32,https://cdn.163189.xyz/163189/rthk32
 港台电视32,http://cdn.163189.xyz/163189/rthk32
 港台电视32,https://cdn.qd.je/163189/rthk32
 港台电视32,https://fast.hidns.vip/163189/rthk32
+港台电视32,https://cdn.qd.je/163189.php?id=rthk32
 港台电视33,http://cdn6.163189.xyz/163189/cctv1
 娱乐新闻台,https://cdn6.163189.xyz/163189/ylxw
 娱乐新闻台,http://cdn6.163189.xyz/163189/ylxw
@@ -452,9 +470,11 @@ ViuTV,https://cdn.qd.je/163189.php?id=viu
 中视新闻,http://4gtv.cnlive.club/channel/7e6461d6/index.m3u8?q=1782639885837
 华视新闻,http://4gtv.cnlive.club/channel/n692bc32c/index.m3u8?q=1782639885837
 民视新闻,http://4gtv.cnlive.club/channel/nca14742/index.m3u8?q=1782639885837
+民视新闻,https://hb.msbot.dpdns.org/?id=ftv-news
 TVBS新闻,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv072
 TVBS新闻,http://4gtv.cnlive.club/channel/n1ea96b20/index.m3u8?q=1782639885837
 东森新闻,http://4gtv.cnlive.club/channel/n5ca63a3a/index.m3u8?q=1782639885837
+东森新闻,https://hb.msbot.dpdns.org/?id=ebc-news
 中天新闻,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv009/index.m3u8
 中天新闻,http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1782639885837
 中天新闻,https://pulltest-gem.alivecdn.com/live/ogVoQHdl8jVsdsH4o82zYFquhPEy4XWeWisjW2fHs4Oew26P63.flv
@@ -484,6 +504,7 @@ TVBS新闻,http://4gtv.cnlive.club/channel/n1ea96b20/index.m3u8?q=1782639885837
 东森洋片台,https://cdn.qd.je/163189.php?id=dsyp
 东森财经新闻台,http://4gtv.cnlive.club/channel/57ce2e74/index.m3u8?q=1782639885837
 东森财经新闻台,https://tv.media4u.top:443/live/media4u/media4u/316103
+东森财经新闻台,https://hb.msbot.dpdns.org/?id=ebc-finance
 纬来戏剧台,https://smt.1678520.xyz/163189/ab657380c65c1fd1
 纬来戏剧台,https://cdn.19891230.eu.org/api/VL-Drama/index.m3u8
 纬来戏剧台,https://smt.1678520.xyz/163189/wlxj
@@ -555,6 +576,7 @@ TVBS欢乐台,http://4gtv.cnlive.club/channel/498f035d/index.m3u8?q=178263988583
 龙华洋片台,http://cdn8.163189.xyz/163189/lhyp
 龙华洋片台,https://cdn.qd.je/163189/lhyp
 龙华洋片台,https://8.fast.hidns.vip/163189/lhyp
+龙华洋片台,https://cdn.qd.je/163189.php?id=lhyp
 东森电影台,https://smt.1678520.xyz/163189/a2c09ea65fb10aa2
 东森电影台,https://cdn.19891230.eu.org/api/ET-Movie/index.m3u8
 东森电影台,https://smt.1678520.xyz/163189/dsdy
@@ -568,6 +590,7 @@ Star Movies,https://jmp2.uk/plu-6400c281dff38e00083f59da.m3u8
 Star Movies,https://jmp2.uk/plu-6400c2a6cb41a40008dbe5bc.m3u8
 tvN,https://tvb.go-iptv.ggff.net/stream/tvb/tvn/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
 tvN,https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
+tvN,https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
 阿里郎电视台,https://dash3.antik.sk/live/test_arirang/playlist.m3u8
 天映经典台,https://o11.163189.xyz/stream/live/ccm/
 天映经典台,http://o11.163189.xyz/stream/live/ccm/
@@ -585,6 +608,8 @@ tvN,https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
 千禧经典台,https://smt.1678520.xyz/smt3.2.3.php?id=Tvbclassic
 千禧经典台,https://cdn.qd.je/163189/tvbc
 博斯网球台,https://cdn.19891230.eu.org/4gtv/litv-xinchuang09/index.m3u8
+博斯网球台,https://hb.msbot.dpdns.org/?id=sportcast-tennis
+博斯高球台,https://hb.msbot.dpdns.org/?id=sportcast-golf
 五星体育台,https://cdn15.163189.xyz/163189/9c893bb003e1c7de
 五星体育台,https://cdn15.163189.xyz/163189/wxty
 五星体育台,https://cdn.qd.je/163189.php?id=wxty
@@ -593,7 +618,10 @@ MoMo亲子台,http://4gtv.cnlive.club/channel/n33a56e39/index.m3u8?q=17826398858
 龙华卡通台,https://cdn.qd.je/163189/lhkt
 龙华卡通台,https://8.fast.hidns.vip/163189/lhkt
 龙华卡通台,http://8.fast.hidns.vip/163189/lhkt
+龙华卡通台,https://cdn.qd.je/163189.php?id=lhkt
 Animax,https://stream1.freetv.fun/animax-1.m3u8
+Animax,https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
+德国之声,https://hb.msbot.dpdns.org/?id=dw
 Now星影,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=07jkor
 astro-QJ,https://o11.163189.xyz/stream/live/qj/
 astro-QJ,https://smt.1678520.xyz/smt3.2.3.php?id=Quanjia
@@ -614,6 +642,7 @@ astro欢喜,https://cdn.qd.je/163189/hxt
 astro爱奇艺,http://o11.163189.xyz/stream/live/iqiyi/
 astro爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
 astro爱奇艺,https://cdn3.indevs.in/stream/live/iqiyi/
+智林体育,https://hb.msbot.dpdns.org/?id=oursport
 
 综艺频道,#genre#
 欢乐集结号,https://live.ottiptv.cc/yy/1354931582
@@ -1507,4 +1536,4 @@ S H E《4EVER世界巡回演唱会 完整版》珍藏版,https://vd3.bdstatic.co
 广*场*舞,#genre#
 
 🕘️更新时间,#genre#
-2026-09-12 15:14:10,https://live.chinacert.cftest5.cn/cnmg/live/608807420
+2026-09-13 15:59:48,https://live.chinacert.cftest5.cn/cnmg/live/608807420
