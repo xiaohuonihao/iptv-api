@@ -6,12 +6,15 @@ CCTV-1,https://cdn6.163189.xyz/163189/cctv1
 CCTV-1,https://cdn.qd.je/163189/cctv1
 CCTV-2,https://live.chinacert.cftest5.cn/cnmg/live/631780532
 CCTV-2,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv02jj
+CCTV-2,http://www.ikerobot.com:1234/631780532
 CCTV-3,https://live.chinacert.cftest5.cn/cnmg/live/624878271
 CCTV-3,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv03zy
+CCTV-3,http://www.ikerobot.com:1234/624878271
 CCTV-4,https://live.chinacert.cftest5.cn/cnmg/live/631780421
 CCTV-4,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv04zw
 CCTV-4,https://live.chinacert.cftest5.cn/cnmg/live/608807419
 CCTV-4,https://live.chinacert.cftest5.cn/cnmg/live/608807416
+CCTV-4,http://www.ikerobot.com:1234/631780421
 CCTV-5,https://live.chinacert.cftest5.cn/cnmg/live/641886683
 CCTV-5,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv05ty
 CCTV-5,https://live.chinacert.cftest5.cn/cnmg/live/641886773
@@ -21,22 +24,30 @@ CCTV-5+,https://live.chinacert.cftest5.cn/cnmg/live/641886773
 CCTV-5+,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv05pl
 CCTV-5+,https://cdn.qd.je/163189.php?id=cctv5p
 CCTV-5+,https://cdn.qd.je/163189.php?id=cctv5p-2
+CCTV-5+,http://www.ikerobot.com:1234/641886773
 CCTV-6,https://live.chinacert.cftest5.cn/cnmg/live/624878396
 CCTV-6,https://www.9kds.com/d/1905.php?t=1&id=LIVE8J4LTCXPI7QJ5_261&kl=www.9kds.com
 CCTV-6,https://www.9kds.com/d/1905.php?t=1&id=LIVEOYY31H24H48NE&kl=www.9kds.com
 CCTV-6,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv06dy
+CCTV-6,http://www.ikerobot.com:1234/624878396
 CCTV-7,https://live.chinacert.cftest5.cn/cnmg/live/673168121
 CCTV-7,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv07js
+CCTV-7,http://www.ikerobot.com:1234/673168121
 CCTV-8,https://live.chinacert.cftest5.cn/cnmg/live/624878356
 CCTV-8,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv08dsj
+CCTV-8,http://www.ikerobot.com:1234/624878356
 CCTV-9,https://live.chinacert.cftest5.cn/cnmg/live/673168140
 CCTV-9,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv09jl
+CCTV-9,http://www.ikerobot.com:1234/673168140
 CCTV-10,https://live.chinacert.cftest5.cn/cnmg/live/624878405
 CCTV-10,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv10jy
+CCTV-10,http://www.ikerobot.com:1234/624878405
 CCTV-11,https://live.chinacert.cftest5.cn/cnmg/live/667987558
 CCTV-11,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv11xq
+CCTV-11,http://www.ikerobot.com:1234/667987558
 CCTV-12,https://live.chinacert.cftest5.cn/cnmg/live/673168185
 CCTV-12,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv12sf
+CCTV-12,http://www.ikerobot.com:1234/673168185
 CCTV-13,https://live.chinacert.cftest5.cn/cnmg/live/608807423
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8#http://tvbox6.icu/tv/migu.php?id=cctv13
 CCTV-13,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv13xw
@@ -45,27 +56,36 @@ CCTV-13,https://cdn.qd.je/163189/cctv13-2
 CCTV-14,https://live.chinacert.cftest5.cn/cnmg/live/624878440
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#http://tvbox6.icu/tv/migu.php?id=cctv14
 CCTV-14,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv14se
+CCTV-14,http://www.ikerobot.com:1234/624878440
 CCTV-15,https://live.chinacert.cftest5.cn/cnmg/live/673168223
 CCTV-15,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv15yy
+CCTV-15,http://www.ikerobot.com:1234/673168223
 CCTV-16,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv16ay
 CCTV-16,https://cdn.qd.je/163189.php?id=cctv16
 CCTV-16,https://cdn.qd.je/163189.php?id=cctv16-2
 CCTV-17,https://live.chinacert.cftest5.cn/cnmg/live/673168256
 CCTV-17,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv17ny
+CCTV-17,http://www.ikerobot.com:1234/673168256
 CCTV16 4K,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv16ay
 CCTV16 4K,https://cdn.qd.je/163189.php?id=cctv16
 CCTV16 4K,https://cdn.qd.je/163189.php?id=cctv16-2
 CETV1,https://tv.gxtv.cn/channel/channelivePlay_ffa6b6e1b32b4a16a73eb3ef66f8bfc7.html
 CETV1,https://live.chinacert.cftest5.cn/cnmg/live/923287154
+CETV1,http://www.ikerobot.com:1234/923287154
 CETV2,https://tv.gxtv.cn/channel/channelivePlay_80d0ffb42c114eaf9663708629ff0a3e.html
 CETV2,https://live.chinacert.cftest5.cn/cnmg/live/923287211
+CETV2,http://www.ikerobot.com:1234/923287211
 CETV4,https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca90800fb4225.html
 CETV4,https://live.chinacert.cftest5.cn/cnmg/live/923287339
+CETV4,http://www.ikerobot.com:1234/923287339
 cctv4欧洲,https://live.chinacert.cftest5.cn/cnmg/live/608807419
+cctv4欧洲,http://www.ikerobot.com:1234/608807419
 cctv4美洲,https://live.chinacert.cftest5.cn/cnmg/live/608807416
+cctv4美洲,http://www.ikerobot.com:1234/608807416
 CGTN英语,https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 CGTN记录,https://0472.org/hls/cgtnd.m3u8?3.24.120:5140
 CGTN记录,https://0472.org/hls/cgtnd.m3u8
+CGTN记录,http://www.ikerobot.com:1234/609006487
 CGTN俄语,https://live.chinacert.cftest5.cn/cnmg/live/609006446
 CGTN俄语,https://0472.org/hls/cgtne.m3u8
 CGTN俄语,https://0472.org/hls/cgtne.m3u8?3.24.170:5140
@@ -101,6 +121,7 @@ CCTV中学生,https://live.chinacert.cftest5.cn/cnmg/live/708869532
 湖北卫视,https://live.douyin.com/596554118511
 湖北卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wshubei
 湖北卫视,https://live.chinacert.cftest5.cn/cnmg/live/947472496
+湖北卫视,http://www.ikerobot.com:1234/947472496
 安徽卫视,https://live.chinacert.cftest5.cn/zgst/live/anhui
 安徽卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsanhui
 安徽卫视,https://www.ahtv.cn/folder9000/folder20193?channelIndex=0
@@ -111,6 +132,7 @@ CCTV中学生,https://live.chinacert.cftest5.cn/cnmg/live/708869532
 重庆卫视,https://live.chinacert.cftest5.cn/zgst/live/zhongqing
 重庆卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC
 重庆卫视,https://live.chinacert.cftest5.cn/cnmg/live/738910914
+重庆卫视,http://www.ikerobot.com:1234/738910914
 东方卫视,https://live.chinacert.cftest5.cn/zgst/live/dongfang
 东方卫视,http://cdn.jdshipin.com/kkxw.php?id=1
 东方卫视,http://jsmov2.a.yximgs.com/bs3/video-hls/5222205346628851891_hlsb.m3u8
@@ -145,9 +167,11 @@ CCTV中学生,https://live.chinacert.cftest5.cn/cnmg/live/708869532
 河南卫视,https://live.chinacert.cftest5.cn/cnmg/live/790187291
 河南卫视,https://tv1288.xyz/hntv.php?id=hnws
 河南卫视,https://tv1288.xyz/hntv.php?id=hnly
+河南卫视,http://www.ikerobot.com:1234/790187291
 吉林卫视,https://live.chinacert.cftest5.cn/zgst/live/jilin
 吉林卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsjilin
 吉林卫视,https://live.chinacert.cftest5.cn/cnmg/live/947472500
+吉林卫视,http://www.ikerobot.com:1234/947472500
 江苏卫视,https://live.chinacert.cftest5.cn/zgst/live/jiangsu
 江苏卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsjiangsu
 江苏卫视,https://www.gdtv.cn/tvChannelDetail/100
@@ -184,6 +208,7 @@ CCTV中学生,https://live.chinacert.cftest5.cn/cnmg/live/708869532
 青海卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsqinghai
 青海卫视,https://live.chinacert.cftest5.cn/cnmg/live/947472506
 青海卫视,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
+青海卫视,http://www.ikerobot.com:1234/947472506
 山西卫视,https://live.chinacert.cftest5.cn/zgst/live/shanxi
 山西卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsshanxi1
 陕西卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/shan3xiws/57/20220809/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
@@ -227,6 +252,7 @@ CCTV中学生,https://live.chinacert.cftest5.cn/cnmg/live/708869532
 海峡卫视,https://www.fjtv.net/folder526/folder536/
 兵团卫视,https://live.chinacert.cftest5.cn/zgst/live/bingtuan
 兵团卫视,https://live.chinacert.cftest5.cn/cnmg/live/956923145
+兵团卫视,http://www.ikerobot.com:1234/956923145
 凤凰卫视,http://221.7.175.154:8445/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰卫视,https://tvb.go-iptv.ggff.net/stream/tvb/null/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
 大湾区卫视,https://www.gdtv.cn/tvChannelDetail/42
@@ -264,6 +290,7 @@ CCTV-5+,https://live.chinacert.cftest5.cn/cnmg/live/641886773
 CCTV-5+,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv05pl
 CCTV-5+,https://cdn.qd.je/163189.php?id=cctv5p
 CCTV-5+,https://cdn.qd.je/163189.php?id=cctv5p-2
+CCTV-5+,http://www.ikerobot.com:1234/641886773
 广东体育,http://r.jdshipin.com/LiYdg
 广东体育,https://cdn2.163189.xyz/163189/gdty
 广东体育,http://cdn2.163189.xyz/163189/gdty
@@ -290,6 +317,7 @@ CCTV-5+,https://cdn.qd.je/163189.php?id=cctv5p-2
 吉林篮球,https://live.chinacert.cftest5.cn/zgst/live/jilin
 吉林篮球,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsjilin
 吉林篮球,https://live.chinacert.cftest5.cn/cnmg/live/947472500
+吉林篮球,http://www.ikerobot.com:1234/947472500
 博斯高球,https://hb.msbot.dpdns.org/?id=sportcast-golf
 博斯网球,https://cdn.19891230.eu.org/4gtv/litv-xinchuang09/index.m3u8
 博斯网球,https://hb.msbot.dpdns.org/?id=sportcast-tennis
@@ -421,6 +449,7 @@ ViuTV,https://cdn.qd.je/163189.php?id=viu
 纬来体育,https://smt.1678520.xyz/163189/wlty
 纬来体育,https://cdn.qd.je/163189/wlty
 纬来日本,https://cdn.19891230.eu.org/api/VL-Japan/index.m3u8
+纬来日本,https://iptv.852851.xyz/l/ny8S9r2kwWW9-XgFuid6HAsRUczZUX7uj-07ltjCa2_o76oA_5yFozANqM2feOcB/index.m3u8
 纬来电影,https://smt.1678520.xyz/163189/602e9465658d4f8c
 纬来电影,https://cdn.19891230.eu.org/api/VL-Movies/index.m3u8
 纬来电影,https://smt.1678520.xyz/163189/wldy
@@ -514,6 +543,7 @@ TVBS新闻,http://4gtv.cnlive.club/channel/n1ea96b20/index.m3u8?q=1782639885837
 纬来戏剧台,https://smt.1678520.xyz/163189/wlxj
 纬来戏剧台,https://cdn.qd.je/163189/wlxj
 纬来日本台,https://cdn.19891230.eu.org/api/VL-Japan/index.m3u8
+纬来日本台,https://iptv.852851.xyz/l/ny8S9r2kwWW9-XgFuid6HAsRUczZUX7uj-07ltjCa2_o76oA_5yFozANqM2feOcB/index.m3u8
 纬来体育台,https://smt.1678520.xyz/163189/b10b2645c6d9de2b
 纬来体育台,https://cdn.19891230.eu.org/api/VL-Sports/index.m3u8
 纬来体育台,https://smt.1678520.xyz/163189/wlty
@@ -634,6 +664,7 @@ astro-QJ,https://cdn.qd.je/163189/qj
 astroAec,https://o11.163189.xyz/stream/live/aec/
 astroAec,http://o11.163189.xyz/stream/live/aec/
 astroAec,https://cdn.qd.je/163189/aec
+astroAec,https://cdn3.indevs.in/stream/live/aec/
 astroAod,https://o11.163189.xyz/stream/live/aod/
 astroAod,http://o11.163189.xyz/stream/live/aod/
 astroAod,https://cdn.qd.je/163189/aod
@@ -962,6 +993,7 @@ astro爱奇艺,https://cdn3.indevs.in/stream/live/iqiyi/
 湖北卫视,https://live.douyin.com/596554118511
 湖北卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wshubei
 湖北卫视,https://live.chinacert.cftest5.cn/cnmg/live/947472496
+湖北卫视,http://www.ikerobot.com:1234/947472496
 十堰新闻,https://www.syiptv.com/tv?station_id=1
 十堰新闻,https://www.syiptv.com/tv?station_id=3
 十堰公共,https://www.syiptv.com/tv?station_id=1
@@ -1075,6 +1107,7 @@ astro爱奇艺,https://cdn3.indevs.in/stream/live/iqiyi/
 河南卫视,https://live.chinacert.cftest5.cn/cnmg/live/790187291
 河南卫视,https://tv1288.xyz/hntv.php?id=hnws
 河南卫视,https://tv1288.xyz/hntv.php?id=hnly
+河南卫视,http://www.ikerobot.com:1234/790187291
 河南都市,https://tv1288.xyz/hntv.php?id=hnds
 河南民生,https://tv1288.xyz/hntv.php?id=hnms
 河南法治,https://tv1288.xyz/hntv.php?id=hmfz
@@ -1086,10 +1119,12 @@ astro爱奇艺,https://cdn3.indevs.in/stream/live/iqiyi/
 河南导视,https://live.chinacert.cftest5.cn/cnmg/live/790187291
 河南导视,https://tv1288.xyz/hntv.php?id=hnws
 河南导视,https://tv1288.xyz/hntv.php?id=hnly
+河南导视,http://www.ikerobot.com:1234/790187291
 河南戏曲,https://live.chinacert.cftest5.cn/zgst/live/henan
 河南戏曲,https://live.chinacert.cftest5.cn/cnmg/live/790187291
 河南戏曲,https://tv1288.xyz/hntv.php?id=hnws
 河南戏曲,https://tv1288.xyz/hntv.php?id=hnly
+河南戏曲,http://www.ikerobot.com:1234/790187291
 郑州新闻,https://tv1288.xyz/hntv.php?id=zz1
 开封新闻,https://www.kftv.net.cn/info/944
 开封新闻,https://www.kftv.net.cn/info/943
@@ -1261,13 +1296,16 @@ astro爱奇艺,https://cdn3.indevs.in/stream/live/iqiyi/
 重庆卫视,https://live.chinacert.cftest5.cn/zgst/live/zhongqing
 重庆卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC
 重庆卫视,https://live.chinacert.cftest5.cn/cnmg/live/738910914
+重庆卫视,http://www.ikerobot.com:1234/738910914
 重庆新闻,https://sjlivecdnx.cbg.cn/1ive/stream_3.php
 重庆汽摩,https://live.chinacert.cftest5.cn/zgst/live/zhongqing
 重庆汽摩,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC
 重庆汽摩,https://live.chinacert.cftest5.cn/cnmg/live/738910914
+重庆汽摩,http://www.ikerobot.com:1234/738910914
 重庆精彩导视,https://live.chinacert.cftest5.cn/zgst/live/zhongqing
 重庆精彩导视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC
 重庆精彩导视,https://live.chinacert.cftest5.cn/cnmg/live/738910914
+重庆精彩导视,http://www.ikerobot.com:1234/738910914
 
 四川,#genre#
 四川卫视,https://live.chinacert.cftest5.cn/zgst/live/sichuan
@@ -1353,6 +1391,7 @@ astro爱奇艺,https://cdn3.indevs.in/stream/live/iqiyi/
 吉林卫视,https://live.chinacert.cftest5.cn/zgst/live/jilin
 吉林卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsjilin
 吉林卫视,https://live.chinacert.cftest5.cn/cnmg/live/947472500
+吉林卫视,http://www.ikerobot.com:1234/947472500
 四平新闻,https://live.ottiptv.cc/yy/1382749950
 长白综合,http://hplayer1.juyun.tv:80/camera/11344136.m3u8
 
@@ -1392,6 +1431,7 @@ astro爱奇艺,https://cdn3.indevs.in/stream/live/iqiyi/
 青海卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsqinghai
 青海卫视,https://live.chinacert.cftest5.cn/cnmg/live/947472506
 青海卫视,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
+青海卫视,http://www.ikerobot.com:1234/947472506
 安多卫视,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd#https://liveout.xntv.tv/a65jur/96iln2.m3u8#https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqing
 安多卫视,https://liveout.xntv.tv/a65jur/96iln2.m3u8
 西宁新闻综合,https://liveout.xntv.tv/a65jur/96iln2.m3u8
@@ -1469,6 +1509,7 @@ astro爱奇艺,https://cdn3.indevs.in/stream/live/iqiyi/
 兵团,#genre#
 兵团卫视,https://live.chinacert.cftest5.cn/zgst/live/bingtuan
 兵团卫视,https://live.chinacert.cftest5.cn/cnmg/live/956923145
+兵团卫视,http://www.ikerobot.com:1234/956923145
 
 赛事咪咕,#genre#
 
@@ -1541,4 +1582,4 @@ S H E《4EVER世界巡回演唱会 完整版》珍藏版,https://vd3.bdstatic.co
 广*场*舞,#genre#
 
 🕘️更新时间,#genre#
-2026-09-14 15:30:49,https://live.chinacert.cftest5.cn/cnmg/live/608807420
+2026-09-15 15:27:11,https://live.chinacert.cftest5.cn/cnmg/live/608807420
