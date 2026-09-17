@@ -83,6 +83,7 @@ cctv4欧洲,http://www.ikerobot.com:1234/608807419
 cctv4美洲,https://live.chinacert.cftest5.cn/cnmg/live/608807416
 cctv4美洲,http://www.ikerobot.com:1234/608807416
 CGTN英语,https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
+CGTN英语,https://0472.org/hls/cgtn.m3u8
 CGTN记录,https://0472.org/hls/cgtnd.m3u8?3.24.120:5140
 CGTN记录,https://0472.org/hls/cgtnd.m3u8
 CGTN记录,http://www.ikerobot.com:1234/609006487
@@ -1582,4 +1583,4 @@ S H E《4EVER世界巡回演唱会 完整版》珍藏版,https://vd3.bdstatic.co
 广*场*舞,#genre#
 
 🕘️更新时间,#genre#
-2026-09-16 16:31:10,https://live.chinacert.cftest5.cn/cnmg/live/608807420
+2026-09-17 15:29:11,https://live.chinacert.cftest5.cn/cnmg/live/608807420
