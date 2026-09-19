@@ -888,9 +888,9 @@ https://load.ptv2026.com/dash3.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 
 #EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="SPORTS FHD" tvg-id="811" tvg-logo="https://ptv2026.com/logo/premierleague.png" , EPL 1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#https://load.ptv2026.com/rwt.m3u8?username=vip_3klp0es8&password=wg3piwEs&channel=epl
 #KODIPROP:inputstream.adaptive.license_key=f749ab71f227999bfb098f73359aac10:4f15413f7e4767b50c48e19b7f9a2fcc
-https://load.ptv2026.com/dash3.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=epl1
+#https://load.ptv2026.com/dash3.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=epl1
+https://load.ptv2026.com/rwt.m3u8?username=vip_3klp0es8&password=wg3piwEs&channel=epl1
 
 #EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="SPORTS FHD" tvg-id="812" tvg-logo="https://ptv2026.com/logo/premierleague2.png" , EPL 2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey

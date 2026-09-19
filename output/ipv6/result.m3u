@@ -633,6 +633,8 @@ https://hb.msbot.dpdns.org/?id=sportcast-tennis
 https://hb.msbot.dpdns.org/?id=oursport
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://www.xn--rgv465a.top/tvlogo/快乐垂钓.png" group-title="体育频道",快乐垂钓
 https://live.chinacert.cftest5.cn/cnmg/live/961930263
+#EXTINF:-1 tvg-id="JJ斗地主" tvg-name="JJ斗地主" tvg-logo="https://www.xn--rgv465a.top/tvlogo/JJ斗地主.png" group-title="体育频道",JJ斗地主
+https://cdn.ttvb.eu.org/bilibili/22021983
 #EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/香港卫视.png" group-title="香港频道",香港卫视
 http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/香港卫视.png" group-title="香港频道",香港卫视
@@ -1288,6 +1290,8 @@ https://cdn.qd.je/163189.php?id=lhkt
 https://stream1.freetv.fun/animax-1.m3u8
 #EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Animax.png" group-title="台湾频道",Animax
 https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
+#EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Animax.png" group-title="台湾频道",Animax
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs15
 #EXTINF:-1 tvg-id="德国之声" tvg-name="德国之声" tvg-logo="https://www.xn--rgv465a.top/tvlogo/德国之声.png" group-title="台湾频道",德国之声
 https://hb.msbot.dpdns.org/?id=dw
 #EXTINF:-1 tvg-id="Now星影" tvg-name="Now星影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Now星影.png" group-title="台湾频道",Now星影
@@ -1332,6 +1336,8 @@ http://o11.163189.xyz/stream/live/iqiyi/
 https://o11.163189.xyz/stream/live/iqiyi/
 #EXTINF:-1 tvg-id="astro爱奇艺" tvg-name="astro爱奇艺" tvg-logo="https://www.xn--rgv465a.top/tvlogo/astro爱奇艺.png" group-title="台湾频道",astro爱奇艺
 https://cdn3.indevs.in/stream/live/iqiyi/
+#EXTINF:-1 tvg-id="SMArt知识" tvg-name="SMArt知识" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SMArt知识.png" group-title="台湾频道",SMArt知识
+https://brightstar-sls-pull-secure.akamaized.net/brightstarsls/stream.m3u8
 #EXTINF:-1 tvg-id="智林体育" tvg-name="智林体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/智林体育.png" group-title="台湾频道",智林体育
 https://hb.msbot.dpdns.org/?id=oursport
 #EXTINF:-1 tvg-id="欢乐集结号" tvg-name="欢乐集结号" tvg-logo="https://www.xn--rgv465a.top/tvlogo/欢乐集结号.png" group-title="综艺频道",欢乐集结号
@@ -2972,5 +2978,5 @@ https://vd3.bdstatic.com/mda-pac5q1he7r5wjykx/576p/h264/1673583274906869271/mda-
 https://vd3.bdstatic.com/mda-nmkefmyd0arci215/576p/h264/1671618057578437373/mda-nmkefmyd0arci215.mp4
 #EXTINF:-1 tvg-id="宝丽金《成立20周年 1990群星演唱会完整版》" tvg-name="宝丽金《成立20周年 1990群星演唱会完整版》" tvg-logo="https://www.xn--rgv465a.top/tvlogo/宝丽金《成立20周年 1990群星演唱会完整版》.png" group-title="演*唱*会",宝丽金《成立20周年 1990群星演唱会完整版》
 https://vd3.bdstatic.com/mda-pbp4sapcn5kmpxhg/hd/cae_h264/1677214872094217006/mda-pbp4sapcn5kmpxhg.mp4
-#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-09-18 15:20:47
+#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-09-19 15:08:27
 https://live.chinacert.cftest5.cn/cnmg/live/608807420

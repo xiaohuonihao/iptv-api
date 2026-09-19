@@ -324,6 +324,7 @@ CCTV-5+,http://www.ikerobot.com:1234/641886773
 博斯网球,https://hb.msbot.dpdns.org/?id=sportcast-tennis
 智林体育,https://hb.msbot.dpdns.org/?id=oursport
 快乐垂钓,https://live.chinacert.cftest5.cn/cnmg/live/961930263
+JJ斗地主,https://cdn.ttvb.eu.org/bilibili/22021983
 
 香港频道,#genre#
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
@@ -657,6 +658,7 @@ MoMo亲子台,http://4gtv.cnlive.club/channel/n33a56e39/index.m3u8?q=17826398858
 龙华卡通台,https://cdn.qd.je/163189.php?id=lhkt
 Animax,https://stream1.freetv.fun/animax-1.m3u8
 Animax,https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
+Animax,https://naori-test.netgenx.site/pxx.php?shk_cid=bs15
 德国之声,https://hb.msbot.dpdns.org/?id=dw
 Now星影,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=07jkor
 astro-QJ,https://o11.163189.xyz/stream/live/qj/
@@ -679,6 +681,7 @@ astro欢喜,https://cdn.qd.je/163189/hxt
 astro爱奇艺,http://o11.163189.xyz/stream/live/iqiyi/
 astro爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
 astro爱奇艺,https://cdn3.indevs.in/stream/live/iqiyi/
+SMArt知识,https://brightstar-sls-pull-secure.akamaized.net/brightstarsls/stream.m3u8
 智林体育,https://hb.msbot.dpdns.org/?id=oursport
 
 综艺频道,#genre#
@@ -1583,4 +1586,4 @@ S H E《4EVER世界巡回演唱会 完整版》珍藏版,https://vd3.bdstatic.co
 广*场*舞,#genre#
 
 🕘️更新时间,#genre#
-2026-09-18 15:20:47,https://live.chinacert.cftest5.cn/cnmg/live/608807420
+2026-09-19 15:08:27,https://live.chinacert.cftest5.cn/cnmg/live/608807420
