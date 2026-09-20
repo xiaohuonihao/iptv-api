@@ -500,9 +500,10 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/751a0982779f4edd904205eb351e220d/in
 https://ptv2026.com/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=hitsmovies
 
 #EXTINF:-1 tvg-id="thrill" ch-number="thrill" group-title="MOVIES" group-logo="" tvg-logo="https://ptv2026.com/logo/thrill.png", THRILL
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ffab3471a994535bdf7fc663792f08b:6e82876474df025c39ae804ba738ff17
-https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvvision?contentId=thrill
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://ptv2026.com/get_vision.mpd?contentId=thrill
 
 #EXTINF:-1 tvg-id="imcindonesiamoviechannel" group-title="MOVIES" tvg-logo="https://ptv2026.com/logo/imc.png", IMC
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -513,37 +514,37 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/in
 #EXTINF:-1 tvg-id="" tvg-name="159 Studio Universal" tvg-logo="https://ptv2026.com/logo/studiouniversal.png" group-title="MOVIES", Studio Universal
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b4a7b3289eff493d8700becf2e2a1157:bfbcfcb8137dd565a7f4b5ce7800c1f0
-https://ptv2026.com/dashVision3.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=studiouniversal
+#https://ptv2026.com/dashVision3.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=studiouniversal
 
 #EXTINF:-1 tvg-id="originals" tvg-name="159 Originals" tvg-logo="https://ptv2026.com/logo/originals.png" group-title="MOVIES", Originals
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=33333f38930949b1af65b3361ad80d1d:b159847f9af0500738b01e91cf023e30
-#https://ptv2026.com/dashVision3.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=originals
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvvision?contentId=originals
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://ptv2026.com/get_vision.mpd?contentId=originals
 
 #EXTINF:-1 tvg-id="cineedge" tvg-name="160 Cineedge" tvg-logo="https://ptv2026.com/logo/cineedge.png" group-title="MOVIES", Cineedge
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c7b3852d9c84418f942923e41c31e633:ddb99755e0bebd98c92c7eab974bf161
-#https://ptv2026.com/dashVision3.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=cineedge
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvvision?contentId=cineedge
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://ptv2026.com/get_vision.mpd?contentId=cineedge
 
 #EXTINF:-1 tvg-id="superrix" tvg-name="161 Superrix" tvg-logo="https://ptv2026.com/logo/superrix.png" group-title="MOVIES", Superrix
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1dc30f49888c4652897d9c998aa2cac1:8ccb6857157c1a01c5a47eb853f51aa2
-#https://ptv2026.com/dashVision3.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=superrix
-https://d2tjypxxy769fn.cloudfront.net/out/v1/782400332c96440598260730a864bc6f/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvvision?contentId=superrix
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://ptv2026.com/get_vision.mpd?contentId=superrix
 
 #EXTINF:-1 tvg-id="uniques" tvg-name="162 Uniques" tvg-logo="https://ptv2026.com/logo/uniques.png" group-title="MOVIES", Uniques
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5a6668f3a5d64338bce13307e5c570be:d0c76237c5ee38e7a420e9c83323023e
-#https://ptv2026.com/dashVision3.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=uniques
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ptv2026.com/wvvision?contentId=uniques
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://ptv2026.com/get_vision.mpd?contentId=uniques
 
 #EXTINF:-1 tvg-id="buddystar" tvg-name="162 Buddy Star" tvg-logo="https://ptv2026.com/logo/buddystar.png" group-title="MOVIES", Buddy Star
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2bfc3e059a9f4176b835a15c9a0c0dac:265c00f7fd825ad3e092b56081953b60
 #https://ptv2026.com/dashVision3.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=buddystar
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd
+#https://d84q7nw4qf3j3.cloudfront.net/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd
 
 #EXTINF:-1 tvg-id="moviesnowhd" tvg-name="" tvg-logo="https://ptv2026.com/logo/moviesnow.png" group-title="MOVIES", Movies Now
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -558,7 +559,7 @@ https://ptv2026.com/dashVision.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 #EXTINF:-1 tvg-id="mnhd" tvg-name="" tvg-logo="https://ptv2026.com/logo/mnplus.png" group-title="MOVIES", MN Plus
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
-https://ptv2026.com/dashVision.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=mnplus
+https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 
 #EXTINF:-1 tvg-id="moviesphere" tvg-logo="https://ptv2026.com/logo/moviesphere.png" group-title="MOVIES",MovieSphere FHD
 https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8
@@ -1390,6 +1391,36 @@ https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-pl
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=dc261f4fbaf4c083ba7435ca1169d210:3d006c284c9f5001f46749609e82eedf
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/7b54bdd1-6122-54ae-b9f9-b9f621440220/default_ott.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Kasih Yang Terkorban Ep45" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KXWRR_series_p_IVP_PORT_390x585_94963_2026713_131245.jpg" group-title="● Malay Series | Kasih Yang Terkorban",Kasih Yang Terkorban Ep45
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=98fcbe2f0120de42e53d4d2f87bc8810:cb92918b69139e59a0be33a0d8c9d751
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/8bf48189-98ca-5340-a332-fdcd40c76c7e/default_ott.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Kasih Yang Terkorban Ep46" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KXWRR_series_p_IVP_PORT_390x585_94963_2026713_131245.jpg" group-title="● Malay Series | Kasih Yang Terkorban",Kasih Yang Terkorban Ep46
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=1f59751b7a0e857c68a685a69a46a210:7bdbeb169288457d78f985d13f098fe2
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/ed9092cd-8acc-5cb3-8e7f-1e69c6e4f7f7/default_ott.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Kasih Yang Terkorban Ep47" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KXWRR_series_p_IVP_PORT_390x585_94963_2026713_131245.jpg" group-title="● Malay Series | Kasih Yang Terkorban",Kasih Yang Terkorban Ep47
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=0f6de4f3c0ea4256a70c8718dd785610:4abb157fbccbf691432f8faf25d60983
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/9fc1093a-59c0-5672-addc-d02e89a528c4/default_ott.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Kasih Yang Terkorban Ep48" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KXWRR_series_p_IVP_PORT_390x585_94963_2026713_131245.jpg" group-title="● Malay Series | Kasih Yang Terkorban",Kasih Yang Terkorban Ep48
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=3a924e7287287c9e9d36f8a1ab2bcf10:df9a2c162dfa7226caa68cd74c50841a
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/c741acad-8eee-5824-99ad-0411020f6cb9/default_ott.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Kasih Yang Terkorban Ep49" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KXWRR_series_p_IVP_PORT_390x585_94963_2026713_131245.jpg" group-title="● Malay Series | Kasih Yang Terkorban",Kasih Yang Terkorban Ep49
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=3314d9221cf5d56546b290edb9f45310:90e1b7d6c4a4271c43c95739b719d490
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/df9815f5-d372-5bf6-a9dc-66d190f153af/default_ott.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Kasih Yang Terkorban Ep50" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KXWRR_series_p_IVP_PORT_390x585_94963_2026713_131245.jpg" group-title="● Malay Series | Kasih Yang Terkorban",Kasih Yang Terkorban Ep50
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=a7aa1c9e4d6b6cd72c57e4ca07903610:0a7d5dcb1bbc7a870c997e7feec3cbc2
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/17ccb6e7-8d05-50dc-b9cb-d260e2c5f269/default_ott.mpd
 
 
 
