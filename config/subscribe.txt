@@ -3,14 +3,9 @@
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
  # http://wangziduoqing.com/yuan/zb.txt
-# 整套大马perfect TV：
-# 720画质要马来节点:
-# 同第一条的1080画质要马来节点：
-# 同上面条1080画质要马来节点：
-# 【西方极乐世界，美国梯】：
-# 【4gtv怡淳酒店,台湾家宽看全部,ok壳专用,json放点播,txt放直播】：
-# 世界杯咖啡体育
-# 世界杯OK体育
+
+https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.txt
+https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.txt
  # https://gh-proxy.org/https://raw.githubusercontent.com/xiaolong-nihao/IPTV-api/refs/heads/master/output/zblove.txt
  # https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
  # https://18592.kstore.space/TVBox/gangaotai.txt
