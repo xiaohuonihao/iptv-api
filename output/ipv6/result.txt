@@ -135,6 +135,7 @@ CCTV中学生,https://live.chinacert.cftest5.cn/cnmg/live/708869532
 重庆卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC
 重庆卫视,https://live.chinacert.cftest5.cn/cnmg/live/738910914
 重庆卫视,http://www.ikerobot.com:1234/738910914
+重庆卫视,http://m.061899.xyz/mg/cqws
 东方卫视,https://live.chinacert.cftest5.cn/zgst/live/dongfang
 东方卫视,http://cdn.jdshipin.com/kkxw.php?id=1
 东方卫视,http://jsmov2.a.yximgs.com/bs3/video-hls/5222205346628851891_hlsb.m3u8
@@ -174,6 +175,7 @@ CCTV中学生,https://live.chinacert.cftest5.cn/cnmg/live/708869532
 吉林卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsjilin
 吉林卫视,https://live.chinacert.cftest5.cn/cnmg/live/947472500
 吉林卫视,http://www.ikerobot.com:1234/947472500
+吉林卫视,http://m.061899.xyz/mg/jlws
 江苏卫视,https://live.chinacert.cftest5.cn/zgst/live/jiangsu
 江苏卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsjiangsu
 江苏卫视,https://www.gdtv.cn/tvChannelDetail/100
@@ -324,6 +326,7 @@ CCTV-5+,http://www.ikerobot.com:1234/641886773
 吉林篮球,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsjilin
 吉林篮球,https://live.chinacert.cftest5.cn/cnmg/live/947472500
 吉林篮球,http://www.ikerobot.com:1234/947472500
+吉林篮球,http://m.061899.xyz/mg/jlws
 博斯高球,https://hb.msbot.dpdns.org/?id=sportcast-golf
 博斯网球,https://cdn.19891230.eu.org/4gtv/litv-xinchuang09/index.m3u8
 博斯网球,https://hb.msbot.dpdns.org/?id=sportcast-tennis
@@ -734,6 +737,7 @@ SMArt知识,https://brightstar-sls-pull-secure.akamaized.net/brightstarsls/strea
 王者荣耀,https://live.ottiptv.cc/huya/660002
 和平精英,https://live.ottiptv.cc/huya/660006
 穿越火线,https://live.ottiptv.cc/huya/660101
+绝地求生,https://cdn.ttvb.eu.org/bilibili/98
 
 山东,#genre#
 山东卫视,https://live.chinacert.cftest5.cn/zgst/live/shandong
@@ -1320,15 +1324,18 @@ SMArt知识,https://brightstar-sls-pull-secure.akamaized.net/brightstarsls/strea
 重庆卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC
 重庆卫视,https://live.chinacert.cftest5.cn/cnmg/live/738910914
 重庆卫视,http://www.ikerobot.com:1234/738910914
+重庆卫视,http://m.061899.xyz/mg/cqws
 重庆新闻,https://sjlivecdnx.cbg.cn/1ive/stream_3.php
 重庆汽摩,https://live.chinacert.cftest5.cn/zgst/live/zhongqing
 重庆汽摩,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC
 重庆汽摩,https://live.chinacert.cftest5.cn/cnmg/live/738910914
 重庆汽摩,http://www.ikerobot.com:1234/738910914
+重庆汽摩,http://m.061899.xyz/mg/cqws
 重庆精彩导视,https://live.chinacert.cftest5.cn/zgst/live/zhongqing
 重庆精彩导视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC
 重庆精彩导视,https://live.chinacert.cftest5.cn/cnmg/live/738910914
 重庆精彩导视,http://www.ikerobot.com:1234/738910914
+重庆精彩导视,http://m.061899.xyz/mg/cqws
 
 四川,#genre#
 四川卫视,https://live.chinacert.cftest5.cn/zgst/live/sichuan
@@ -1415,6 +1422,7 @@ SMArt知识,https://brightstar-sls-pull-secure.akamaized.net/brightstarsls/strea
 吉林卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsjilin
 吉林卫视,https://live.chinacert.cftest5.cn/cnmg/live/947472500
 吉林卫视,http://www.ikerobot.com:1234/947472500
+吉林卫视,http://m.061899.xyz/mg/jlws
 四平新闻,https://live.ottiptv.cc/yy/1382749950
 长白综合,http://hplayer1.juyun.tv:80/camera/11344136.m3u8
 
@@ -1607,4 +1615,4 @@ S H E《4EVER世界巡回演唱会 完整版》珍藏版,https://vd3.bdstatic.co
 广*场*舞,#genre#
 
 🕘️更新时间,#genre#
-2026-09-21 15:27:40,https://live.chinacert.cftest5.cn/cnmg/live/608807420
+2026-09-22 15:37:00,https://live.chinacert.cftest5.cn/cnmg/live/608807420
