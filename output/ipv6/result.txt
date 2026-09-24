@@ -10,6 +10,8 @@ CCTV-2,http://www.ikerobot.com:1234/631780532
 CCTV-3,https://live.chinacert.cftest5.cn/cnmg/live/624878271
 CCTV-3,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv03zy
 CCTV-3,http://www.ikerobot.com:1234/624878271
+CCTV-3,http://go.bkpcp.top/mg/cctv3
+CCTV-3,http://m.061899.xyz/mg/cctv3
 CCTV-4,https://live.chinacert.cftest5.cn/cnmg/live/631780421
 CCTV-4,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv04zw
 CCTV-4,https://live.chinacert.cftest5.cn/cnmg/live/608807419
@@ -61,12 +63,15 @@ CCTV-14,http://m.061899.xyz/mg/cctv14
 CCTV-15,https://live.chinacert.cftest5.cn/cnmg/live/673168223
 CCTV-15,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv15yy
 CCTV-15,http://www.ikerobot.com:1234/673168223
+CCTV-15,http://go.bkpcp.top/mg/cctv15
+CCTV-15,http://m.061899.xyz/mg/cctv15
 CCTV-16,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv16ay
 CCTV-16,https://cdn.qd.je/163189.php?id=cctv16
 CCTV-16,https://cdn.qd.je/163189.php?id=cctv16-2
 CCTV-17,https://live.chinacert.cftest5.cn/cnmg/live/673168256
 CCTV-17,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv17ny
 CCTV-17,http://www.ikerobot.com:1234/673168256
+CCTV-17,http://go.bkpcp.top/mg/cctv17
 CCTV16 4K,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv16ay
 CCTV16 4K,https://cdn.qd.je/163189.php?id=cctv16
 CCTV16 4K,https://cdn.qd.je/163189.php?id=cctv16-2
@@ -81,8 +86,10 @@ CETV4,https://live.chinacert.cftest5.cn/cnmg/live/923287339
 CETV4,http://www.ikerobot.com:1234/923287339
 cctv4欧洲,https://live.chinacert.cftest5.cn/cnmg/live/608807419
 cctv4欧洲,http://www.ikerobot.com:1234/608807419
+cctv4欧洲,http://go.bkpcp.top/mg/cctv4o
 cctv4美洲,https://live.chinacert.cftest5.cn/cnmg/live/608807416
 cctv4美洲,http://www.ikerobot.com:1234/608807416
+cctv4美洲,http://go.bkpcp.top/mg/cctv4m
 CGTN英语,https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 CGTN英语,https://0472.org/hls/cgtn.m3u8
 CGTN记录,https://0472.org/hls/cgtnd.m3u8?3.24.120:5140
@@ -843,6 +850,7 @@ SMArt知识,https://brightstar-sls-pull-secure.akamaized.net/brightstarsls/strea
 广东民生,http://www.3344.uk:8888/udp/239.77.0.225:5146
 广东影视,https://www.gdtv.cn/tvChannelDetail/53
 广东影视,http://www.3344.uk:8888/udp/239.77.0.217:5146
+广东影视,http://go.bkpcp.top/mg/gdys
 大湾区卫视,https://www.gdtv.cn/tvChannelDetail/42
 大湾区卫视,https://live.chinacert.cftest5.cn/cnmg/live/608917627
 大湾区卫视,https://www.gdtv.cn/tvChannelDetail/51
@@ -854,6 +862,7 @@ SMArt知识,https://brightstar-sls-pull-secure.akamaized.net/brightstarsls/strea
 广州综合,https://168.sryze.cc/163189/gzzh
 广州新闻,https://cdn13.178.indevs.in/163189/609602b1e1048784
 广州新闻,https://168.sryze.cc/163189/gzxw
+广州新闻,http://f.123.rr.kg/163189/gzxw
 深圳卫视,https://www.sztv.com.cn/pindao/index.html?id=24725
 深圳卫视,https://www.sztv.com.cn/pindao/index.html?id=7867
 深圳卫视,https://www.sztv.com.cn/pindao/index.html?id=7868
@@ -1628,4 +1637,4 @@ S H E《4EVER世界巡回演唱会 完整版》珍藏版,https://vd3.bdstatic.co
 广*场*舞,#genre#
 
 🕘️更新时间,#genre#
-2026-09-23 15:17:16,https://live.chinacert.cftest5.cn/cnmg/live/608807420
+2026-09-24 15:20:29,https://live.chinacert.cftest5.cn/cnmg/live/608807420

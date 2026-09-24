@@ -3,12 +3,19 @@
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
  # http://wangziduoqing.com/yuan/zb.txt
-
-https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.txt
-https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.txt
  # https://gh-proxy.org/https://raw.githubusercontent.com/xiaolong-nihao/IPTV-api/refs/heads/master/output/zblove.txt
  # https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
  # https://18592.kstore.space/TVBox/gangaotai.txt
+ # https://sub.ottiptv.cc/yylunbo.m3u
+# https://4tv.0186.ccwu.cc
+# https://raw.githubusercontent.com/penulisradio/1234-asdf-zxcv/refs/heads/main/editor.m3u
+# https://garyshare.sharewithyou.dpdns.org/mylist.m3u
+# http://xtvantsc.xyz/4gtv.json
+# https://jsnzkpg.us.ci/live.m3u
+# https://iptv.catvod.com/kf/catvod.m3u
+# https://sports.jsnzkpg.ccwu.cc/live.m3u
+https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.txt
+https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.txt
  https://18592.kstore.space/%E6%B5%8B%E8%AF%95/01.json
  https://gh-proxy.org/https://raw.githubusercontent.com/xiaolong-nihao/iptvzb/refs/heads/main/zubo.txt
  https://gh-proxy.org/https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/webview-X5.m3u
@@ -34,19 +41,11 @@ https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv
 http://zb.1217188.xyz:2233/playlist.txt
 http://xtvantsc.xyz/MALAYSIA.m3u
 http://xtvantsc.xyz/1080.m3u
-https://perfecttv.net/PerfecttvFree.m3u
-https://get.perfecttv.net/PerfecttvFree3.m3u
 http://xtvantsc.xyz/4gtv.txt
 https://wp.kayyw.com/f/lXjouz/sdhshskks.txt
 
- # https://sub.ottiptv.cc/yylunbo.m3u
-# https://4tv.0186.ccwu.cc
-# https://raw.githubusercontent.com/penulisradio/1234-asdf-zxcv/refs/heads/main/editor.m3u
-# https://garyshare.sharewithyou.dpdns.org/mylist.m3u
-# http://xtvantsc.xyz/4gtv.json
-# https://jsnzkpg.us.ci/live.m3u
-# https://iptv.catvod.com/kf/catvod.m3u
-# https://sports.jsnzkpg.ccwu.cc/live.m3u
+# https://perfecttv.net/PerfecttvFree.m3u
+# https://get.perfecttv.net/PerfecttvFree3.m3u
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
