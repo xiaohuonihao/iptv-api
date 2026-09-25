@@ -35,6 +35,8 @@ CCTV-6,http://www.ikerobot.com:1234/624878396
 CCTV-7,https://live.chinacert.cftest5.cn/cnmg/live/673168121
 CCTV-7,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv07js
 CCTV-7,http://www.ikerobot.com:1234/673168121
+CCTV-7,http://m.061899.xyz/mg/cctv7
+CCTV-7,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv7
 CCTV-8,https://live.chinacert.cftest5.cn/cnmg/live/624878356
 CCTV-8,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv08dsj
 CCTV-8,http://www.ikerobot.com:1234/624878356
@@ -72,6 +74,7 @@ CCTV-17,https://live.chinacert.cftest5.cn/cnmg/live/673168256
 CCTV-17,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv17ny
 CCTV-17,http://www.ikerobot.com:1234/673168256
 CCTV-17,http://go.bkpcp.top/mg/cctv17
+CCTV-17,http://m.061899.xyz/mg/cctv17
 CCTV16 4K,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv16ay
 CCTV16 4K,https://cdn.qd.je/163189.php?id=cctv16
 CCTV16 4K,https://cdn.qd.je/163189.php?id=cctv16-2
@@ -163,6 +166,8 @@ CCTV中学生,https://live.chinacert.cftest5.cn/cnmg/live/708869532
 广西卫视,https://tv.gxtv.cn/channel/channelivePlay_f3335975f9fe11e88bcfe41f13b60c62.html
 贵州卫视,https://live.chinacert.cftest5.cn/zgst/live/guizhou
 贵州卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsguizhou
+贵州卫视,http://m.061899.xyz/mg/gzws
+贵州卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=gzws
 海南卫视,https://live.chinacert.cftest5.cn/zgst/live/hainan
 海南卫视,https://live.douyin.com/33068222133
 海南卫视,https://live.douyin.com/402523360291
@@ -860,6 +865,7 @@ SMArt知识,https://brightstar-sls-pull-secure.akamaized.net/brightstarsls/strea
 广州综合,http://r.jdshipin.com/snhya
 广州综合,https://cdn13.178.indevs.in/163189/b13471c5de99d1c7
 广州综合,https://168.sryze.cc/163189/gzzh
+广州综合,http://f.123.rr.kg/163189/gzzh
 广州新闻,https://cdn13.178.indevs.in/163189/609602b1e1048784
 广州新闻,https://168.sryze.cc/163189/gzxw
 广州新闻,http://f.123.rr.kg/163189/gzxw
@@ -1533,6 +1539,8 @@ SMArt知识,https://brightstar-sls-pull-secure.akamaized.net/brightstarsls/strea
 贵州,#genre#
 贵州卫视,https://live.chinacert.cftest5.cn/zgst/live/guizhou
 贵州卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsguizhou
+贵州卫视,http://m.061899.xyz/mg/gzws
+贵州卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=gzws
 安顺新闻,http://d8337dc9e1a310c72a757e8923c12378.livehwc3.cn/hplayer1.juyun.tv/camera/154379194.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=be4e05d8e040704291b38f444ed848f9
 安顺新闻,http://d8337dc9e1a310c72a757e8923c12378.livehwc3.cn/hplayer1.juyun.tv/camera/154526164.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=0b8a2d4b9746a9d0760bf6d48ec798b4
 
@@ -1637,4 +1645,4 @@ S H E《4EVER世界巡回演唱会 完整版》珍藏版,https://vd3.bdstatic.co
 广*场*舞,#genre#
 
 🕘️更新时间,#genre#
-2026-09-24 15:20:29,https://live.chinacert.cftest5.cn/cnmg/live/608807420
+2026-09-25 15:16:35,https://live.chinacert.cftest5.cn/cnmg/live/608807420
