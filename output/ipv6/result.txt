@@ -7,6 +7,8 @@ CCTV-1,https://cdn.qd.je/163189/cctv1
 CCTV-2,https://live.chinacert.cftest5.cn/cnmg/live/631780532
 CCTV-2,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv02jj
 CCTV-2,http://www.ikerobot.com:1234/631780532
+CCTV-2,http://go.bkpcp.top/mg/cctv2
+CCTV-2,http://m.061899.xyz/mg/cctv2
 CCTV-3,https://live.chinacert.cftest5.cn/cnmg/live/624878271
 CCTV-3,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv03zy
 CCTV-3,http://www.ikerobot.com:1234/624878271
@@ -1650,4 +1652,4 @@ S H E《4EVER世界巡回演唱会 完整版》珍藏版,https://vd3.bdstatic.co
 广*场*舞,#genre#
 
 🕘️更新时间,#genre#
-2026-09-26 15:38:14,https://live.chinacert.cftest5.cn/cnmg/live/608807420
+2026-09-27 15:41:26,https://live.chinacert.cftest5.cn/cnmg/live/608807420
