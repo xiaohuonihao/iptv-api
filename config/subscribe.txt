@@ -14,6 +14,8 @@
 # https://jsnzkpg.us.ci/live.m3u
 # https://iptv.catvod.com/kf/catvod.m3u
 # https://sports.jsnzkpg.ccwu.cc/live.m3u
+# https://perfecttv.net/PerfecttvFree.m3u
+# https://get.perfecttv.net/PerfecttvFree3.m3u
 https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.txt
 https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.txt
  https://18592.kstore.space/%E6%B5%8B%E8%AF%95/01.json
@@ -37,15 +39,13 @@ https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv
  https://ghfast.top/https://raw.githubusercontent.com/qingtingjjjjjjj/iptv-auto-update/refs/heads/main/my.txt
  https://ghfast.top/https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/zubo_all.txt
  https://123.tv1288.xyz/sm2.txt
- https://0419.xn--jfx065ba424q.top
 http://zb.1217188.xyz:2233/playlist.txt
 http://xtvantsc.xyz/MALAYSIA.m3u
 http://xtvantsc.xyz/1080.m3u
 http://xtvantsc.xyz/4gtv.txt
 https://wp.kayyw.com/f/lXjouz/sdhshskks.txt
 
-# https://perfecttv.net/PerfecttvFree.m3u
-# https://get.perfecttv.net/PerfecttvFree3.m3u
+ # https://0419.xn--jfx065ba424q.top
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
