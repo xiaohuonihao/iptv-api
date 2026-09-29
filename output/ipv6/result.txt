@@ -42,18 +42,23 @@ CCTV-7,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv7
 CCTV-8,https://live.chinacert.cftest5.cn/cnmg/live/624878356
 CCTV-8,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv08dsj
 CCTV-8,http://www.ikerobot.com:1234/624878356
+CCTV-8,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047437/main.m3u8
 CCTV-9,https://live.chinacert.cftest5.cn/cnmg/live/673168140
 CCTV-9,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv09jl
 CCTV-9,http://www.ikerobot.com:1234/673168140
+CCTV-9,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047438/main.m3u8
 CCTV-10,https://live.chinacert.cftest5.cn/cnmg/live/624878405
 CCTV-10,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv10jy
 CCTV-10,http://www.ikerobot.com:1234/624878405
+CCTV-10,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047439/main.m3u8
 CCTV-11,https://live.chinacert.cftest5.cn/cnmg/live/667987558
 CCTV-11,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv11xq
 CCTV-11,http://www.ikerobot.com:1234/667987558
+CCTV-11,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000026000000446966/main.m3u8
 CCTV-12,https://live.chinacert.cftest5.cn/cnmg/live/673168185
 CCTV-12,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv12sf
 CCTV-12,http://www.ikerobot.com:1234/673168185
+CCTV-12,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047440/main.m3u8
 CCTV-13,https://live.chinacert.cftest5.cn/cnmg/live/608807423
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8#http://tvbox6.icu/tv/migu.php?id=cctv13
 CCTV-13,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv13xw
@@ -79,6 +84,7 @@ CCTV-17,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051
 CCTV-17,http://www.ikerobot.com:1234/673168256
 CCTV-17,http://go.bkpcp.top/mg/cctv17
 CCTV-17,http://m.061899.xyz/mg/cctv17
+CCTV4K,http://tvgslb.hn.chinamobile.com:8089/180000001001/32023092211020848462000290559536/main.m3u8
 CCTV16 4K,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv16ay
 CCTV16 4K,https://cdn.qd.je/163189.php?id=cctv16
 CCTV16 4K,https://cdn.qd.je/163189.php?id=cctv16-2
@@ -87,12 +93,15 @@ CCTV16 4K,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv16
 CETV1,https://tv.gxtv.cn/channel/channelivePlay_ffa6b6e1b32b4a16a73eb3ef66f8bfc7.html
 CETV1,https://live.chinacert.cftest5.cn/cnmg/live/923287154
 CETV1,http://www.ikerobot.com:1234/923287154
+CETV1,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000016000000007220/main.m3u8
 CETV2,https://tv.gxtv.cn/channel/channelivePlay_80d0ffb42c114eaf9663708629ff0a3e.html
 CETV2,https://live.chinacert.cftest5.cn/cnmg/live/923287211
 CETV2,http://www.ikerobot.com:1234/923287211
+CETV2,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000024000000361367/main.m3u8
 CETV4,https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca90800fb4225.html
 CETV4,https://live.chinacert.cftest5.cn/cnmg/live/923287339
 CETV4,http://www.ikerobot.com:1234/923287339
+CETV4,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000024000000361368/main.m3u8
 cctv4欧洲,https://live.chinacert.cftest5.cn/cnmg/live/608807419
 cctv4欧洲,http://www.ikerobot.com:1234/608807419
 cctv4欧洲,http://go.bkpcp.top/mg/cctv4o
@@ -107,8 +116,10 @@ CGTN记录,http://www.ikerobot.com:1234/609006487
 CGTN俄语,https://live.chinacert.cftest5.cn/cnmg/live/609006446
 CGTN俄语,https://0472.org/hls/cgtne.m3u8
 CGTN俄语,https://0472.org/hls/cgtne.m3u8?3.24.170:5140
+CGTN俄语,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000071000000305589/main.m3u8
 CGTN法语,https://live.chinacert.cftest5.cn/cnmg/live/609006476
 CGTN法语,https://0472.org/hls/cgtnf.m3u8
+CGTN法语,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000071000000305586/main.m3u8
 CGTN西班牙语,https://live.chinacert.cftest5.cn/cnmg/live/609006450
 CGTN阿拉伯语,https://live.chinacert.cftest5.cn/cnmg/live/609154345
 CGTN阿拉伯语,https://dash3.antik.sk/live/test_cgtn_arb_tizen/playlist.m3u8
@@ -121,6 +132,7 @@ CCTV中学生,https://live.chinacert.cftest5.cn/cnmg/live/708869532
 山东卫视,https://live.douyin.com/235694078803
 山东卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsshandong
 山东卫视,http://gf.you123.fun:35455/itv/1000000005000265019.m3u8?cdn=ystenlive
+山东卫视,http://tvgslb.hn.chinamobile.com:8089/180000001001/32025091110262122088149630612658/main.m3u8
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8#https://play-qukan.cztv.com/live/1746687519046362.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,https://live.chinacert.cftest5.cn/zgst/live/zhejiang
 浙江卫视,http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
@@ -130,6 +142,7 @@ CCTV中学生,https://live.chinacert.cftest5.cn/cnmg/live/708869532
 湖南卫视,https://live.douyin.com/27594494041
 湖南卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wshunan
 湖南卫视,http://jp1.jdiptv.cc/live/hnwshd.m3u8?kdstime=1737444168&kdssign=717ad8ec225289b3d4d0f4784a5cecf9
+湖南卫视,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000064000000308827/main.m3u8
 北京卫视,https://live.chinacert.cftest5.cn/zgst/live/beijing
 北京卫视,https://live.douyin.com/497532580914
 北京卫视,https://live.douyin.com/87324405858
@@ -147,6 +160,7 @@ CCTV中学生,https://live.chinacert.cftest5.cn/cnmg/live/708869532
 安徽卫视,https://www.ahtv.cn/folder9000/folder20193?channelIndex=7
 天津卫视,https://live.chinacert.cftest5.cn/zgst/live/tianjin
 天津卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wstianjing
+天津卫视,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047444/main.m3u8
 重庆卫视,https://live.chinacert.cftest5.cn/zgst/live/zhongqing
 重庆卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC
 重庆卫视,https://live.chinacert.cftest5.cn/cnmg/live/738910914
@@ -165,6 +179,7 @@ CCTV中学生,https://live.chinacert.cftest5.cn/cnmg/live/708869532
 甘肃卫视,https://live.chinacert.cftest5.cn/zgst/live/gansu
 甘肃卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsgansu
 甘肃卫视,https://www.gstv.com.cn/zxc.jhtml#
+甘肃卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000133802/main.m3u8
 广西卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221226351/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 广西卫视,https://live.chinacert.cftest5.cn/zgst/live/guangxi
 广西卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsguangxi
@@ -174,6 +189,7 @@ CCTV中学生,https://live.chinacert.cftest5.cn/cnmg/live/708869532
 贵州卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsguizhou
 贵州卫视,http://m.061899.xyz/mg/gzws
 贵州卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=gzws
+贵州卫视,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000010000000040424/main.m3u8
 海南卫视,https://live.chinacert.cftest5.cn/zgst/live/hainan
 海南卫视,https://live.douyin.com/33068222133
 海南卫视,https://live.douyin.com/402523360291
@@ -257,6 +273,7 @@ CCTV中学生,https://live.chinacert.cftest5.cn/cnmg/live/708869532
 云南卫视,https://live.chinacert.cftest5.cn/zgst/live/yunnan
 云南卫视,https://www.yntv.cn/live.html
 云南卫视,https://live.ottiptv.cc/huya/11352910
+云南卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000090000000215606/main.m3u8
 新疆卫视,https://live.chinacert.cftest5.cn/zgst/live/xinjiang
 新疆卫视,http://gctxyc.liveplay.myqcloud.com/gc/xjtcdhsz_1/index.m3u8
 新疆卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsxinjiang
@@ -289,10 +306,28 @@ CCTV中学生,https://live.chinacert.cftest5.cn/cnmg/live/708869532
 中国天气,https://live.chinacert.cftest5.cn/cnmg/live/959986621
 
 高清频道,#genre#
+央视台球,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244803/main.m3u8
+电视指南,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244797/main.m3u8
+风云足球,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000091000000244800/main.m3u8
+女性时尚,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000091000000244811/main.m3u8
+第一剧场,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244808/main.m3u8
+风云剧场,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000091000000244807/main.m3u8
+风云音乐,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244809/main.m3u8
+怀旧剧场,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244806/main.m3u8
+高尔夫网球,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000091000000244801/main.m3u8
+文化精品,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244810/main.m3u8
+世界地理,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000091000000244805/main.m3u8
+兵器科技,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000091000000244796/main.m3u8
 老故事,https://live.chinacert.cftest5.cn/cnmg/live/884121956
 发现之旅,https://live.chinacert.cftest5.cn/cnmg/live/624878970
 中学生,https://live.chinacert.cftest5.cn/cnmg/live/708869532
+都市剧场,http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042210583485808646614571396/main.m3u8
+游戏风云,http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042211010049110856436458678/main.m3u8
+生活时尚,http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042211012947472200435228155/main.m3u8
+欢笑剧场,http://tvgslb.hn.chinamobile.com:8089/180000001002/32024042210575059626176209727023/main.m3u8
 快乐垂钓,https://live.chinacert.cftest5.cn/cnmg/live/961930263
+快乐垂钓,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040368/main.m3u8
+动漫秀场,http://tvgslb.hn.chinamobile.com:8089/180000001002/32024042210585548805959716256407/main.m3u8
 
 儿童频道,#genre#
 浙江少儿,https://www.cztv.com/liveTV/108
@@ -300,7 +335,10 @@ CCTV中学生,https://live.chinacert.cftest5.cn/cnmg/live/708869532
 浙江少儿,https://zwebl02.cztv.com/live/channel081080Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-668e5a5a00e74f14f426cc55210a4ff9
 嘉佳卡通,https://www.gdtv.cn/tvChannelDetail/66
 嘉佳卡通,https://live.chinacert.cftest5.cn/cnmg/live/614952364
+卡酷少儿,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000090000000215608/main.m3u8
 优漫卡通,https://live.chinacert.cftest5.cn/cnmg/live/626064703
+卡酷动画,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000090000000215608/main.m3u8
+金鹰卡通,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001247/main.m3u8
 新动漫,https://live.chinacert.cftest5.cn/cnmg/live/961930269
 喜羊羊与灰太狼,https://live.ottiptv.cc/huya/23865080
 猫和老鼠,https://live.metshop.top/huya/11352879
@@ -331,6 +369,7 @@ CCTV-5+,http://www.ikerobot.com:1234/641886773
 五星体育,https://cdn.qd.je/163189.php?id=wxty
 劲爆体育,http://m.061899.xyz/mg/jbty
 劲爆体育,http://t.061899.xyz/tl/dq.php?id=jbty
+精品体育,http://tvgslb.hn.chinamobile.com:8089/000000002000/6460382139625130259/1.m3u8
 深圳体育,https://www.sztv.com.cn/pindao/index.html?id=24725
 深圳体育,https://www.sztv.com.cn/pindao/index.html?id=7867
 深圳体育,https://www.sztv.com.cn/pindao/index.html?id=7868
@@ -348,11 +387,15 @@ CCTV-5+,http://www.ikerobot.com:1234/641886773
 吉林篮球,https://live.chinacert.cftest5.cn/cnmg/live/947472500
 吉林篮球,http://www.ikerobot.com:1234/947472500
 吉林篮球,http://m.061899.xyz/mg/jlws
+睛彩篮球,http://tvgslb.hn.chinamobile.com:8089/000000002000/1000000006000270002/1.m3u8
+风云足球,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000091000000244800/main.m3u8
 博斯高球,https://hb.msbot.dpdns.org/?id=sportcast-golf
 博斯网球,https://cdn.19891230.eu.org/4gtv/litv-xinchuang09/index.m3u8
 博斯网球,https://hb.msbot.dpdns.org/?id=sportcast-tennis
 智林体育,https://hb.msbot.dpdns.org/?id=oursport
+天元围棋,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000010000000040365/main.m3u8
 快乐垂钓,https://live.chinacert.cftest5.cn/cnmg/live/961930263
+快乐垂钓,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040368/main.m3u8
 JJ斗地主,https://cdn.ttvb.eu.org/bilibili/22021983
 
 香港频道,#genre#
@@ -714,6 +757,7 @@ SMArt知识,https://brightstar-sls-pull-secure.akamaized.net/brightstarsls/strea
 智林体育,https://hb.msbot.dpdns.org/?id=oursport
 
 综艺频道,#genre#
+金牌综艺,http://tvgslb.hn.chinamobile.com:8089/000000002000/6399725674632152632/1.m3u8
 欢乐集结号,https://live.ottiptv.cc/yy/1354931582
 欢乐集结号,https://live.ottiptv.cc/yy/1382735550
 笑傲江湖 第1季,https://live.ottiptv.cc/yy/1382749896
@@ -739,6 +783,7 @@ SMArt知识,https://brightstar-sls-pull-secure.akamaized.net/brightstarsls/strea
 超异能族,https://live.ottiptv.cc/huya/21059586
 古墓系列,https://live.metshop.top/huya/11352913
 动作电影,https://live.ottiptv.cc/huya/11602077
+动作电影,http://tvgslb.hn.chinamobile.com:8089/000000002000/8103864434730665389/1.m3u8
 国产悬疑,https://live.ottiptv.cc/huya/11342395
 赌片,https://live.metshop.top/huya/11342399
 科幻动作,https://live.metshop.top/huya/11352964
@@ -748,8 +793,16 @@ SMArt知识,https://brightstar-sls-pull-secure.akamaized.net/brightstarsls/strea
 灾难片,https://live.metshop.top/huya/11602075
 贺岁合家欢剧场,https://live.metshop.top/huya/11602067
 历年贺岁档,https://live.metshop.top/huya/11601986
+惊悚悬疑,http://tvgslb.hn.chinamobile.com:8089/000000002000/7151256057701199617/1.m3u8
+军旅剧场,http://tvgslb.hn.chinamobile.com:8089/000000002000/7485075951068666323/1.m3u8
+精品大剧,http://tvgslb.hn.chinamobile.com:8089/000000002000/7882297361445410858/1.m3u8
+古装剧场,http://tvgslb.hn.chinamobile.com:8089/000000002000/6859053933687922163/1.m3u8
+爱情喜剧,http://tvgslb.hn.chinamobile.com:8089/000000002000/8393829412396288037/1.m3u8
+家庭剧场,http://tvgslb.hn.chinamobile.com:8089/000000002000/6316377948248689070/1.m3u8
 武搏世界,https://live.chinacert.cftest5.cn/cnmg/live/958475359
 武搏世界,https://tv1288.xyz/hntv.php?id=wspd
+武搏世界,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000064000000308859/main.m3u8
+中国功夫,http://tvgslb.hn.chinamobile.com:8089/000000002000/5897056882324761054/1.m3u8
 猫和老鼠,https://live.metshop.top/huya/11352879
 猫和老鼠,https://live.ottiptv.cc/huya/11352879
 
@@ -766,6 +819,7 @@ SMArt知识,https://brightstar-sls-pull-secure.akamaized.net/brightstarsls/strea
 山东卫视,https://live.douyin.com/235694078803
 山东卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsshandong
 山东卫视,http://gf.you123.fun:35455/itv/1000000005000265019.m3u8?cdn=ystenlive
+山东卫视,http://tvgslb.hn.chinamobile.com:8089/180000001001/32025091110262122088149630612658/main.m3u8
 山东教育,https://live.chinacert.cftest5.cn/cnmg/live/609154353
 临沂公共,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel113571/playlist.m3u8
 
@@ -782,6 +836,8 @@ SMArt知识,https://brightstar-sls-pull-secure.akamaized.net/brightstarsls/strea
 北京财经,http://m.061899.xyz/mg/bjcj
 北京生活,http://m.061899.xyz/mg/bjsh
 北京纪实科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
+北京纪实科教,http://tvgslb.hn.chinamobile.com:8089/180000001002/32024021915401878655075619734783/main.m3u8
+北京卡酷少儿,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000090000000215608/main.m3u8
 北京淘娱乐,https://live.chinacert.cftest5.cn/zgst/live/beijing
 北京淘娱乐,https://live.douyin.com/497532580914
 北京淘娱乐,https://live.douyin.com/87324405858
@@ -807,6 +863,8 @@ SMArt知识,https://brightstar-sls-pull-secure.akamaized.net/brightstarsls/strea
 北京萌宠TV,https://live.douyin.com/87324405858
 北京萌宠TV,https://live.douyin.com/678544089361
 北京萌宠TV,https://live.ottiptv.cc/yy/1382744423
+睛彩竞技,http://tvgslb.hn.chinamobile.com:8089/000000002000/1000000006000270001/1.m3u8
+睛彩篮球,http://tvgslb.hn.chinamobile.com:8089/000000002000/1000000006000270002/1.m3u8
 
 上海,#genre#
 东方卫视,https://live.chinacert.cftest5.cn/zgst/live/dongfang
@@ -836,6 +894,11 @@ SMArt知识,https://brightstar-sls-pull-secure.akamaized.net/brightstarsls/strea
 东方财经,http://jsmov2.a.yximgs.com/bs3/video-hls/5222205346628851891_hlsb.m3u8
 东方财经,http://jsmov2.a.yximgs.com/bs3/video-hls/5218546164654879826_hlsb.m3u8
 东方财经,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsdongfang
+动漫秀场,http://tvgslb.hn.chinamobile.com:8089/180000001002/32024042210585548805959716256407/main.m3u8
+欢笑剧场,http://tvgslb.hn.chinamobile.com:8089/180000001002/32024042210575059626176209727023/main.m3u8
+法治天地,http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042210594333901402503226852/main.m3u8
+生活时尚,http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042211012947472200435228155/main.m3u8
+都市剧场,http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042210583485808646614571396/main.m3u8
 崇明电视台,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8?zshangd
 
 广东,#genre#
@@ -902,10 +965,45 @@ SMArt知识,https://brightstar-sls-pull-secure.akamaized.net/brightstarsls/strea
 湖南卫视,https://live.douyin.com/27594494041
 湖南卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wshunan
 湖南卫视,http://jp1.jdiptv.cc/live/hnwshd.m3u8?kdstime=1737444168&kdssign=717ad8ec225289b3d4d0f4784a5cecf9
+湖南卫视,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000064000000308827/main.m3u8
+湖南经视,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000002000000113182/main.m3u8
+湖南都市,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001249/main.m3u8
+湖南娱乐,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001248/main.m3u8
+湖南爱晚,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047425/main.m3u8
+湖南电影,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001246/main.m3u8
+湖南电视剧,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001245/main.m3u8
 湖南国际,https://tv.media4u.top:443/live/media4u/media4u/958209
+湖南国际,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047426/main.m3u8
+湖南教育,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000023000000196697/main.m3u8
+湖南金鹰纪实,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000016000000007228/main.m3u8
+湖南金鹰卡通,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001247/main.m3u8
 长沙新闻综合,https://live.mgtv.com/?channelId=269
+长沙新闻综合,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047429/main.m3u8
 长沙政法,https://live.mgtv.com/?channelId=254
+长沙政法,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047430/main.m3u8
+株洲新闻综合,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047450/main.m3u8
+株洲公共,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047450/main.m3u8
 邵阳新闻综合,https://live2.sytv.net.cn/xwzh/playlist.m3u8?sign=ac8d4f8b86ba75dfe5673bfb49d3563d&t=1739959818
+岳阳新闻综合,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000015000000071030/main.m3u8
+岳阳新闻综合,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000015000000071035/main.m3u8
+岳阳公共,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000015000000071030/main.m3u8
+岳阳公共,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000015000000071035/main.m3u8
+常德新闻综合,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000014000000153736/main.m3u8
+常德公共,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000014000000153736/main.m3u8
+张家界新闻综合,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000024000000270433/main.m3u8
+张家界公共,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000024000000270433/main.m3u8
+郴州新闻综合,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000031000000253555/main.m3u8
+郴州公共,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000031000000253555/main.m3u8
+永州新闻综合,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000070000000360264/main.m3u8
+永州公共,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000070000000360264/main.m3u8
+怀化新闻综合,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000016000000287147/main.m3u8
+怀化公共,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000016000000287147/main.m3u8
+湘西新闻综合,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000016000000007222/main.m3u8
+湘西新闻综合,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000016000000007221/main.m3u8
+湘西公共,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000016000000007222/main.m3u8
+湘西公共,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000016000000007221/main.m3u8
+岳阳县综合,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000015000000071030/main.m3u8
+岳阳县综合,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000015000000071035/main.m3u8
 
 浙江,#genre#
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8#https://play-qukan.cztv.com/live/1746687519046362.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
@@ -1076,14 +1174,19 @@ SMArt知识,https://brightstar-sls-pull-secure.akamaized.net/brightstarsls/strea
 天津,#genre#
 天津卫视,https://live.chinacert.cftest5.cn/zgst/live/tianjin
 天津卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wstianjing
+天津卫视,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047444/main.m3u8
 天津交通,https://live.chinacert.cftest5.cn/zgst/live/tianjin
 天津交通,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wstianjing
+天津交通,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047444/main.m3u8
 天津生活,https://live.chinacert.cftest5.cn/zgst/live/tianjin
 天津生活,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wstianjing
+天津生活,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047444/main.m3u8
 天津公共,https://live.chinacert.cftest5.cn/zgst/live/tianjin
 天津公共,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wstianjing
+天津公共,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047444/main.m3u8
 天津移动,https://live.chinacert.cftest5.cn/zgst/live/tianjin
 天津移动,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wstianjing
+天津移动,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047444/main.m3u8
 河北综合,https://event.pull.hebtv.com:443/live/live101.m3u8
 河北综合,https://live.chinacert.cftest5.cn/zgst/live/hebei
 河北综合,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wshebei
@@ -1513,11 +1616,13 @@ SMArt知识,https://brightstar-sls-pull-secure.akamaized.net/brightstarsls/strea
 甘肃卫视,https://live.chinacert.cftest5.cn/zgst/live/gansu
 甘肃卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsgansu
 甘肃卫视,https://www.gstv.com.cn/zxc.jhtml#
+甘肃卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000133802/main.m3u8
 
 云南,#genre#
 云南卫视,https://live.chinacert.cftest5.cn/zgst/live/yunnan
 云南卫视,https://www.yntv.cn/live.html
 云南卫视,https://live.ottiptv.cc/huya/11352910
+云南卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000090000000215606/main.m3u8
 红河新闻,https://www.hh.cn/ynhhzMini/site/tv
 文山新闻,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8
 文山新闻,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
@@ -1548,6 +1653,7 @@ SMArt知识,https://brightstar-sls-pull-secure.akamaized.net/brightstarsls/strea
 贵州卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsguizhou
 贵州卫视,http://m.061899.xyz/mg/gzws
 贵州卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=gzws
+贵州卫视,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000010000000040424/main.m3u8
 安顺新闻,http://d8337dc9e1a310c72a757e8923c12378.livehwc3.cn/hplayer1.juyun.tv/camera/154379194.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=be4e05d8e040704291b38f444ed848f9
 安顺新闻,http://d8337dc9e1a310c72a757e8923c12378.livehwc3.cn/hplayer1.juyun.tv/camera/154526164.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=0b8a2d4b9746a9d0760bf6d48ec798b4
 
@@ -1652,4 +1758,4 @@ S H E《4EVER世界巡回演唱会 完整版》珍藏版,https://vd3.bdstatic.co
 广*场*舞,#genre#
 
 🕘️更新时间,#genre#
-2026-09-28 15:50:03,https://live.chinacert.cftest5.cn/cnmg/live/608807420
+2026-09-29 15:52:25,https://live.chinacert.cftest5.cn/cnmg/live/608807420
