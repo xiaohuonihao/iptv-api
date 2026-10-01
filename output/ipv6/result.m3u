@@ -87,6 +87,8 @@ http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5re
 http://www.ikerobot.com:1234/624878356
 #EXTINF:-1 tvg-id="CCTV-8" tvg-name="CCTV-8" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-8.png" group-title="央视频道",CCTV-8
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047437/main.m3u8
+#EXTINF:-1 tvg-id="CCTV-8" tvg-name="CCTV-8" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-8.png" group-title="央视频道",CCTV-8
+http://home.kqysw.com:4000/udp/239.69.1.125:10388
 #EXTINF:-1 tvg-id="CCTV-9" tvg-name="CCTV-9" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-9.png" group-title="央视频道",CCTV-9
 https://live.chinacert.cftest5.cn/cnmg/live/673168140
 #EXTINF:-1 tvg-id="CCTV-9" tvg-name="CCTV-9" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-9.png" group-title="央视频道",CCTV-9
@@ -95,6 +97,8 @@ http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5re
 http://www.ikerobot.com:1234/673168140
 #EXTINF:-1 tvg-id="CCTV-9" tvg-name="CCTV-9" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-9.png" group-title="央视频道",CCTV-9
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047438/main.m3u8
+#EXTINF:-1 tvg-id="CCTV-9" tvg-name="CCTV-9" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-9.png" group-title="央视频道",CCTV-9
+http://home.kqysw.com:4000/udp/239.69.1.104:10262
 #EXTINF:-1 tvg-id="CCTV-10" tvg-name="CCTV-10" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-10.png" group-title="央视频道",CCTV-10
 https://live.chinacert.cftest5.cn/cnmg/live/624878405
 #EXTINF:-1 tvg-id="CCTV-10" tvg-name="CCTV-10" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-10.png" group-title="央视频道",CCTV-10
@@ -103,6 +107,8 @@ http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5re
 http://www.ikerobot.com:1234/624878405
 #EXTINF:-1 tvg-id="CCTV-10" tvg-name="CCTV-10" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-10.png" group-title="央视频道",CCTV-10
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047439/main.m3u8
+#EXTINF:-1 tvg-id="CCTV-10" tvg-name="CCTV-10" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-10.png" group-title="央视频道",CCTV-10
+http://home.kqysw.com:4000/udp/239.69.1.105:10268
 #EXTINF:-1 tvg-id="CCTV-11" tvg-name="CCTV-11" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-11.png" group-title="央视频道",CCTV-11
 https://live.chinacert.cftest5.cn/cnmg/live/667987558
 #EXTINF:-1 tvg-id="CCTV-11" tvg-name="CCTV-11" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-11.png" group-title="央视频道",CCTV-11
@@ -111,6 +117,8 @@ http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5re
 http://www.ikerobot.com:1234/667987558
 #EXTINF:-1 tvg-id="CCTV-11" tvg-name="CCTV-11" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-11.png" group-title="央视频道",CCTV-11
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000026000000446966/main.m3u8
+#EXTINF:-1 tvg-id="CCTV-11" tvg-name="CCTV-11" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-11.png" group-title="央视频道",CCTV-11
+http://home.kqysw.com:4000/udp/239.69.1.154:10560
 #EXTINF:-1 tvg-id="CCTV-12" tvg-name="CCTV-12" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-12.png" group-title="央视频道",CCTV-12
 https://live.chinacert.cftest5.cn/cnmg/live/673168185
 #EXTINF:-1 tvg-id="CCTV-12" tvg-name="CCTV-12" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-12.png" group-title="央视频道",CCTV-12
@@ -119,6 +127,8 @@ http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5re
 http://www.ikerobot.com:1234/673168185
 #EXTINF:-1 tvg-id="CCTV-12" tvg-name="CCTV-12" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-12.png" group-title="央视频道",CCTV-12
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047440/main.m3u8
+#EXTINF:-1 tvg-id="CCTV-12" tvg-name="CCTV-12" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-12.png" group-title="央视频道",CCTV-12
+http://home.kqysw.com:4000/udp/239.69.1.106:10274
 #EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV-13" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-13.png" group-title="央视频道",CCTV-13
 https://live.chinacert.cftest5.cn/cnmg/live/608807423
 #EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV-13" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-13.png" group-title="央视频道",CCTV-13
@@ -171,6 +181,8 @@ http://go.bkpcp.top/mg/cctv17
 http://m.061899.xyz/mg/cctv17
 #EXTINF:-1 tvg-id="CCTV-4K" tvg-name="CCTV4K" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV4K.png" group-title="央视频道",CCTV4K
 http://tvgslb.hn.chinamobile.com:8089/180000001001/32023092211020848462000290559536/main.m3u8
+#EXTINF:-1 tvg-id="CCTV-4K" tvg-name="CCTV4K" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV4K.png" group-title="央视频道",CCTV4K
+http://home.kqysw.com:4000/udp/239.69.1.111:10304
 #EXTINF:-1 tvg-id="CCTV-16" tvg-name="CCTV16 4K" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV16 4K.png" group-title="央视频道",CCTV16 4K
 http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv16ay
 #EXTINF:-1 tvg-id="CCTV-16" tvg-name="CCTV16 4K" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV16 4K.png" group-title="央视频道",CCTV16 4K
@@ -211,16 +223,22 @@ https://live.chinacert.cftest5.cn/cnmg/live/608807419
 http://www.ikerobot.com:1234/608807419
 #EXTINF:-1 tvg-id="CCTV4欧洲" tvg-name="cctv4欧洲" tvg-logo="https://www.xn--rgv465a.top/tvlogo/cctv4欧洲.png" group-title="央视频道",cctv4欧洲
 http://go.bkpcp.top/mg/cctv4o
+#EXTINF:-1 tvg-id="CCTV4欧洲" tvg-name="cctv4欧洲" tvg-logo="https://www.xn--rgv465a.top/tvlogo/cctv4欧洲.png" group-title="央视频道",cctv4欧洲
+http://home.kqysw.com:4000/udp/239.69.1.231:11028
 #EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="cctv4美洲" tvg-logo="https://www.xn--rgv465a.top/tvlogo/cctv4美洲.png" group-title="央视频道",cctv4美洲
 https://live.chinacert.cftest5.cn/cnmg/live/608807416
 #EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="cctv4美洲" tvg-logo="https://www.xn--rgv465a.top/tvlogo/cctv4美洲.png" group-title="央视频道",cctv4美洲
 http://www.ikerobot.com:1234/608807416
 #EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="cctv4美洲" tvg-logo="https://www.xn--rgv465a.top/tvlogo/cctv4美洲.png" group-title="央视频道",cctv4美洲
 http://go.bkpcp.top/mg/cctv4m
+#EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="cctv4美洲" tvg-logo="https://www.xn--rgv465a.top/tvlogo/cctv4美洲.png" group-title="央视频道",cctv4美洲
+http://home.kqysw.com:4000/udp/239.69.1.232:11034
 #EXTINF:-1 tvg-id="CGTN英语" tvg-name="CGTN英语" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CGTN英语.png" group-title="央视频道",CGTN英语
 https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 #EXTINF:-1 tvg-id="CGTN英语" tvg-name="CGTN英语" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CGTN英语.png" group-title="央视频道",CGTN英语
 https://0472.org/hls/cgtn.m3u8
+#EXTINF:-1 tvg-id="CGTN英语" tvg-name="CGTN英语" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CGTN英语.png" group-title="央视频道",CGTN英语
+http://home.kqysw.com:4000/udp/239.254.97.175:9124
 #EXTINF:-1 tvg-id="CGTN记录" tvg-name="CGTN记录" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CGTN记录.png" group-title="央视频道",CGTN记录
 https://0472.org/hls/cgtnd.m3u8?3.24.120:5140
 #EXTINF:-1 tvg-id="CGTN记录" tvg-name="CGTN记录" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CGTN记录.png" group-title="央视频道",CGTN记录
@@ -235,18 +253,26 @@ https://0472.org/hls/cgtne.m3u8
 https://0472.org/hls/cgtne.m3u8?3.24.170:5140
 #EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CGTN俄语.png" group-title="央视频道",CGTN俄语
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000071000000305589/main.m3u8
+#EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CGTN俄语.png" group-title="央视频道",CGTN俄语
+http://home.kqysw.com:4000/udp/239.69.1.222:10974
 #EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CGTN法语.png" group-title="央视频道",CGTN法语
 https://live.chinacert.cftest5.cn/cnmg/live/609006476
 #EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CGTN法语.png" group-title="央视频道",CGTN法语
 https://0472.org/hls/cgtnf.m3u8
 #EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CGTN法语.png" group-title="央视频道",CGTN法语
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000071000000305586/main.m3u8
+#EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CGTN法语.png" group-title="央视频道",CGTN法语
+http://home.kqysw.com:4000/udp/239.69.1.235:11052
 #EXTINF:-1 tvg-id="CGTN西班牙语" tvg-name="CGTN西班牙语" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CGTN西班牙语.png" group-title="央视频道",CGTN西班牙语
 https://live.chinacert.cftest5.cn/cnmg/live/609006450
+#EXTINF:-1 tvg-id="CGTN西班牙语" tvg-name="CGTN西班牙语" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CGTN西班牙语.png" group-title="央视频道",CGTN西班牙语
+http://home.kqysw.com:4000/udp/239.69.1.234:11046
 #EXTINF:-1 tvg-id="CGTN阿拉伯语" tvg-name="CGTN阿拉伯语" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CGTN阿拉伯语.png" group-title="央视频道",CGTN阿拉伯语
 https://live.chinacert.cftest5.cn/cnmg/live/609154345
 #EXTINF:-1 tvg-id="CGTN阿拉伯语" tvg-name="CGTN阿拉伯语" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CGTN阿拉伯语.png" group-title="央视频道",CGTN阿拉伯语
 https://dash3.antik.sk/live/test_cgtn_arb_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTN阿拉伯语" tvg-name="CGTN阿拉伯语" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CGTN阿拉伯语.png" group-title="央视频道",CGTN阿拉伯语
+http://home.kqysw.com:4000/udp/239.69.1.221:10968
 #EXTINF:-1 tvg-id="CCTV发现之旅" tvg-name="CCTV发现之旅" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV发现之旅.png" group-title="央视频道",CCTV发现之旅
 https://live.chinacert.cftest5.cn/cnmg/live/624878970
 #EXTINF:-1 tvg-id="CCTV老故事" tvg-name="CCTV老故事" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV老故事.png" group-title="央视频道",CCTV老故事
@@ -319,6 +345,10 @@ https://live.chinacert.cftest5.cn/zgst/live/tianjin
 http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wstianjing
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天津卫视.png" group-title="卫视频道",天津卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047444/main.m3u8
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天津卫视.png" group-title="卫视频道",天津卫视
+http://m.061899.xyz/mg/tjws
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天津卫视.png" group-title="卫视频道",天津卫视
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=tjws
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/重庆卫视.png" group-title="卫视频道",重庆卫视
 https://live.chinacert.cftest5.cn/zgst/live/zhongqing
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/重庆卫视.png" group-title="卫视频道",重庆卫视
@@ -2272,30 +2302,50 @@ https://live.chinacert.cftest5.cn/zgst/live/tianjin
 http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wstianjing
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天津卫视.png" group-title="天津",天津卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047444/main.m3u8
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天津卫视.png" group-title="天津",天津卫视
+http://m.061899.xyz/mg/tjws
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天津卫视.png" group-title="天津",天津卫视
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=tjws
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津交通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天津交通.png" group-title="天津",天津交通
 https://live.chinacert.cftest5.cn/zgst/live/tianjin
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津交通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天津交通.png" group-title="天津",天津交通
 http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wstianjing
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津交通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天津交通.png" group-title="天津",天津交通
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047444/main.m3u8
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津交通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天津交通.png" group-title="天津",天津交通
+http://m.061899.xyz/mg/tjws
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津交通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天津交通.png" group-title="天津",天津交通
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=tjws
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津生活" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天津生活.png" group-title="天津",天津生活
 https://live.chinacert.cftest5.cn/zgst/live/tianjin
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津生活" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天津生活.png" group-title="天津",天津生活
 http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wstianjing
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津生活" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天津生活.png" group-title="天津",天津生活
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047444/main.m3u8
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津生活" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天津生活.png" group-title="天津",天津生活
+http://m.061899.xyz/mg/tjws
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津生活" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天津生活.png" group-title="天津",天津生活
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=tjws
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津公共" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天津公共.png" group-title="天津",天津公共
 https://live.chinacert.cftest5.cn/zgst/live/tianjin
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津公共" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天津公共.png" group-title="天津",天津公共
 http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wstianjing
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津公共" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天津公共.png" group-title="天津",天津公共
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047444/main.m3u8
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津公共" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天津公共.png" group-title="天津",天津公共
+http://m.061899.xyz/mg/tjws
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津公共" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天津公共.png" group-title="天津",天津公共
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=tjws
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津移动" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天津移动.png" group-title="天津",天津移动
 https://live.chinacert.cftest5.cn/zgst/live/tianjin
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津移动" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天津移动.png" group-title="天津",天津移动
 http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wstianjing
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津移动" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天津移动.png" group-title="天津",天津移动
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047444/main.m3u8
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津移动" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天津移动.png" group-title="天津",天津移动
+http://m.061899.xyz/mg/tjws
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津移动" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天津移动.png" group-title="天津",天津移动
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=tjws
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河北综合.png" group-title="天津",河北综合
 https://event.pull.hebtv.com:443/live/live101.m3u8
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河北综合.png" group-title="天津",河北综合
@@ -3322,5 +3372,5 @@ https://vd3.bdstatic.com/mda-pac5q1he7r5wjykx/576p/h264/1673583274906869271/mda-
 https://vd3.bdstatic.com/mda-nmkefmyd0arci215/576p/h264/1671618057578437373/mda-nmkefmyd0arci215.mp4
 #EXTINF:-1 tvg-id="宝丽金《成立20周年 1990群星演唱会完整版》" tvg-name="宝丽金《成立20周年 1990群星演唱会完整版》" tvg-logo="https://www.xn--rgv465a.top/tvlogo/宝丽金《成立20周年 1990群星演唱会完整版》.png" group-title="演*唱*会",宝丽金《成立20周年 1990群星演唱会完整版》
 https://vd3.bdstatic.com/mda-pbp4sapcn5kmpxhg/hd/cae_h264/1677214872094217006/mda-pbp4sapcn5kmpxhg.mp4
-#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-09-30 15:49:30
+#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-10-01 16:19:55
 https://live.chinacert.cftest5.cn/cnmg/live/608807420
