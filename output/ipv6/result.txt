@@ -119,6 +119,7 @@ cctv4美洲,http://home.kqysw.com:4000/udp/239.69.1.232:11034
 CGTN英语,https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 CGTN英语,https://0472.org/hls/cgtn.m3u8
 CGTN英语,http://home.kqysw.com:4000/udp/239.254.97.175:9124
+CGTN英语,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 CGTN记录,https://0472.org/hls/cgtnd.m3u8?3.24.120:5140
 CGTN记录,https://0472.org/hls/cgtnd.m3u8
 CGTN记录,http://www.ikerobot.com:1234/609006487
@@ -590,16 +591,23 @@ ViuTV,https://cdn.qd.je/163189.php?id=viu
 台视新闻,https://tv.media4u.top:443/live/media4u/media4u/864155
 中视新闻,https://4gtv.158.qzz.io/163189/1a62f7fd-8d11-4540-a6c7-ae34d9f059ee/
 中视新闻,http://4gtv.cnlive.club/channel/7e6461d6/index.m3u8?q=1782639885837
+中视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ctvnewsqt/playlist.m3u8
 华视新闻,http://4gtv.cnlive.club/channel/n692bc32c/index.m3u8?q=1782639885837
+华视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ctsnewsqt/playlist.m3u8
 民视新闻,http://4gtv.cnlive.club/channel/nca14742/index.m3u8?q=1782639885837
 民视新闻,https://hb.msbot.dpdns.org/?id=ftv-news
+民视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ftvnewsqt/playlist.m3u8
+三立新闻,https://d2jc41c1shgcol.cloudfront.net/live/iNEWS/playlist.m3u8
 TVBS新闻,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv072
 TVBS新闻,http://4gtv.cnlive.club/channel/n1ea96b20/index.m3u8?q=1782639885837
+TVBS新闻,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 东森新闻,http://4gtv.cnlive.club/channel/n5ca63a3a/index.m3u8?q=1782639885837
 东森新闻,https://hb.msbot.dpdns.org/?id=ebc-news
+东森新闻,https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
 中天新闻,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv009/index.m3u8
 中天新闻,http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1782639885837
 中天新闻,https://pulltest-gem.alivecdn.com/live/ogVoQHdl8jVsdsH4o82zYFquhPEy4XWeWisjW2fHs4Oew26P63.flv
+中天新闻,https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
 寰宇新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 寰宇新闻,http://4gtv.cnlive.club/channel/n4da4274/index.m3u8?q=1782639885837
 年代新闻,https://cdn.19891230.eu.org/api/Era-News/index.m3u8
@@ -1783,4 +1791,4 @@ S H E《4EVER世界巡回演唱会 完整版》珍藏版,https://vd3.bdstatic.co
 广*场*舞,#genre#
 
 🕘️更新时间,#genre#
-2026-10-04 16:43:26,https://live.chinacert.cftest5.cn/cnmg/live/608807420
+2026-10-05 16:16:16,https://live.chinacert.cftest5.cn/cnmg/live/608807420
