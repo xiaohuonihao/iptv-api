@@ -132,6 +132,7 @@ CGTN法语,https://live.chinacert.cftest5.cn/cnmg/live/609006476
 CGTN法语,https://0472.org/hls/cgtnf.m3u8
 CGTN法语,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000071000000305586/main.m3u8
 CGTN法语,http://home.kqysw.com:4000/udp/239.69.1.235:11052
+CGTN法语,http://go.bkpcp.top/mg/cgtnf
 CGTN西班牙语,https://live.chinacert.cftest5.cn/cnmg/live/609006450
 CGTN西班牙语,http://home.kqysw.com:4000/udp/239.69.1.234:11046
 CGTN阿拉伯语,https://live.chinacert.cftest5.cn/cnmg/live/609154345
@@ -1791,4 +1792,4 @@ S H E《4EVER世界巡回演唱会 完整版》珍藏版,https://vd3.bdstatic.co
 广*场*舞,#genre#
 
 🕘️更新时间,#genre#
-2026-10-05 16:16:16,https://live.chinacert.cftest5.cn/cnmg/live/608807420
+2026-10-06 16:37:32,https://live.chinacert.cftest5.cn/cnmg/live/608807420
