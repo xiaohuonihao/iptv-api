@@ -17,6 +17,7 @@
 # https://perfecttv.net/PerfecttvFree.m3u
 # https://get.perfecttv.net/PerfecttvFree3.m3u
  # https://0419.xn--jfx065ba424q.top
+# http://zb.1217188.xyz:2233/playlist.txt
 https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.txt
 https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.txt
  https://18592.kstore.space/%E6%B5%8B%E8%AF%95/01.json
@@ -25,8 +26,6 @@ https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv
  https://bitbucket.org/guot55/bhmb/raw/66cbebc3b012fd4f86a607ccc78428ef3fd776a9/TVBoxOSC/ysp.txt
  https://cnb.cool/fgvss/dszb1/-/git/raw/main/zbtv30.txt
  https://cnb.cool/fgvss/zbds/-/git/raw/main/zbtvupan.txt
- http://rihou.cc:555/gggg.nzk
- http://rihou.cc:567/gggg.nzk
  https://gh-proxy.org/https://raw.githubusercontent.com/cs3306/IPTV-Sources/refs/heads/main/data/output/iptv_collection.m3u
  https://raw.githubusercontent.com/tianze889/vbd/refs/heads/main/zbdsj0515.txt
  https://gh-proxy.org/https://raw.githubusercontent.com/qingtingjjjjjjj/iptv-auto-update/refs/heads/main/my.txt
@@ -45,7 +44,8 @@ http://xtvantsc.xyz/1080.m3u
 http://xtvantsc.xyz/4gtv.txt
 https://wp.kayyw.com/f/lXjouz/sdhshskks.txt
 
-# http://zb.1217188.xyz:2233/playlist.txt
+ # http://rihou.cc:555/gggg.nzk
+ # http://rihou.cc:567/gggg.nzk
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
